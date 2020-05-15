@@ -3,4 +3,3 @@ const helper = require('../lib/main.js');
   const subredditName = 'DnDIY';
   await helper.updateSubredditData(subredditName);
 })();
-

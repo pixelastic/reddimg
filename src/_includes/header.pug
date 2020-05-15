@@ -2,7 +2,7 @@
   .flrw.flral.h-100p.flc.px-1.md_px-2
     //- Title
     .fln.bold.white.text-6.flral.flrnw.flc.h-8
-      a(href=url.base) Norska
+      a(href=url.base) Reddimg
     //- Hamburger menu
     .fla.flrnw.flrar.md_hidden
       label.fill-current.border.rounded.p-02.pointer.hover_white(for="switch-1")
@@ -13,7 +13,6 @@
     input.switch-1(type="checkbox" id="switch-1")
     .fln.w-100p.hidden.switch-1_flex.md_flex.md_fla.md_w-auto
      .fla.flcnw.white.text-4.md_flrnw.md_flrar.md_flc.pb-1.sm_pb-0
-       a.px-02.py-01.md_px-1.rounded-3.hover_bg-black.bg-opacity-50p(href="/") One
-       a.px-02.py-01.md_px-1.rounded-3.hover_bg-black.bg-opacity-50p(href="/") Two
-       a.px-02.py-01.md_px-1.rounded-3.hover_bg-black.bg-opacity-50p(href="/") Three
+       each subreddit in data.site.subreddits
+         a.px-02.py-01.md_px-1.rounded-3.hover_bg-black.bg-opacity-50p(href=`/${subreddit}/`)=subreddit
 
