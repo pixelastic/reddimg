@@ -6,4 +6,12 @@ block config
   //- see also: pageAuthor, pageImage, pageTwitter, pageUrl
 
 block content
-  p This is your website
+  each subreddit, name in data
+    h2.text-5.bold=name
+    .flrw
+      each post in subreddit
+        if post.images
+          each image in post.images
+            .fln.w-33p
+              a(href=post.url) 
+                img(src=image)
