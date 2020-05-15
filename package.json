@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "@octokit/rest": "17.9.0",
     "aberlaas": "1.4.2",
     "algolia-indexing": "0.0.8",
     "firost": "1.5.0",
@@ -22,7 +23,8 @@
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch",
     "data:update": "node ./scripts/data-update.js",
-    "data:indexing": "node ./scripts/data-indexing.js"
+    "data:indexing": "node ./scripts/data-indexing.js",
+    "ci:dailyUpdate": "node ./scripts/ci-dailyUpdate.js"
   },
   "version": "0.0.1"
 }

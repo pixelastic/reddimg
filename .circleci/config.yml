@@ -4,6 +4,18 @@ aliases:
   - &defaults
     docker:
       - image: circleci/node:12.12.0
+  # Git needs to know email and name so it can push commits
+  - &configure_git
+    run:
+      name: 'Configuring git'
+      command: |
+        git config --global user.email "tim@pixelastic.com"
+        git config --global user.name "pixelastic"
+  # Default key is read only, this one can also push to the repo
+  - &add_git_ssh_write_key
+    add_ssh_keys:
+      fingerprints:
+        - 'bf:a5:61:c6:03:fb:71:f7:7a:17:a1:60:58:77:24:f6'
   - &restore_cache
     restore_cache:
       key: yarn-cache-{{ checksum "yarn.lock" }}
@@ -24,6 +36,18 @@ jobs:
       - *yarn_install
       - *save_cache
       - run: 'yarn run ci'
+  # This will fetch remote data, update it locally, commit and index to algolia
+  dailyUpdate:
+    <<: *defaults
+    steps:
+      - *configure_git
+      - *add_git_ssh_write_key
+      - checkout
+      - *restore_cache
+      - *yarn_install
+      - *save_cache
+      - run: 'yarn run ci:dailyUpdate'
+
 
 workflows:
   version: 2
@@ -31,3 +55,14 @@ workflows:
   commit:
     jobs:
       - ci
+  # Once a week
+  dialyUpdate:
+    triggers:
+      - schedule:
+          cron: '0 9 * * *'
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - dailyUpdate
