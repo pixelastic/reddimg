@@ -2,13 +2,12 @@ const helper = require('../../lib/main.js');
 
 module.exports = async function() {
   const defaultValues = {
-    defaultDescription:
-      'Your website description. You can overwrite it in any pug file',
-    defaultTitle: 'Default page title. You can overwrite it in any pug file',
-    defaultUrl: 'http://www.your-production-url.com/',
+    defaultDescription: 'Auto-updating gallery of pictures from subreddits',
+    defaultTitle: 'Reddimg',
+    defaultUrl: 'https://reddimg.pixelastic.com',
     defaultImage: 'opengraph.png',
-    defaultAuthor: 'Your Name',
-    defaultTwitter: 'yourusername',
+    defaultAuthor: 'Tim Carry',
+    defaultTwitter: 'pixelastic',
   };
 
   const subreddits = await helper.getLocalSubreddits();
