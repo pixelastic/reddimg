@@ -4,7 +4,7 @@ const helper = require('./lib/main.js');
 
 module.exports = {
   cloudinary: {
-    bucketName: null,
+    bucketName: 'pixelastic-reddimg',
   },
   hooks: {
     async afterHtml({ createPage }) {
