@@ -15,7 +15,7 @@ aliases:
   - &add_git_ssh_write_key
     add_ssh_keys:
       fingerprints:
-        - 'bf:a5:61:c6:03:fb:71:f7:7a:17:a1:60:58:77:24:f6'
+        - '61:ab:84:b7:ad:82:17:90:66:0d:f0:0c:c4:77:f9:26'
   - &restore_cache
     restore_cache:
       key: yarn-cache-{{ checksum "yarn.lock" }}
