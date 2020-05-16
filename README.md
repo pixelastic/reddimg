@@ -60,7 +60,15 @@ The update script needs the Algolia and GitHub credentials to run.
 You'll need to add the `ALGOLIA_APP_ID`, `ALGOLIA_API_KEY`, `ALGOLIA_INDEX_NAME` and
 `GITHUB_TOKEN` environment variables to your CircleCI settings ([follow this link][4])
 
+### Netlify
+
+The Algolia search credentials needs to be set in the Netlify environment
+variables so the website can be built correctly ([follow this link][5]).
+
+The variables are `ALGOLIA_APP_ID`, `ALGOLIA_INDEX_NAME` and `ALGOLIA_SEARCH_API_KEY`.
+
 [1]: https://github.com/pixelastic/reddimg/settings/keys/new
 [2]: https://app.circleci.com/settings/project/github/pixelastic/reddimg/ssh
 [3]: https://github.com/settings/tokens
 [4]: https://app.circleci.com/settings/project/github/pixelastic/reddimg/environment-variables
+[5]: https://app.netlify.com/sites/reddimg-pixelastic/settings/deploys#environment
