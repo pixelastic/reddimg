@@ -48,7 +48,6 @@ jobs:
       - *save_cache
       - run: 'yarn run ci:dailyUpdate'
 
-
 workflows:
   version: 2
   # On every commit
@@ -56,7 +55,7 @@ workflows:
     jobs:
       - ci
   # Once a week
-  dialyUpdate:
+  dailyUpdate:
     triggers:
       - schedule:
           cron: '0 9 * * *'
