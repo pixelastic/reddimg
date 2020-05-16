@@ -12,8 +12,15 @@ module.exports = async function() {
 
   const subreddits = await helper.getLocalSubreddits();
 
+  const algolia = {
+    appId: process.env.ALGOLIA_APP_ID,
+    apiKey: process.env.ALGOLIA_SEARCH_API_KEY,
+    indexName: process.env.ALGOLIA_INDEX_NAME,
+  };
+
   return {
     ...defaultValues,
     subreddits,
+    algolia,
   };
 };

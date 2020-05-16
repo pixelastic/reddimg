@@ -2,18 +2,14 @@
   .flrw.flral.h-100p.flc.px-1.md_px-2
     //- Title
     .fln.bold.white.text-6.flral.flrnw.flc.h-8
-      - const subredditName = _.get(data, 'subreddit.name', '');
-      a(href=url.base)=`Reddimg / ${subredditName}`
-    //- Hamburger menu
-    .fla.flrnw.flrar.md_hidden
-      label.fill-current.border.rounded.p-02.pointer.hover_white(for="switch-1")
-        svg.h-3.w-3(viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg")
-          title Menu
-          path(d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z")
-    //- Menu
-    input.switch-1(type="checkbox" id="switch-1")
-    .fln.w-100p.hidden.switch-1_flex.md_flex.md_fla.md_w-auto
-     .fla.flcnw.white.text-4.md_flrnw.md_flrar.md_flc.pb-1.sm_pb-0
-       each subreddit in data.site.subreddits
-         a.px-02.py-01.md_px-1.rounded-3.hover_bg-black.bg-opacity-50p(href=`/${subreddit}/`)=subreddit
-
+      a(href=url.base) Reddimg
+    //- Searchbar
+    .__searchboxContainer.pl-1.md_pl-0.fla.flrnw.flrcv.h-100p.relative
+      .__poweredBy.hidden.lg_flex
+        .fln Search powered by
+        a.fln.ml-01.bold.hover_underline.pointer-events-auto(href=`https://www.algolia.com/?utm_source=instantsearch.js&utm_medium=website&utm_content=${url.base}&utm_campaign=poweredby`) Algolia
+      #searchbox.w-100p
+    //- Search filters swapper
+    label.pointer.white.hover_red-7.ml-2.md_hidden(for="sidebar_checkbox")
+      .h-5.w-5
+        include /_includes/svg/sliders

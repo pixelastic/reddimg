@@ -30,6 +30,7 @@ html(lang='en')
       include /_includes/header
       .mt-8
         block content
+      script!=`window.ALGOLIA_CONFIG = ${JSON.stringify(data.site.algolia)}`
       each jsFile in runtime.jsFiles
         script(src=`${url.pathToRoot}${jsFile}`)
 

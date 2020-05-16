@@ -1,0 +1,43 @@
+/**
+ * Hits
+ **/
+.ais-Hits-list {
+  @apply flrw pb-1;
+}
+.ais-Hits-item {
+  @apply fln flcnw w-100p h-16 relative;
+}
+@screen md {
+  .ais-Hits-item {
+    @apply w-50p;
+  }
+}
+@screen lg {
+  .ais-Hits-item {
+    @apply w-33p;
+  }
+}
+@screen xl {
+  .ais-Hits-item {
+    @apply w-25p;
+  }
+}
+
+/* Empty results */
+#hits > div:first-child {
+  @apply fla flcnw;
+}
+.ais-Hits--empty {
+  @apply fla flcnw;
+}
+
+/* Highlight */
+.__title .ais-highlight {
+  @apply px-01 yellow-5 bg-gray-1 bg-opacity-10p underline;
+}
+.__description .ais-highlight {
+  @apply bg-red bg-opacity-10p red-8 bold;
+}
+.__types .ais-highlight {
+  @apply red-8 italic bg-transparent bold underline;
+}
