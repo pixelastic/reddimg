@@ -39,7 +39,7 @@ const dailyUpdate = {
     const currentDate = dayjs().format('YYYY-MM-DD');
     await run('git add ./src/_data/*.json');
     await run(
-      `git commit --message chore(update):\\ Daily\\ update\\ (${currentDate})\n\n[skip ci]`
+      `git commit --message chore(update):\\ Daily\\ update\\ (${currentDate})" --message "[skip ci]`
     );
 
     // Push changes
