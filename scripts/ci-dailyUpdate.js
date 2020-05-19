@@ -51,7 +51,7 @@ const dailyUpdate = {
    * Index data to Algolia
    **/
   async indexToAlgolia() {
-    await run('yarn run data:index');
+    await run('yarn run data:indexing');
   },
 
   async createIssue(err) {
