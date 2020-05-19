@@ -55,7 +55,7 @@ const dailyUpdate = {
   },
 
   async createIssue(err) {
-    const errorDetails = err.stdout;
+    const errorDetails = err.toString();
     await this.octokit.issues.create({
       owner: this.githubUser,
       repo: this.githubRepo,
