@@ -11,11 +11,11 @@ aliases:
       command: |
         git config --global user.email "tim@pixelastic.com"
         git config --global user.name "pixelastic"
-  # Default key is read only, this one can also push to the repo
-  - &add_git_ssh_write_key
-    add_ssh_keys:
-      fingerprints:
-        - '61:ab:84:b7:ad:82:17:90:66:0d:f0:0c:c4:77:f9:26'
+  # Adds all the ssh keys configured in CircleCI UI
+  - &add_git_ssh_write_key add_ssh_keys
+  # Sets the read/write key as the default one
+  - &use_git_ssh_write_key
+    run: 'mv ~/.ssh/id_rsa_61ab84b7ad821790660df00cc477f926 ~/.ssh/id_rsa'
   - &restore_cache
     restore_cache:
       key: yarn-cache-{{ checksum "yarn.lock" }}
@@ -42,6 +42,7 @@ jobs:
     steps:
       - *configure_git
       - *add_git_ssh_write_key
+      - *use_git_ssh_write_key
       - checkout
       - *restore_cache
       - *yarn_install
