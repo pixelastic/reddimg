@@ -50,8 +50,9 @@ link][2]) and add the SSH key.
 
 Leave the `hostname` empty and copy your private key in the textarea.
 
-Copy the fingerprint of the key, and paste it on the `add_ssh_keys` entry of
-your `.circleci/config.yml`.
+Modify the `.circleci/config.yml` file so the `&use_git_ssh_write_key` command
+uses the right fingerprint when copying the file. The hash of the
+`~/.ssh/id_rsa_XXXXXX` key is the fingerprint without the `:`.
 
 #### Environment variables
 
