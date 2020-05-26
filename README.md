@@ -48,11 +48,7 @@ Finally, we need to copy the private key to CircleCI.
 Navigate to your project on CircleCI, Settings and SSH Keys (or [follow this
 link][2]) and add the SSH key.
 
-Leave the `hostname` empty and copy your private key in the textarea.
-
-Modify the `.circleci/config.yml` file so the `&use_git_ssh_write_key` command
-uses the right fingerprint when copying the file. The hash of the
-`~/.ssh/id_rsa_XXXXXX` key is the fingerprint without the `:`.
+Set `github.com` as the hostname and copy your private key in the textarea.
 
 #### Environment variables
 
