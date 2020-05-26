@@ -19,7 +19,7 @@
 }
 @screen xl {
   .ais-Hits-item {
-    @apply w-25p;
+    @apply w-33p h-20;
   }
 }
 

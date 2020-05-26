@@ -1,10 +1,11 @@
+.w-100p.h-100p.pl-1.pt-1.flrnw
+  .fla.flcnw.bg-white.p-01.rounded-3.shadow
 
-a.w-100p.h-100p.relative(href="{{url}}" target="_blank")
-  img.lazyload.w-100p.h-100p.object-cover(src="{{picture.placeholder}}" data-src="{{picture.full}}" loading="lazy")
-  .absolute.top-0.left-0.right-0.bg-gray-7.bg-opacity-50p.white
-    .flrnw.flspb
-      .fln.px-02 {{{subreddit}}}
-      .fln.px-02 {{{score}}}
-  .absolute.bottom-0.left-0.right-0.bg-black.bg-opacity-50p
-    .flrnw.flrcv.px-01.py-02
-      .white.h-6.overflow-hidden {{{title}}}
+    .fln.h-4.relative.overflow-hidden.hover_overflow-visible.pt-001
+      .absolute.left-0.right-0.bg-white.px-01
+        .arial.font-bold.text-3.gray-9.hover_blue.flrnw.transition.duration-75.ease-in-out
+          a.fla(href="{{url}}" target="_blank") {{{title}}}
+
+    .fla.py-01
+      a(href="{{picture.full}}" target="_blank")
+        img.lazyload.w-100p.h-100p.object-cover(src="{{picture.placeholder}}" data-src="{{picture.full}}" loading="lazy")

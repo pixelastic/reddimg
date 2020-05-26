@@ -8639,7 +8639,7 @@ norska-revv@^0.9.11:
 
 norska@0.9.13:
   version "0.9.13"
-  resolved "https://registry.yarnpkg.com/norska/-/norska-0.9.13.tgz#8931a72a447367efcc0e5b3dfc0ee6461a7f97fa"
+  resolved "https://registry.npmjs.org/norska/-/norska-0.9.13.tgz#8931a72a447367efcc0e5b3dfc0ee6461a7f97fa"
   integrity sha512-Trvv9Tml2vyoLyjJhEjX7Ca8zx0HR+mWy5R20sds5Qk1BGYteJaKrdnZL268upnU82CcDEPLL7P+EgWELiDFXg==
   dependencies:
     firost "1.5.0"
