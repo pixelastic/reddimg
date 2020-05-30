@@ -1,0 +1,58 @@
+/**
+ * Refinement Lists
+ **/
+.ais-RefinementList {
+  /* @apply mb-01; */
+}
+.ais-RefinementList-list {
+  @apply flrnw text-4;
+}
+.ais-RefinementList-label {
+  @apply flrnw pr-004 pl-6 py-001 ml-002 pointer relative capitalize;
+  &:before,
+  &:after {
+    content: '';
+    @apply mt-02 absolute h-2 rounded-full;
+  }
+  &:before {
+    @apply bg-gray-5 w-5 left-0;
+  }
+  &:after {
+    @apply bg-gray-3 w-2 left-001 border-002 border-gray-5 border-opacity-100p;
+  }
+  &:hover {
+    @apply blue-2;
+    &:before {
+      @apply bg-blue;
+    }
+    &:after {
+      @apply border-blue-4;
+    }
+  }
+}
+.ais-RefinementList-item--selected {
+  .ais-RefinementList-label {
+    @apply blue;
+    &:before {
+      @apply bg-blue;
+    }
+    &:after {
+      @apply left-5 -ml-2 border-blue-4 bg-white;
+    }
+    &:hover {
+      @apply blue-5;
+      &:before {
+        @apply bg-blue-5;
+      }
+      &:after {
+        @apply border-blue-5;
+      }
+    }
+  }
+}
+.ais-RefinementList-checkbox {
+  @apply hidden;
+}
+.ais-RefinementList-count {
+  @apply hidden;
+}
