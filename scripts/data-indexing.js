@@ -23,11 +23,14 @@ const path = require('path');
 
   const files = await firost.glob('./src/_data/*.json');
   const subreddits = await pMap(files, async filepath => {
-    const records = await firost.readJson(filepath);
+    const dataFile = await firost.readJson(filepath);
+    const records = dataFile.records;
+    const bucket = dataFile.bucket;
     const subreddit = path.basename(filepath, '.json');
     return _.map(records, record => {
       return {
         ...record,
+        bucket,
         subreddit,
       };
     });
