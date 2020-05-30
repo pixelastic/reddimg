@@ -4,7 +4,7 @@ const {
   configure,
   hits,
   pagination,
-  // refinementList,
+  refinementList,
   searchBox,
 } = require('norska/frontend/algolia/widgets');
 const credentials = window.ALGOLIA_CONFIG;
@@ -17,7 +17,7 @@ const widgets = [
   {
     type: configure,
     options: {
-      hitsPerPage: 40,
+      hitsPerPage: 42,
     },
   },
   /**
@@ -54,16 +54,16 @@ const widgets = [
     },
   },
   /**
-   * Sidebar filtering
+   * Filtering
    **/
-  // {
-  //   type: refinementList,
-  //   options: {
-  //     container: '#filterBook',
-  //     attribute: 'book',
-  //     sortBy: ['name:asc'],
-  //   },
-  // },
+  {
+    type: refinementList,
+    options: {
+      container: '#filterBucket',
+      attribute: 'bucket',
+      sortBy: ['name:asc'],
+    },
+  },
 ];
 
 algolia

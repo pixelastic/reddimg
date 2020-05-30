@@ -1,6 +1,7 @@
 const indexing = require('algolia-indexing').default;
 const firost = require('firost');
 const pMap = require('golgoth/lib/pMap');
+const dayjs = require('golgoth/lib/dayjs');
 const _ = require('golgoth/lib/lodash');
 const path = require('path');
 
@@ -12,8 +13,8 @@ const path = require('path');
   };
   const settings = {
     searchableAttributes: ['title'],
-    attributesForFaceting: ['subreddit', 'date'],
-    customRanking: ['desc(score)', 'desc(date)'],
+    attributesForFaceting: ['bucket', 'subreddit', 'dateAsDay'],
+    customRanking: ['desc(dateAsDay)', 'desc(score)'],
   };
 
   indexing.verbose();
@@ -28,10 +29,19 @@ const path = require('path');
     const bucket = dataFile.bucket;
     const subreddit = path.basename(filepath, '.json');
     return _.map(records, record => {
+      // Clamp the date at the start of the day
+      const dateAsDay = dayjs
+        .unix(record.date)
+        .hour(0)
+        .minute(0)
+        .second(0)
+        .unix();
+
       return {
         ...record,
         bucket,
         subreddit,
+        dateAsDay,
       };
     });
   });
