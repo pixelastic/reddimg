@@ -5,8 +5,10 @@ cloudinary.init({
 const lazyloadAttributes = require('norska/frontend/lazyload/attributes');
 
 module.exports = {
-  picture(item) {
-    const options = { width: 600 };
-    return lazyloadAttributes(item.picture, options);
+  preview(item) {
+    // Some old record don't have a previewUrl, only a picture
+    const previewUrl = item.previewUrl || item.picture;
+    const options = { width: 600, placeholder: { width: 200 } };
+    return lazyloadAttributes(previewUrl, options);
   },
 };

@@ -2,33 +2,118 @@
   "bucket": "maps",
   "records": [
     {
+      "date": 1590891355,
+      "id": "t3_gtiveh",
+      "picture": "https://preview.redd.it/f14do60m1y151.jpg?auto=webp&s=d9e2cd64075c64a6f0f8e7dbcae9b478e3e1727a",
+      "previewUrl": "https://preview.redd.it/f14do60m1y151.jpg?width=640&crop=smart&auto=webp&s=99443b10e53d44efcf694f5791a5293bb3dd5dc7",
+      "score": 2,
+      "title": "[OC] Island Temple",
+      "url": "https://reddit.com/r/dndmaps/comments/gtiveh/oc_island_temple/"
+    },
+    {
+      "date": 1590890254,
+      "id": "t3_gtihw2",
+      "picture": "https://preview.redd.it/7q3y5h2jtx151.jpg?auto=webp&s=3ff3016c7bef906b99fcf89343e19bbcc525d1aa",
+      "previewUrl": "https://preview.redd.it/7q3y5h2jtx151.jpg?width=640&crop=smart&auto=webp&s=0883825bc0d9a45c98bc8c72f4e33fbe694d23a3",
+      "score": 11,
+      "title": "[OC] I Restored a Map of Kara-Tur for 5th Edition (It's a fantasy analog of Asia that's East of the Sword Coast for those unfamiliar)",
+      "url": "https://reddit.com/r/dndmaps/comments/gtihw2/oc_i_restored_a_map_of_karatur_for_5th_edition/"
+    },
+    {
+      "date": 1590884620,
+      "id": "t3_gtgvvq",
+      "picture": "https://preview.redd.it/5pab2a4ehx151.jpg?auto=webp&s=e19a5250b94419c2b16403c83be9800cb5fe144c",
+      "previewUrl": "https://preview.redd.it/5pab2a4ehx151.jpg?width=640&crop=smart&auto=webp&s=64946bdca16aab3232ebcbbc89ef9feb287d5927",
+      "score": 2,
+      "title": "[World Map] Erat; Prime World of Universe 17",
+      "url": "https://reddit.com/r/dndmaps/comments/gtgvvq/world_map_erat_prime_world_of_universe_17/"
+    },
+    {
+      "date": 1590884209,
+      "id": "t3_gtgrvb",
+      "picture": "https://preview.redd.it/xnarbsutfx151.jpg?auto=webp&s=1e6afd7ac28315284f8c0cb74ac6e1dcddb6da6f",
+      "previewUrl": "https://preview.redd.it/xnarbsutfx151.jpg?width=640&crop=smart&auto=webp&s=fe18e260fbb7421df3896b53772795cbe9f55228",
+      "score": 52,
+      "title": "12 Free Rural Themed Maps! Night and Rain versions included.[22x17]",
+      "url": "https://reddit.com/r/dndmaps/comments/gtgrvb/12_free_rural_themed_maps_night_and_rain_versions/"
+    },
+    {
+      "date": 1590882880,
+      "id": "t3_gtge8v",
+      "picture": "https://preview.redd.it/pqsvm3q7cx151.jpg?auto=webp&s=74fea417c34a881787bcdca9d45ea5db1f58f713",
+      "previewUrl": "https://preview.redd.it/pqsvm3q7cx151.jpg?width=640&crop=smart&auto=webp&s=28150d3d88e0aa8547c00c675b5e42670651773c",
+      "score": 96,
+      "title": "Prayer of Healing - Greek Style Temple (Day Version in Comments)",
+      "url": "https://reddit.com/r/dndmaps/comments/gtge8v/prayer_of_healing_greek_style_temple_day_version/"
+    },
+    {
+      "date": 1590881896,
+      "id": "t3_gtg40y",
+      "picture": "https://preview.redd.it/n3qip1zz8x151.jpg?auto=webp&s=0f186e09a9cb9328264efda382e84cac84afaf45",
+      "previewUrl": "https://preview.redd.it/n3qip1zz8x151.jpg?width=640&crop=smart&auto=webp&s=adeeeb9505552ea2501988f01c2034fe7f1cccff",
+      "score": 167,
+      "title": "Oceanside Ruins",
+      "url": "https://reddit.com/r/dndmaps/comments/gtg40y/oceanside_ruins/"
+    },
+    {
+      "date": 1590880230,
+      "id": "t3_gtft8o",
+      "picture": "https://preview.redd.it/cujzi7p84x151.png?auto=webp&s=d31c093ac84ee88ecc738f20c645de42173182b0",
+      "previewUrl": "https://preview.redd.it/cujzi7p84x151.png?width=640&crop=smart&auto=webp&s=8ec3a03f5742ca1abd50778658e2772de1de55ad",
+      "score": 16,
+      "title": "[OC][Animated][Battlemap] Shipwreck | Links to free still image pack in comments!",
+      "url": "https://reddit.com/r/dndmaps/comments/gtft8o/ocanimatedbattlemap_shipwreck_links_to_free_still/"
+    },
+    {
+      "date": 1590878804,
+      "id": "t3_gtffoo",
+      "picture": "https://preview.redd.it/oc9u6t900x151.jpg?auto=webp&s=bb79bf3963521cc25670f983f4c03fe61cfc8bc3",
+      "previewUrl": "https://preview.redd.it/oc9u6t900x151.jpg?width=640&crop=smart&auto=webp&s=b56d8a015210bdb592aff3e4266d838c08726ff9",
+      "score": 10,
+      "title": "Topographic map of great elven forest",
+      "url": "https://reddit.com/r/dndmaps/comments/gtffoo/topographic_map_of_great_elven_forest/"
+    },
+    {
+      "date": 1590876410,
+      "id": "t3_gtetzc",
+      "picture": "https://preview.redd.it/h36nifq8sw151.jpg?auto=webp&s=25894057a936242c089176c1b5d13b3b5ea232d4",
+      "previewUrl": "https://preview.redd.it/h36nifq8sw151.jpg?width=640&crop=smart&auto=webp&s=0dffb446f6320701fe4664cb029a18b094287f5a",
+      "score": 5,
+      "title": "Crossroads [22x30]",
+      "url": "https://reddit.com/r/dndmaps/comments/gtetzc/crossroads_22x30/"
+    },
+    {
       "date": 1590870488,
       "id": "t3_gtdi4m",
-      "picture": "https://preview.redd.it/or9ryvva8w151.jpg?width=640&crop=smart&auto=webp&s=219ea1c017a5b6b5fbfcc012b70122d31543aef8",
-      "score": 2,
+      "picture": "https://preview.redd.it/or9ryvva8w151.jpg?auto=webp&s=853e74b74ab3b419c8c43d0d65284eeadb51f118",
+      "previewUrl": "https://preview.redd.it/or9ryvva8w151.jpg?width=640&crop=smart&auto=webp&s=219ea1c017a5b6b5fbfcc012b70122d31543aef8",
+      "score": 11,
       "title": "Collapsed Mine Tunnel",
       "url": "https://reddit.com/r/dndmaps/comments/gtdi4m/collapsed_mine_tunnel/"
     },
     {
       "date": 1590869935,
       "id": "t3_gtde98",
-      "picture": "https://preview.redd.it/kp87h5ug9w151.jpg?width=640&crop=smart&auto=webp&s=32917375ce93bac055dc09863c7a589f42941da0",
-      "score": 1,
+      "picture": "https://preview.redd.it/kp87h5ug9w151.jpg?auto=webp&s=e3c3226ee20148490d0e9d0ac60e9551f53765dc",
+      "previewUrl": "https://preview.redd.it/kp87h5ug9w151.jpg?width=640&crop=smart&auto=webp&s=32917375ce93bac055dc09863c7a589f42941da0",
+      "score": 6,
       "title": "Feywild Dwelling",
       "url": "https://reddit.com/r/dndmaps/comments/gtde98/feywild_dwelling/"
     },
     {
       "date": 1590869447,
       "id": "t3_gtdaqb",
-      "picture": "https://preview.redd.it/ili49b0dwv151.jpg?width=640&crop=smart&auto=webp&s=c56dd840f593beffb7ce9adb05d383a57ca0a221",
-      "score": 6,
+      "picture": "https://preview.redd.it/ili49b0dwv151.jpg?auto=webp&s=7d366ef536da89e7d543383eaeaa79b4bf496694",
+      "previewUrl": "https://preview.redd.it/ili49b0dwv151.jpg?width=640&crop=smart&auto=webp&s=c56dd840f593beffb7ce9adb05d383a57ca0a221",
+      "score": 42,
       "title": "Goblintown | 40\"x20\" Poster Map (2 Levels)",
       "url": "https://reddit.com/r/dndmaps/comments/gtdaqb/goblintown_40x20_poster_map_2_levels/"
     },
     {
       "date": 1590864246,
       "id": "t3_gtcbjn",
-      "picture": "https://preview.redd.it/tcm52lt0tv151.jpg?width=640&crop=smart&auto=webp&s=5824cb00dedaf2c6f04aa016ba9820bec8f1e122",
+      "picture": "https://preview.redd.it/tcm52lt0tv151.jpg?auto=webp&s=35970f8724f2e83e47045b6b6b01c40c79c42ebd",
+      "previewUrl": "https://preview.redd.it/tcm52lt0tv151.jpg?width=640&crop=smart&auto=webp&s=5824cb00dedaf2c6f04aa016ba9820bec8f1e122",
       "score": 1,
       "title": "The Hags Hallow",
       "url": "https://reddit.com/r/dndmaps/comments/gtcbjn/the_hags_hallow/"
@@ -36,23 +121,26 @@
     {
       "date": 1590862499,
       "id": "t3_gtc03d",
-      "picture": "https://preview.redd.it/ymp2cv6lnv151.png?width=640&crop=smart&auto=webp&s=ce09c5653bf3f176a163147127a49ae54a08406d",
-      "score": 57,
+      "picture": "https://preview.redd.it/ymp2cv6lnv151.png?auto=webp&s=1a1b7b2557aecfa48682277b89fbe5723156d3ec",
+      "previewUrl": "https://preview.redd.it/ymp2cv6lnv151.png?width=640&crop=smart&auto=webp&s=ce09c5653bf3f176a163147127a49ae54a08406d",
+      "score": 586,
       "title": "[OC] [World Map] Dretkag, finished commission by vb.maps",
       "url": "https://reddit.com/r/dndmaps/comments/gtc03d/oc_world_map_dretkag_finished_commission_by_vbmaps/"
     },
     {
       "date": 1590841839,
       "id": "t3_gt82gl",
-      "picture": "https://preview.redd.it/qsbyuiu8yt151.jpg?width=640&crop=smart&auto=webp&s=a1d8f821a24e6cab1a3365931f53765527e542ff",
-      "score": 3,
+      "picture": "https://preview.redd.it/qsbyuiu8yt151.jpg?auto=webp&s=5489c26475c3228e69893593546f9204e25eeb6a",
+      "previewUrl": "https://preview.redd.it/qsbyuiu8yt151.jpg?width=640&crop=smart&auto=webp&s=a1d8f821a24e6cab1a3365931f53765527e542ff",
+      "score": 7,
       "title": "Mountain-side Camp [30x30] [2 layers]",
       "url": "https://reddit.com/r/dndmaps/comments/gt82gl/mountainside_camp_30x30_2_layers/"
     },
     {
       "date": 1590837412,
       "id": "t3_gt73dn",
-      "picture": "https://external-preview.redd.it/wKFGTL1JoZdF37nbqZIa3cVmhg37zHk7cIjdffoE97c.jpg?width=640&crop=smart&auto=webp&s=2197857604d021fae44896930d153a02c0473cb0",
+      "picture": "https://external-preview.redd.it/wKFGTL1JoZdF37nbqZIa3cVmhg37zHk7cIjdffoE97c.jpg?auto=webp&s=19da4080f0d8f71884fcbbf2bbc3f4a1bfa6d85c",
+      "previewUrl": "https://external-preview.redd.it/wKFGTL1JoZdF37nbqZIa3cVmhg37zHk7cIjdffoE97c.jpg?width=640&crop=smart&auto=webp&s=2197857604d021fae44896930d153a02c0473cb0",
       "score": 3,
       "title": "[OC] Colosseum Exterior Battlemap",
       "url": "https://reddit.com/r/dndmaps/comments/gt73dn/oc_colosseum_exterior_battlemap/"
@@ -60,40 +148,45 @@
     {
       "date": 1590835747,
       "id": "t3_gt6pae",
-      "picture": "https://preview.redd.it/a02eayslft151.png?width=640&crop=smart&auto=webp&s=ad63655b45a4ab98a59e3209a3483ec508f797f3",
-      "score": 7,
+      "picture": "https://preview.redd.it/a02eayslft151.png?auto=webp&s=2d60da7b99ded5890c8fa9c03708a2fd6fae21b4",
+      "previewUrl": "https://preview.redd.it/a02eayslft151.png?width=640&crop=smart&auto=webp&s=ad63655b45a4ab98a59e3209a3483ec508f797f3",
+      "score": 9,
       "title": "DM is starting a new Campaign asked me to make this, First one using wonderdraft. Went through some trials with it haha. Any advice or comments for future projects would be awesome!",
       "url": "https://reddit.com/r/dndmaps/comments/gt6pae/dm_is_starting_a_new_campaign_asked_me_to_make/"
     },
     {
       "date": 1590830558,
       "id": "t3_gt5gau",
-      "picture": "https://preview.redd.it/xqwtnbmzzs151.png?width=640&crop=smart&auto=webp&s=147ff537603fe55cdcb725c615f5dedf3eb92eb1",
-      "score": 16,
+      "picture": "https://preview.redd.it/xqwtnbmzzs151.png?auto=webp&s=f10ad728637c2061e8dff2b44f34b63adc41e702",
+      "previewUrl": "https://preview.redd.it/xqwtnbmzzs151.png?width=640&crop=smart&auto=webp&s=147ff537603fe55cdcb725c615f5dedf3eb92eb1",
+      "score": 18,
       "title": "Re-imagination: Fort Greymoor Interiors [44x30]",
       "url": "https://reddit.com/r/dndmaps/comments/gt5gau/reimagination_fort_greymoor_interiors_44x30/"
     },
     {
       "date": 1590816698,
       "id": "t3_gt1rca",
-      "picture": "https://preview.redd.it/iwq0g7svur151.jpg?width=640&crop=smart&auto=webp&s=d894d0f1fd592ef1cd013c7cd0137a56f79a7d19",
-      "score": 9,
+      "picture": "https://preview.redd.it/iwq0g7svur151.jpg?auto=webp&s=4dec7d17aa84b8479af79d3492d593d3fe02885b",
+      "previewUrl": "https://preview.redd.it/iwq0g7svur151.jpg?width=640&crop=smart&auto=webp&s=d894d0f1fd592ef1cd013c7cd0137a56f79a7d19",
+      "score": 11,
       "title": "My first world map! Drawn for my friend's campaign. More gets added and labeled as our group explores",
       "url": "https://reddit.com/r/dndmaps/comments/gt1rca/my_first_world_map_drawn_for_my_friends_campaign/"
     },
     {
       "date": 1590814253,
       "id": "t3_gt11q5",
-      "picture": "https://preview.redd.it/l51e2gq0or151.png?width=640&crop=smart&auto=webp&s=50e59820fb4553658cb16a2a6daf83e528ea47b9",
-      "score": 15,
+      "picture": "https://preview.redd.it/l51e2gq0or151.png?auto=webp&s=2dd296e9acee5a3ca95e1fd52faf00b048af30c2",
+      "previewUrl": "https://preview.redd.it/l51e2gq0or151.png?width=640&crop=smart&auto=webp&s=50e59820fb4553658cb16a2a6daf83e528ea47b9",
+      "score": 13,
       "title": "[OC] A pub with a stage",
       "url": "https://reddit.com/r/dndmaps/comments/gt11q5/oc_a_pub_with_a_stage/"
     },
     {
       "date": 1590813688,
       "id": "t3_gt0vnz",
-      "picture": "https://preview.redd.it/2rutrr5fmr151.jpg?width=640&crop=smart&auto=webp&s=ae1244dccbd04cf876e1badb099a8501a97dacfe",
-      "score": 9,
+      "picture": "https://preview.redd.it/2rutrr5fmr151.jpg?auto=webp&s=fff87aef9ef6b37461c40c7ab4e00ed882bed0ad",
+      "previewUrl": "https://preview.redd.it/2rutrr5fmr151.jpg?width=640&crop=smart&auto=webp&s=ae1244dccbd04cf876e1badb099a8501a97dacfe",
+      "score": 11,
       "title": "The Mardy Mare - A Free Map from our recently launched Patreon (plus giveaway details)",
       "url": "https://reddit.com/r/dndmaps/comments/gt0vnz/the_mardy_mare_a_free_map_from_our_recently/"
     },
@@ -124,8 +217,9 @@
     {
       "date": 1590799246,
       "id": "t3_gswd07",
-      "picture": "https://external-preview.redd.it/Kl02iVcx3KGYPAjVPAnI8jX08A4lQeOL8ThooQ7MawA.jpg?width=640&crop=smart&auto=webp&s=8103651fa49a922830279c08d1f4edb9c96d8b81",
-      "score": 67,
+      "picture": "https://external-preview.redd.it/Kl02iVcx3KGYPAjVPAnI8jX08A4lQeOL8ThooQ7MawA.jpg?auto=webp&s=f522454e47bce150439d19a06795e0682116bdf8",
+      "previewUrl": "https://external-preview.redd.it/Kl02iVcx3KGYPAjVPAnI8jX08A4lQeOL8ThooQ7MawA.jpg?width=640&crop=smart&auto=webp&s=8103651fa49a922830279c08d1f4edb9c96d8b81",
+      "score": 71,
       "title": "Since there was interest in my other post, here's the Sword Coast in Tolkien-esque style (full Faerun in the comments).",
       "url": "https://reddit.com/r/dndmaps/comments/gswd07/since_there_was_interest_in_my_other_post_heres/"
     },
@@ -156,8 +250,9 @@
     {
       "date": 1590787357,
       "id": "t3_gssxdq",
-      "picture": "https://preview.redd.it/4wj9su7bgp151.jpg?width=640&crop=smart&auto=webp&s=94e59a251ace2ff8c67e6f0d13a0f812ef47b9ff",
-      "score": 45,
+      "picture": "https://preview.redd.it/4wj9su7bgp151.jpg?auto=webp&s=20884441f345f286ac8c59ffe1671a0184cc9be5",
+      "previewUrl": "https://preview.redd.it/4wj9su7bgp151.jpg?width=640&crop=smart&auto=webp&s=94e59a251ace2ff8c67e6f0d13a0f812ef47b9ff",
+      "score": 48,
       "title": "42 free, printable city tiles made specifically for setting up chase scenes on the go!",
       "url": "https://reddit.com/r/dndmaps/comments/gssxdq/42_free_printable_city_tiles_made_specifically/"
     },
@@ -180,8 +275,9 @@
     {
       "date": 1590780278,
       "id": "t3_gsr66w",
-      "picture": "https://preview.redd.it/mn8o16g8vo151.jpg?width=640&crop=smart&auto=webp&s=220fd44fd83d7c76e6ee347ccd3508b2c7486a70",
-      "score": 3114,
+      "picture": "https://preview.redd.it/mn8o16g8vo151.jpg?auto=webp&s=aa6f27a56be18762e8202f73d880bc6d1642b218",
+      "previewUrl": "https://preview.redd.it/mn8o16g8vo151.jpg?width=640&crop=smart&auto=webp&s=220fd44fd83d7c76e6ee347ccd3508b2c7486a70",
+      "score": 3119,
       "title": "An idea for an island map....but just water, sun reflection, and moss",
       "url": "https://reddit.com/r/dndmaps/comments/gsr66w/an_idea_for_an_island_mapbut_just_water_sun/"
     },
@@ -252,8 +348,9 @@
     {
       "date": 1590742633,
       "id": "t3_gsiu4m",
-      "picture": "https://external-preview.redd.it/WulHoPnvE1yQKTw_-tPni5yQ6YvyVE99MkJtiuCFLzk.jpg?width=640&crop=smart&auto=webp&s=474f86765a467e85fc47a229a02384cdc593b6d7",
-      "score": 608,
+      "picture": "https://external-preview.redd.it/WulHoPnvE1yQKTw_-tPni5yQ6YvyVE99MkJtiuCFLzk.jpg?auto=webp&s=107713ca70c25979970df83eecddb947843acd71",
+      "previewUrl": "https://external-preview.redd.it/WulHoPnvE1yQKTw_-tPni5yQ6YvyVE99MkJtiuCFLzk.jpg?width=640&crop=smart&auto=webp&s=474f86765a467e85fc47a229a02384cdc593b6d7",
+      "score": 612,
       "title": "I remade the essentials kit map of Northern Faerun in a Tolkien-esque style.",
       "url": "https://reddit.com/r/dndmaps/comments/gsiu4m/i_remade_the_essentials_kit_map_of_northern/"
     },
