@@ -2,11 +2,38 @@
   "bucket": "terrain",
   "records": [
     {
+      "date": 1590910029,
+      "id": "t3_gto9ze",
+      "picture": "https://preview.redd.it/6wk0p1rykz151.jpg?auto=webp&s=e69597656c39db8865d9093950c6c3933aad9bb0",
+      "previewUrl": "https://preview.redd.it/6wk0p1rykz151.jpg?width=640&crop=smart&auto=webp&s=10b3aeb1dc6711df9762ab6e3f22d0c1912c4130",
+      "score": 8,
+      "title": "Built a wrecked Baneblade for Warhammer 40 000!",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gto9ze/built_a_wrecked_baneblade_for_warhammer_40_000/"
+    },
+    {
+      "date": 1590909607,
+      "id": "t3_gto5mx",
+      "picture": "https://preview.redd.it/u74fnelwjz151.jpg?auto=webp&s=8acb2ac7a0b6963fc8af4dd54a5bf98621ef3fdd",
+      "previewUrl": "https://preview.redd.it/u74fnelwjz151.jpg?width=640&crop=smart&auto=webp&s=9cb9f7407c3acac4c4c7ebef84b769b895486a5a",
+      "score": 9,
+      "title": "Soda can factory, the beginnings.",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gto5mx/soda_can_factory_the_beginnings/"
+    },
+    {
+      "date": 1590903370,
+      "id": "t3_gtme10",
+      "picture": "https://preview.redd.it/ygobf2qc1z151.jpg?auto=webp&s=6b6f0db02d738278bd117600e57cb53cd764c78c",
+      "previewUrl": "https://preview.redd.it/ygobf2qc1z151.jpg?width=640&crop=smart&auto=webp&s=7c56a86ef2b92a621e74428f8c5fdf0f79b98e93",
+      "score": 27,
+      "title": "Deep dark fear [OC]",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gtme10/deep_dark_fear_oc/"
+    },
+    {
       "date": 1590898035,
       "id": "t3_gtktbv",
       "picture": "https://preview.redd.it/pis36qdhly151.jpg?auto=webp&s=b0a221c8944d0bb175164bc68577a2c3936cee31",
       "previewUrl": "https://preview.redd.it/pis36qdhly151.jpg?width=640&crop=smart&auto=webp&s=d20b1a0471beaaa444b685a6abc68595660bd14c",
-      "score": 2,
+      "score": 9,
       "title": "One day build and paint of some modular statues to go with my dungeon tiles. Really happy with how these turned out with only about 3 hours work time total on and off thorough the day. My dwarf for D&D is just there for scale",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gtktbv/one_day_build_and_paint_of_some_modular_statues/"
     },
@@ -15,7 +42,7 @@
       "id": "t3_gtkcdj",
       "picture": "https://external-preview.redd.it/sqqZT6-xw8uyrRLFMax2EMw99C1fceW3TzV98ZFC4p0.jpg?auto=webp&s=1ecc7c94aaa97acf73ab31bc61014bae0ed2710e",
       "previewUrl": "https://external-preview.redd.it/sqqZT6-xw8uyrRLFMax2EMw99C1fceW3TzV98ZFC4p0.jpg?width=640&crop=smart&auto=webp&s=70d106e90a621e29b4237888e8e5145ba73348e4",
-      "score": 1,
+      "score": 9,
       "title": "Finally finished my 3D printed tower!",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gtkcdj/finally_finished_my_3d_printed_tower/"
     },
@@ -24,7 +51,7 @@
       "id": "t3_gtk1ai",
       "picture": "https://preview.redd.it/tx3wtxzady151.jpg?auto=webp&s=12701cb437b4ef812ad98f69a11b5ad48744e39e",
       "previewUrl": "https://preview.redd.it/tx3wtxzady151.jpg?width=640&crop=smart&auto=webp&s=4bb1ff7f44ee0aeb70056f10c74359eb53d0ec93",
-      "score": 2,
+      "score": 1,
       "title": "Best way to keep the grid lines? Thoughts?",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gtk1ai/best_way_to_keep_the_grid_lines_thoughts/"
     },
@@ -33,7 +60,7 @@
       "id": "t3_gtjmg9",
       "picture": "https://preview.redd.it/snqeo8389y151.jpg?auto=webp&s=b08cac46d8575c17ecf1cbac070143318ce55744",
       "previewUrl": "https://preview.redd.it/snqeo8389y151.jpg?width=640&crop=smart&auto=webp&s=4d9a2ee2dbf13975c9a9c1e800434127cd4d55cd",
-      "score": 227,
+      "score": 804,
       "title": "A bigger progress shot of @castle_quarantine this time with our first layer of static flock, applied using one of those scary static electricity generators",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gtjmg9/a_bigger_progress_shot_of_castle_quarantine_this/"
     },
@@ -51,7 +78,7 @@
       "id": "t3_gtiy5b",
       "picture": "https://preview.redd.it/x7vwiuxa2y151.jpg?auto=webp&s=36cadda25569d17efee2080ae48b12587805c496",
       "previewUrl": "https://preview.redd.it/x7vwiuxa2y151.jpg?width=640&crop=smart&auto=webp&s=9c12341650b1d6a16a77426c48b77bb42375597f",
-      "score": 35,
+      "score": 77,
       "title": "A dungeon/cave/crypt entrance inspired by Celtic barrows",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gtiy5b/a_dungeoncavecrypt_entrance_inspired_by_celtic/"
     },
@@ -60,7 +87,7 @@
       "id": "t3_gtijrq",
       "picture": "https://preview.redd.it/16o7wvysyx151.jpg?auto=webp&s=74cc44259ce7d8ba365d019d140431123e07ecad",
       "previewUrl": "https://preview.redd.it/16o7wvysyx151.jpg?width=640&crop=smart&auto=webp&s=ce8af1818f95941ea2de0230600be4fa2c6ffc2f",
-      "score": 107,
+      "score": 160,
       "title": "Just wanted to post another progress shot of @castle_quarantine. Sadly we weren’t able to crop out the telephone line 😭",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gtijrq/just_wanted_to_post_another_progress_shot_of/"
     },
@@ -69,7 +96,7 @@
       "id": "t3_gthnf5",
       "picture": "https://preview.redd.it/apcgt6x7ix151.jpg?auto=webp&s=f5a62edcb28341e954f04ef311a5b5b48ef7ddbe",
       "previewUrl": "https://preview.redd.it/apcgt6x7ix151.jpg?width=640&crop=smart&auto=webp&s=881cc8a851efb2ff65ea4a55246c3afde5854451",
-      "score": 71,
+      "score": 88,
       "title": "Imperial Bunker For Warhammer 40k I made - Free PDF Template / Vid In comments",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gthnf5/imperial_bunker_for_warhammer_40k_i_made_free_pdf/"
     },
@@ -78,7 +105,7 @@
       "id": "t3_gtg5bx",
       "picture": "https://preview.redd.it/0wab1o6e9x151.jpg?auto=webp&s=55129dea0f1886a872a9ca49414556d068110fe7",
       "previewUrl": "https://preview.redd.it/0wab1o6e9x151.jpg?width=640&crop=smart&auto=webp&s=93280d71dcb5ed1a88472bb96e1e89effa6f037a",
-      "score": 3,
+      "score": 2,
       "title": "WIP: door with hinges, tavern facade, dungeon entrance, etc. versatile",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gtg5bx/wip_door_with_hinges_tavern_facade_dungeon/"
     },
@@ -87,7 +114,7 @@
       "id": "t3_gtg4f8",
       "picture": "https://preview.redd.it/v0ermlxj9x151.jpg?auto=webp&s=8138ccea50db76ded097a5436936febe21086f0b",
       "previewUrl": "https://preview.redd.it/v0ermlxj9x151.jpg?width=640&crop=smart&auto=webp&s=c6c6dc24244ebfd2fc09abd2da5948f1a9b9d686",
-      "score": 138,
+      "score": 165,
       "title": "Only a few more shingles and the roofs will be done. Also started filling in between the bark. I hope it will look okay ones primed ✌️",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gtg4f8/only_a_few_more_shingles_and_the_roofs_will_be/"
     },
@@ -96,7 +123,7 @@
       "id": "t3_gtftu3",
       "picture": "https://preview.redd.it/ai2qj5gm4x151.jpg?auto=webp&s=8e8341dc9c3cb699da7e08a8e03af9e0566952bb",
       "previewUrl": "https://preview.redd.it/ai2qj5gm4x151.jpg?width=640&crop=smart&auto=webp&s=b12ca73952c906676dc10a0ec8ee2a2fd319b0bd",
-      "score": 46,
+      "score": 51,
       "title": "Some no-mans land area terrain knocked together!",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gtftu3/some_nomans_land_area_terrain_knocked_together/"
     },
@@ -105,7 +132,7 @@
       "id": "t3_gtc8rc",
       "picture": "https://preview.redd.it/p5uojw5qrv151.jpg?auto=webp&s=a918bfd3f7fa8009ddb8d3c57b09eec6a42288cb",
       "previewUrl": "https://preview.redd.it/p5uojw5qrv151.jpg?width=640&crop=smart&auto=webp&s=7aa6a3b1b0796b53015bc1d92a68572dcd5b4537",
-      "score": 78,
+      "score": 80,
       "title": "Guard barracks",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gtc8rc/guard_barracks/"
     },
@@ -114,7 +141,7 @@
       "id": "t3_gtagz2",
       "picture": "https://preview.redd.it/dxyfob36yu151.jpg?auto=webp&s=47dadfe0257d7a1a3d5671939bec353091f10680",
       "previewUrl": "https://preview.redd.it/dxyfob36yu151.jpg?width=640&crop=smart&auto=webp&s=ebb3d9bd5fcd587bd9537ab1aecdea059dae866b",
-      "score": 89,
+      "score": 83,
       "title": "Loved the Black Magic Craft dungeon tiles so had to make a set of my own!",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gtagz2/loved_the_black_magic_craft_dungeon_tiles_so_had/"
     },
@@ -131,7 +158,7 @@
       "id": "t3_gt8ahu",
       "picture": "https://external-preview.redd.it/a9GAW-xQ5Xm0UMVIq6BUzqQ1RGuoYXbDYe4QMoSRivM.png?format=pjpg&auto=webp&s=e23823f3edfac8defcd718b2dc1c6670a22b0149",
       "previewUrl": "https://external-preview.redd.it/a9GAW-xQ5Xm0UMVIq6BUzqQ1RGuoYXbDYe4QMoSRivM.png?width=640&crop=smart&format=pjpg&auto=webp&s=5a34ef280f387c1159a0f0b3f9a89b194b613be0",
-      "score": 751,
+      "score": 764,
       "title": "Modular 3d Printed Area Terrain Follow Up- Box to Table Timelapse",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gt8ahu/modular_3d_printed_area_terrain_follow_up_box_to/"
     },
@@ -149,7 +176,7 @@
       "id": "t3_gt4uji",
       "picture": "https://preview.redd.it/k0pw9nqmts151.jpg?auto=webp&s=ed168d92aac64f09feaae56e2cd1eb00bc17f301",
       "previewUrl": "https://preview.redd.it/k0pw9nqmts151.jpg?width=640&crop=smart&auto=webp&s=0fcb00cab3ed69f3962d0f07cb9354e1198fa5f7",
-      "score": 58,
+      "score": 64,
       "title": "Little diorama for a friend, figured this was easier than trying to paint an Amethyst.",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gt4uji/little_diorama_for_a_friend_figured_this_was/"
     },
@@ -158,7 +185,7 @@
       "id": "t3_gt29yn",
       "picture": "https://preview.redd.it/5m91v6vx0s151.jpg?auto=webp&s=4ea24b49587feb337847bdbf97e389d2503fbe87",
       "previewUrl": "https://preview.redd.it/5m91v6vx0s151.jpg?width=640&crop=smart&auto=webp&s=b59e8bf7ffa8ef2c0a2c7d609e22d6173682c609",
-      "score": 90,
+      "score": 94,
       "title": "Art installation WIP, inspired by terrain building",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gt29yn/art_installation_wip_inspired_by_terrain_building/"
     },
@@ -192,7 +219,7 @@
       "id": "t3_gt147p",
       "picture": "https://preview.redd.it/h3jq4my2pr151.jpg?auto=webp&s=1df85a83c25d09c99cd32dd869ed76bc5e435713",
       "previewUrl": "https://preview.redd.it/h3jq4my2pr151.jpg?width=640&crop=smart&auto=webp&s=b34cc706abd999fb1f10fb1fd326a6daa3e70418",
-      "score": 566,
+      "score": 567,
       "title": "After being inspired by the YouTube greats and the community here, I decided to try my hand at building a bridge.",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gt147p/after_being_inspired_by_the_youtube_greats_and/"
     },
@@ -217,7 +244,7 @@
       "id": "t3_gszowh",
       "picture": "https://preview.redd.it/zwbg4r5dbr151.jpg?auto=webp&s=2c0752c0dd5daaa7672b53ebec4e6d42eabe0a74",
       "previewUrl": "https://preview.redd.it/zwbg4r5dbr151.jpg?width=640&crop=smart&auto=webp&s=3ec181ff5568176b4eb0ef04aaa8009e048d28e3",
-      "score": 121,
+      "score": 119,
       "title": "A wip of my first building! I decided to try the faux fur approach for a thatch roof. Will update once I’ve coated it in glue lol",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gszowh/a_wip_of_my_first_building_i_decided_to_try_the/"
     },
@@ -226,7 +253,7 @@
       "id": "t3_gsz4pi",
       "picture": "https://preview.redd.it/h9n6mqd26r151.jpg?auto=webp&s=7178973863118549364fa6373298988765263ce5",
       "previewUrl": "https://preview.redd.it/h9n6mqd26r151.jpg?width=640&crop=smart&auto=webp&s=25ea9ee8fced5d6ec8201d276f6a448fb591a70b",
-      "score": 151,
+      "score": 150,
       "title": "Made ghost town terrain for my desert Malifaux board.",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gsz4pi/made_ghost_town_terrain_for_my_desert_malifaux/"
     },
@@ -268,7 +295,7 @@
       "id": "t3_gsttlh",
       "picture": "https://preview.redd.it/jcfdiqmdqp151.jpg?auto=webp&s=62d1d9d41459005eecf8af2fd7445749ded63dde",
       "previewUrl": "https://preview.redd.it/jcfdiqmdqp151.jpg?width=640&crop=smart&auto=webp&s=c11c868bf105535ee4974c7416774b8243532f36",
-      "score": 297,
+      "score": 292,
       "title": "Tree house still goin strong.",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gsttlh/tree_house_still_goin_strong/"
     },
@@ -277,7 +304,7 @@
       "id": "t3_gstsr0",
       "picture": "https://preview.redd.it/2ztqx271qp151.jpg?auto=webp&s=1b53b13de92226d0c5e244b48be0bcdbb7dba5de",
       "previewUrl": "https://preview.redd.it/2ztqx271qp151.jpg?width=640&crop=smart&auto=webp&s=a1c9e02726d8f107e87a8d7ab7ed754edc57cea4",
-      "score": 560,
+      "score": 565,
       "title": "Quick build using a piece of scrap insulation foam. I'll put a link to the video in the comments if you're interested.",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gstsr0/quick_build_using_a_piece_of_scrap_insulation/"
     },
