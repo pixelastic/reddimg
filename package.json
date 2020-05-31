@@ -3,7 +3,7 @@
     "@octokit/rest": "17.9.2",
     "aberlaas": "1.4.3",
     "algolia-indexing": "0.0.8",
-    "firost": "1.5.0",
+    "firost": "1.5.1",
     "golgoth": "1.2.0",
     "he": "1.2.0",
     "norska": "0.9.15"
