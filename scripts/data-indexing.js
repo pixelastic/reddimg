@@ -1,4 +1,4 @@
-const indexing = require('algolia-indexing').default;
+const indexing = require('algolia-indexing');
 const firost = require('firost');
 const pMap = require('golgoth/lib/pMap');
 const dayjs = require('golgoth/lib/dayjs');
@@ -15,6 +15,11 @@ const path = require('path');
     searchableAttributes: ['title'],
     attributesForFaceting: ['bucket', 'subreddit', 'dateAsDay'],
     customRanking: ['desc(dateAsDay)', 'desc(score)'],
+    replicas: {
+      popularity: {
+        customRanking: ['desc(score)', 'desc(dateAsDay)'],
+      },
+    },
   };
 
   indexing.verbose();

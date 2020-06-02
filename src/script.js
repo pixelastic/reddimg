@@ -5,6 +5,7 @@ const {
   hits,
   pagination,
   refinementList,
+  sortBy,
   searchBox,
 } = require('norska/frontend/algolia/widgets');
 const credentials = window.ALGOLIA_CONFIG;
@@ -62,6 +63,22 @@ const widgets = [
       container: '#filterBucket',
       attribute: 'bucket',
       sortBy: ['name:asc'],
+    },
+  },
+  /**
+   * Sorting
+   **/
+  {
+    type: sortBy,
+    options: {
+      container: '#sortBy',
+      items: [
+        { label: 'by date', value: credentials.indexName },
+        {
+          label: 'by popularity',
+          value: `${credentials.indexName}_popularity`,
+        },
+      ],
     },
   },
 ];

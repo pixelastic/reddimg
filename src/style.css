@@ -6,5 +6,6 @@
 @import '_styles/fonts.css';
 @import '_styles/header.css';
 @import '_styles/filters.css';
+@import '_styles/sortBy.css';
 @import '_styles/hits.css';
 @import '_styles/pagination.css';
