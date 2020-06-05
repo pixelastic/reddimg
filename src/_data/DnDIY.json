@@ -2,11 +2,65 @@
   "bucket": "terrain",
   "records": [
     {
+      "date": 1591342335,
+      "id": "t3_gwszon",
+      "picture": "https://external-preview.redd.it/hOkvdK69BTwQNpEK67vm5ub34aJbW-as7Ij6Q4l9S9E.png?format=pjpg&auto=webp&s=dd8da2288f6ca28f1e6cacc03fa13379c3f78e33",
+      "previewUrl": "https://external-preview.redd.it/hOkvdK69BTwQNpEK67vm5ub34aJbW-as7Ij6Q4l9S9E.png?width=640&crop=smart&format=pjpg&auto=webp&s=43076b00820e640bf289590b8c987e9a3a0cd975",
+      "score": 155,
+      "title": "Table Topper I built for a friend who does board games and DnD. All six legs are dice towers.",
+      "url": "https://reddit.com/r/DnDIY/comments/gwszon/table_topper_i_built_for_a_friend_who_does_board/"
+    },
+    {
+      "date": 1591332867,
+      "id": "t3_gwq05m",
+      "picture": "https://preview.redd.it/2r2ffvqciy251.jpg?auto=webp&s=194b9ec2429cf3466fe15e0aae09fe515da4ae6c",
+      "previewUrl": "https://preview.redd.it/2r2ffvqciy251.jpg?width=640&crop=smart&auto=webp&s=1c8f114eb1f78155dc8d0962ed59587d021aab59",
+      "score": 22,
+      "title": "DIY KDM Gorm",
+      "url": "https://reddit.com/r/DnDIY/comments/gwq05m/diy_kdm_gorm/"
+    },
+    {
+      "date": 1591311749,
+      "id": "t3_gwj4ff",
+      "picture": "https://preview.redd.it/hephi6ugrw251.jpg?auto=webp&s=cd7f7b597127b0dff6c1b7dcf7b3db335e397a4c",
+      "previewUrl": "https://preview.redd.it/hephi6ugrw251.jpg?width=640&crop=smart&auto=webp&s=16d0ca8437f1a7e91d9b3dca9bba84d3e78abd6f",
+      "score": 9,
+      "title": "Making some videos about mini painting basics for absolute beginners. Your C&C appreciated! Link in comments.",
+      "url": "https://reddit.com/r/DnDIY/comments/gwj4ff/making_some_videos_about_mini_painting_basics_for/"
+    },
+    {
+      "date": 1591306988,
+      "id": "t3_gwhogp",
+      "picture": "https://external-preview.redd.it/ne7WYyUNxck5mNKbFb2FFQmgMv7ZBIold8nwaUlTzns.jpg?auto=webp&s=9906ecdc30b14ec86a9bf3121fb10ed1a61525e7",
+      "previewUrl": "https://external-preview.redd.it/ne7WYyUNxck5mNKbFb2FFQmgMv7ZBIold8nwaUlTzns.jpg?width=640&crop=smart&auto=webp&s=0a9c33cadd4dd90ca343a052bc2adcd4a8fe5fbb",
+      "score": 3,
+      "title": "Looking for dice in tower/castle boxes",
+      "url": "https://reddit.com/r/DnDIY/comments/gwhogp/looking_for_dice_in_towercastle_boxes/"
+    },
+    {
+      "date": 1591288863,
+      "id": "t3_gwdjqf",
+      "picture": "https://preview.redd.it/ivy5ztdmvu251.jpg?auto=webp&s=e55ba3f7e9f003ae3e316df480b0e138aceec933",
+      "previewUrl": "https://preview.redd.it/ivy5ztdmvu251.jpg?width=640&crop=smart&auto=webp&s=f764adf51964c180c1b420c345452b9f6e66e564",
+      "score": 336,
+      "title": "WIP Foam and cardboard dragon. I’m using varying thicknesses of craft and EVA foam. Completely made from scratch and a pic of a dragon!",
+      "url": "https://reddit.com/r/DnDIY/comments/gwdjqf/wip_foam_and_cardboard_dragon_im_using_varying/"
+    },
+    {
+      "date": 1591270919,
+      "id": "t3_gw9iah",
+      "picture": "https://preview.redd.it/hfzrqdr9et251.jpg?auto=webp&s=7d82a349efa2d8793e0b7f154e447a77b3c0fdfd",
+      "previewUrl": "https://preview.redd.it/hfzrqdr9et251.jpg?width=640&crop=smart&auto=webp&s=abfef346c51769ed7cd5ddbda417b1cd35f54af0",
+      "score": 2,
+      "title": "3 custom minis I made with my cricut, some fuse beads, and some hot glue.",
+      "url": "https://reddit.com/r/DnDIY/comments/gw9iah/3_custom_minis_i_made_with_my_cricut_some_fuse/"
+    },
+    {
       "date": 1591254299,
       "id": "t3_gw4ysg",
       "picture": "https://preview.redd.it/xy1e390u0s251.jpg?auto=webp&s=72de2183fe308fb95dd019f9701bf77c3cdac3da",
       "previewUrl": "https://preview.redd.it/xy1e390u0s251.jpg?width=640&crop=smart&auto=webp&s=cfc53743ecfcdcda9737750b3d7ebe3f3fbeeb90",
-      "score": 2,
+      "score": 32,
       "title": "Welcome to Covidville. The little town that got built during these trying times. More structures to show soon. Can’t wait to get around the table to play when it’s safe.",
       "url": "https://reddit.com/r/DnDIY/comments/gw4ysg/welcome_to_covidville_the_little_town_that_got/"
     },
@@ -15,7 +69,7 @@
       "id": "t3_gw39a1",
       "picture": "https://preview.redd.it/49nbvr6zkr251.jpg?auto=webp&s=b316a0d9cd66ee92249f039218be70c488186cc3",
       "previewUrl": "https://preview.redd.it/49nbvr6zkr251.jpg?width=640&crop=smart&auto=webp&s=3a7ba022ccce146b059b0b1d02cc035e1eb58f21",
-      "score": 27,
+      "score": 362,
       "title": "Making Ultimate Dungeon Terrain, my first project with XPS. Not perfect but I’m proud of how it looks so far!",
       "url": "https://reddit.com/r/DnDIY/comments/gw39a1/making_ultimate_dungeon_terrain_my_first_project/"
     },
@@ -24,7 +78,7 @@
       "id": "t3_gvzwzy",
       "picture": "https://preview.redd.it/xyuaayl2rq251.jpg?auto=webp&s=49aa1b6ebe03a95bb7f90baa5d4e9e5a8c29a6d2",
       "previewUrl": "https://preview.redd.it/xyuaayl2rq251.jpg?width=640&crop=smart&auto=webp&s=6415418d7d1fa589bcc7243e061f1bc88e934d64",
-      "score": 136,
+      "score": 289,
       "title": "WIP Wyloch Tile Tavern w/ mini for scale. Currently making more tables, walls, and shelves to fill it all out. More to come!",
       "url": "https://reddit.com/r/DnDIY/comments/gvzwzy/wip_wyloch_tile_tavern_w_mini_for_scale_currently/"
     },
@@ -33,7 +87,7 @@
       "id": "t3_gvwror",
       "picture": "https://preview.redd.it/d9gf9ji7yp251.png?auto=webp&s=1dd3f0061e46428fcd58c5452d8c54926011b030",
       "previewUrl": "",
-      "score": 87,
+      "score": 99,
       "title": "Mixed Terrain (4 Seasons) by OPR (link in comments)",
       "url": "https://reddit.com/r/DnDIY/comments/gvwror/mixed_terrain_4_seasons_by_opr_link_in_comments/"
     },
@@ -42,7 +96,7 @@
       "id": "t3_gvr0ph",
       "picture": "https://external-preview.redd.it/JcR7SapqMwiKQ7SpXyQR0p4kLdX3YGhUSWyhjzttFy8.jpg?auto=webp&s=089cd2bcfa7e5d59ffb17ea0c1e9be504abfb6f2",
       "previewUrl": "",
-      "score": 7,
+      "score": 9,
       "title": "5e Cardcaster tarot cards I made",
       "url": "https://reddit.com/r/DnDIY/comments/gvr0ph/5e_cardcaster_tarot_cards_i_made/"
     },
@@ -60,7 +114,7 @@
       "id": "t3_gvd6jd",
       "picture": "https://external-preview.redd.it/2WiAIh6At_YCjVyKNU-cKtGYJSdoAogEOdWKDMmheJo.jpg?auto=webp&s=a680bc968679b61b8868db089bf524e488882c89",
       "previewUrl": "",
-      "score": 217,
+      "score": 219,
       "title": "I needed a paint rack for all my miniature paints, so I DIYed the heck out of some cardboard. Templates included.",
       "url": "https://reddit.com/r/DnDIY/comments/gvd6jd/i_needed_a_paint_rack_for_all_my_miniature_paints/"
     },
@@ -87,7 +141,7 @@
       "id": "t3_gutpfg",
       "picture": "https://preview.redd.it/undbjrhzbd251.jpg?auto=webp&s=de028e541fab06c342d525d0812b24a32a16bd9f",
       "previewUrl": "https://preview.redd.it/undbjrhzbd251.jpg?width=640&crop=smart&auto=webp&s=0f44157bb01907d60e46ddb5491f4fb5a3e5fb84",
-      "score": 761,
+      "score": 769,
       "title": "[OC] made an inventory and key item tracker for my gaming table.",
       "url": "https://reddit.com/r/DnDIY/comments/gutpfg/oc_made_an_inventory_and_key_item_tracker_for_my/"
     },
@@ -105,7 +159,7 @@
       "id": "t3_guet6q",
       "picture": "https://external-preview.redd.it/taHcfLD5pr1oaYDSNgHJzwnvUhnWLB1w1tyJ4nb62gU.png?format=pjpg&auto=webp&s=145f267f4ecad5830420b8eed0dcec7b1299cf48",
       "previewUrl": "https://external-preview.redd.it/taHcfLD5pr1oaYDSNgHJzwnvUhnWLB1w1tyJ4nb62gU.png?width=640&crop=smart&format=pjpg&auto=webp&s=61785d15f33dc47b8965b8ee7284076bb237dacb",
-      "score": 299,
+      "score": 301,
       "title": "Mimic Challenge, based my work on (Bards Craft). Really happy with result!!!",
       "url": "https://reddit.com/r/DnDIY/comments/guet6q/mimic_challenge_based_my_work_on_bards_craft/"
     },
@@ -114,7 +168,7 @@
       "id": "t3_guafou",
       "picture": "https://preview.redd.it/wpqlnjj717251.jpg?auto=webp&s=ea1cdd06e8fd50edb07f279a6addc7e60a891e61",
       "previewUrl": "https://preview.redd.it/wpqlnjj717251.jpg?width=640&crop=smart&auto=webp&s=714211c074949782e1697e3d78ae51510f15cadb",
-      "score": 18,
+      "score": 21,
       "title": "Finished this little beut, it’s a modular forge/fireplace. Made out of EVA foam, hot glue and some other bits. The skull i sculpted out of Crayola air dry clay and then painted and weathered all of it.",
       "url": "https://reddit.com/r/DnDIY/comments/guafou/finished_this_little_beut_its_a_modular/"
     },
@@ -132,7 +186,7 @@
       "id": "t3_gu330f",
       "picture": "https://preview.redd.it/bs85hgt5y4251.jpg?auto=webp&s=9008c51c3d862a1eaedc9e7ed0c718b9dc37ed49",
       "previewUrl": "https://preview.redd.it/bs85hgt5y4251.jpg?width=640&crop=smart&auto=webp&s=1ef11b232ca8e4203e9e5b7556245a36ec3e4a23",
-      "score": 70,
+      "score": 73,
       "title": "I crafted what I think the ultimate necromancer would look like. My players are all dark souls fan so I think they’ll enjoy it. Tutorial video and info in the comments.",
       "url": "https://reddit.com/r/DnDIY/comments/gu330f/i_crafted_what_i_think_the_ultimate_necromancer/"
     },
@@ -150,7 +204,7 @@
       "id": "t3_gu0mhx",
       "picture": "https://preview.redd.it/svxd8sja84251.jpg?auto=webp&s=fe8ecb72e90c6dfe9cffb735358fe607f4227bdf",
       "previewUrl": "https://preview.redd.it/svxd8sja84251.jpg?width=640&crop=smart&auto=webp&s=2525a69f2dc334f9a58a89fb38a41f7fc9006815",
-      "score": 35,
+      "score": 39,
       "title": "My party stole a ship that was supposed to end up elsewhere and not in their hands. I guess that means I have to build a ship now.",
       "url": "https://reddit.com/r/DnDIY/comments/gu0mhx/my_party_stole_a_ship_that_was_supposed_to_end_up/"
     },
@@ -195,7 +249,7 @@
       "id": "t3_gtyh5p",
       "picture": "https://preview.redd.it/1cfstxcrj3251.jpg?auto=webp&s=17ea619277dc1c1514806fa0faf1cfe36c56056d",
       "previewUrl": "https://preview.redd.it/1cfstxcrj3251.jpg?width=640&crop=smart&auto=webp&s=90f8462913493b339e03c5cd6d04eb6865d7f60d",
-      "score": 876,
+      "score": 875,
       "title": "I think It's done. Onto the next project!",
       "url": "https://reddit.com/r/DnDIY/comments/gtyh5p/i_think_its_done_onto_the_next_project/"
     },
