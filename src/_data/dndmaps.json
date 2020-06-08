@@ -2,11 +2,137 @@
   "bucket": "maps",
   "records": [
     {
+      "date": 1591597807,
+      "id": "t3_gym71z",
+      "picture": "https://preview.redd.it/56ca271aek351.jpg?auto=webp&s=dd7ca40ed4df40ffba590b98aa64415cb67b895f",
+      "previewUrl": "https://preview.redd.it/56ca271aek351.jpg?width=640&crop=smart&auto=webp&s=816ed7bb5382bc785dcbc0370cc406fd655439cc",
+      "score": 29,
+      "title": "My first attempt at a map for my in progress homebrew world.",
+      "url": "https://reddit.com/r/dndmaps/comments/gym71z/my_first_attempt_at_a_map_for_my_in_progress/"
+    },
+    {
+      "date": 1591595517,
+      "id": "t3_gylg6q",
+      "picture": "https://preview.redd.it/3r2vqng77k351.png?auto=webp&s=eb9cc39291c0b15c60c74298de56a684eb444141",
+      "previewUrl": "https://preview.redd.it/3r2vqng77k351.png?width=640&crop=smart&auto=webp&s=58786acc8705229d943528d5a55baca48d87463b",
+      "score": 3,
+      "title": "DunJune 07 - The Poison Gas",
+      "url": "https://reddit.com/r/dndmaps/comments/gylg6q/dunjune_07_the_poison_gas/"
+    },
+    {
+      "date": 1591583818,
+      "id": "t3_gyhpgk",
+      "picture": "https://preview.redd.it/192ncvp06j351.jpg?auto=webp&s=cbdacfdd48584c2a8ad3f194d03c202f8fb6a91e",
+      "previewUrl": "https://preview.redd.it/192ncvp06j351.jpg?width=640&crop=smart&auto=webp&s=974b7a420f766f816083915f9d1f3cbf5565f5a8",
+      "score": 15,
+      "title": "Feywild Unseelie (Winter) Court [24x32]",
+      "url": "https://reddit.com/r/dndmaps/comments/gyhpgk/feywild_unseelie_winter_court_24x32/"
+    },
+    {
+      "date": 1591578715,
+      "id": "t3_gyg6rx",
+      "picture": "https://preview.redd.it/zwapu59hti351.jpg?auto=webp&s=46391f6176c30895b0fbe42a1a67bf78ff0c5b7a",
+      "previewUrl": "https://preview.redd.it/zwapu59hti351.jpg?width=640&crop=smart&auto=webp&s=eaeb11671a141b52f5c1840ff86858af90ddc708",
+      "score": 4,
+      "title": "Inner Temple",
+      "url": "https://reddit.com/r/dndmaps/comments/gyg6rx/inner_temple/"
+    },
+    {
+      "date": 1591576137,
+      "id": "t3_gyff76",
+      "picture": "https://preview.redd.it/gku0ajmali351.jpg?auto=webp&s=707c7c40943cc95d6bea3318ab8cf03c720b09ca",
+      "previewUrl": "https://preview.redd.it/gku0ajmali351.jpg?width=640&crop=smart&auto=webp&s=f809399a02d8a031a76713e48e1b9634f29d605d",
+      "score": 9,
+      "title": "Haunted Taxidermy Parlour Battlemap [17x14]",
+      "url": "https://reddit.com/r/dndmaps/comments/gyff76/haunted_taxidermy_parlour_battlemap_17x14/"
+    },
+    {
+      "date": 1591570644,
+      "id": "t3_gydvsw",
+      "picture": "https://preview.redd.it/wubfqyu45i351.jpg?auto=webp&s=75ed49ae957ad06c4423fac9777205f085424abe",
+      "previewUrl": "https://preview.redd.it/wubfqyu45i351.jpg?width=640&crop=smart&auto=webp&s=d1a462766f90436d2b48648d4c4c8b23d0bbf131",
+      "score": 2,
+      "title": "City Of Gorm. First time trying something like this. Other work in comments.",
+      "url": "https://reddit.com/r/dndmaps/comments/gydvsw/city_of_gorm_first_time_trying_something_like/"
+    },
+    {
+      "date": 1591562475,
+      "id": "t3_gybnit",
+      "picture": "https://preview.redd.it/9n2tjbg5hh351.jpg?auto=webp&s=a5013cc87fa0628d21dd936ebb182574f63568fb",
+      "previewUrl": "https://preview.redd.it/9n2tjbg5hh351.jpg?width=640&crop=smart&auto=webp&s=7cf497f12f9a82202c79b1deedc0cd976c5671fd",
+      "score": 20,
+      "title": "Keep Vestibule",
+      "url": "https://reddit.com/r/dndmaps/comments/gybnit/keep_vestibule/"
+    },
+    {
+      "date": 1591553503,
+      "id": "t3_gy9oeo",
+      "picture": "https://preview.redd.it/1vsy79kmog351.jpg?auto=webp&s=a2d61feb00873ed674fb34e34b32d8d4319d765a",
+      "previewUrl": "https://preview.redd.it/1vsy79kmog351.jpg?width=640&crop=smart&auto=webp&s=1c8b2d0c032ae5d838d7ee2580bc8c24a2ae12ca",
+      "score": 1130,
+      "title": "Path Across the Lake [24x36]",
+      "url": "https://reddit.com/r/dndmaps/comments/gy9oeo/path_across_the_lake_24x36/"
+    },
+    {
+      "date": 1591552342,
+      "id": "t3_gy9fry",
+      "picture": "https://preview.redd.it/2ddzdwrymg351.jpg?auto=webp&s=9b6e7338b3b4757dd7d86f7b00ee5858f2d7c157",
+      "previewUrl": "https://preview.redd.it/2ddzdwrymg351.jpg?width=640&crop=smart&auto=webp&s=35694d55fdc9aab2f2d0c75db27c80ef4c139c86",
+      "score": 138,
+      "title": "[OC] Spider cave battlemap [46x48]",
+      "url": "https://reddit.com/r/dndmaps/comments/gy9fry/oc_spider_cave_battlemap_46x48/"
+    },
+    {
+      "date": 1591545848,
+      "id": "t3_gy8b7l",
+      "picture": "https://preview.redd.it/7wx3iegr3g351.jpg?auto=webp&s=116e4662e3c4fffe360d4d020270f2bfbb34f38b",
+      "previewUrl": "https://preview.redd.it/7wx3iegr3g351.jpg?width=640&crop=smart&auto=webp&s=6e2a8a26f07dd366ed2cd476ac4508db9c250889",
+      "score": 69,
+      "title": "Forest Path Battle Map 24x34",
+      "url": "https://reddit.com/r/dndmaps/comments/gy8b7l/forest_path_battle_map_24x34/"
+    },
+    {
+      "date": 1591530886,
+      "id": "t3_gy5fkr",
+      "picture": "https://preview.redd.it/4bsrxlf8ve351.jpg?auto=webp&s=f15a1d6f963785fa40d4b39fa402771695f7f2ba",
+      "previewUrl": "https://preview.redd.it/4bsrxlf8ve351.jpg?width=640&crop=smart&auto=webp&s=028020942d3485479a27b359cd6c01f559cf268a",
+      "score": 21,
+      "title": "The Oasis at Najan [40 x 40] [3840 x 3840] - More details in the comments!",
+      "url": "https://reddit.com/r/dndmaps/comments/gy5fkr/the_oasis_at_najan_40_x_40_3840_x_3840_more/"
+    },
+    {
+      "date": 1591525622,
+      "id": "t3_gy48gk",
+      "picture": "https://preview.redd.it/c74xs6qffe351.jpg?auto=webp&s=178133acd90d9d0c5c78ec75692c0a1b75c364fa",
+      "previewUrl": "https://preview.redd.it/c74xs6qffe351.jpg?width=640&crop=smart&auto=webp&s=054459ca8153ebaee838106df8a299ef0674efca",
+      "score": 61,
+      "title": "Asmodeus' Study [27x18]",
+      "url": "https://reddit.com/r/dndmaps/comments/gy48gk/asmodeus_study_27x18/"
+    },
+    {
+      "date": 1591523034,
+      "id": "t3_gy3kv9",
+      "picture": "https://preview.redd.it/hsg79vvr7e351.jpg?auto=webp&s=7c71b1210dd225c04f274e74c17e03a3038cc5f6",
+      "previewUrl": "https://preview.redd.it/hsg79vvr7e351.jpg?width=640&crop=smart&auto=webp&s=47f60465469585d52f694dab2fd162acf57c1a93",
+      "score": 7,
+      "title": "Karnarask, another map for your campaign's.",
+      "url": "https://reddit.com/r/dndmaps/comments/gy3kv9/karnarask_another_map_for_your_campaigns/"
+    },
+    {
+      "date": 1591522852,
+      "id": "t3_gy3j37",
+      "picture": "https://preview.redd.it/goj8h1r77e351.jpg?auto=webp&s=e5953a232541c51645123adb6c31714e4a2d0cbf",
+      "previewUrl": "https://preview.redd.it/goj8h1r77e351.jpg?width=640&crop=smart&auto=webp&s=c789f587a0318347bfda30b5894eed2ab46a3b33",
+      "score": 6,
+      "title": "The Arvandor. \"but in my universe\".",
+      "url": "https://reddit.com/r/dndmaps/comments/gy3j37/the_arvandor_but_in_my_universe/"
+    },
+    {
       "date": 1591515534,
       "id": "t3_gy1k6o",
       "picture": "https://preview.redd.it/9t8ilhmfkd351.jpg?auto=webp&s=28fb6da2593083c3e2431fb98d6e35fb0f531b03",
       "previewUrl": "https://preview.redd.it/9t8ilhmfkd351.jpg?width=640&crop=smart&auto=webp&s=3b0e6680c454d02bb9b8c8fafe62fc5d17aa750d",
-      "score": 3,
+      "score": 12,
       "title": "Rhiga (port to Mill Creek Swamp)",
       "url": "https://reddit.com/r/dndmaps/comments/gy1k6o/rhiga_port_to_mill_creek_swamp/"
     },
@@ -15,7 +141,7 @@
       "id": "t3_gy1ik7",
       "picture": "https://preview.redd.it/iqefd7v0ld351.png?auto=webp&s=7b96e3145a7318b88e20b5e7897eb52a0090b380",
       "previewUrl": "https://preview.redd.it/iqefd7v0ld351.png?width=640&crop=smart&auto=webp&s=99ff7dd98b232455713c4f7fa1d279ec8a9ee2a5",
-      "score": 3,
+      "score": 7,
       "title": "Rough draft of new world map",
       "url": "https://reddit.com/r/dndmaps/comments/gy1ik7/rough_draft_of_new_world_map/"
     },
@@ -24,7 +150,7 @@
       "id": "t3_gy02dm",
       "picture": "https://preview.redd.it/9xes801e5d351.jpg?auto=webp&s=5a45c9a476df186109731828d4447e35d6a8af80",
       "previewUrl": "https://preview.redd.it/9xes801e5d351.jpg?width=640&crop=smart&auto=webp&s=83a5e6cc53fbece58dea5e55549af1715bb5984d",
-      "score": 3,
+      "score": 17,
       "title": "Three story \"tavern\" from my \"City of the Gods\" D&D Campaign (lore in comments)",
       "url": "https://reddit.com/r/dndmaps/comments/gy02dm/three_story_tavern_from_my_city_of_the_gods_dd/"
     },
@@ -33,7 +159,7 @@
       "id": "t3_gxzvz6",
       "picture": "https://preview.redd.it/qmosixk63d351.png?auto=webp&s=debfb01a4a2897c3220df3fc1e39cb7c4bc71e8f",
       "previewUrl": "https://preview.redd.it/qmosixk63d351.png?width=640&crop=smart&auto=webp&s=22e26e020d4d4c1564d1b08dcb7ee81cd59ea779",
-      "score": 9,
+      "score": 48,
       "title": "Dunjune 06 - The Log Battle",
       "url": "https://reddit.com/r/dndmaps/comments/gxzvz6/dunjune_06_the_log_battle/"
     },
@@ -42,7 +168,7 @@
       "id": "t3_gxyktz",
       "picture": "https://preview.redd.it/4thsr6uyoc351.jpg?auto=webp&s=38405df616d1de42c4c18476debfb885c4836b12",
       "previewUrl": "https://preview.redd.it/4thsr6uyoc351.jpg?width=640&crop=smart&auto=webp&s=9b460f7db3c54c8217d42eb2cee743b297c28efd",
-      "score": 2,
+      "score": 9,
       "title": "A Starter-Town with Adventures and Cool NPCs",
       "url": "https://reddit.com/r/dndmaps/comments/gxyktz/a_startertown_with_adventures_and_cool_npcs/"
     },
@@ -51,7 +177,7 @@
       "id": "t3_gxy5w0",
       "picture": "https://preview.redd.it/f7zknnoujc351.jpg?auto=webp&s=2246d6e14bdf48b33aab3878647238139d1d0f45",
       "previewUrl": "https://preview.redd.it/f7zknnoujc351.jpg?width=640&crop=smart&auto=webp&s=2e90b678736166996871dfaaf4ee6dc310a9a706",
-      "score": 5,
+      "score": 12,
       "title": "36 x 36 Cavern Battle Map",
       "url": "https://reddit.com/r/dndmaps/comments/gxy5w0/36_x_36_cavern_battle_map/"
     },
@@ -60,7 +186,7 @@
       "id": "t3_gxy0kn",
       "picture": "https://preview.redd.it/e1vmvmt0jc351.jpg?auto=webp&s=442648afb0a9b71039349babd3d2a4d1a45e488d",
       "previewUrl": "https://preview.redd.it/e1vmvmt0jc351.jpg?width=640&crop=smart&auto=webp&s=131d8b802bc408c6f5bfae8da11f7f9876a484a8",
-      "score": 31,
+      "score": 91,
       "title": "Iido Inn & Bath House - A Feudal Japan Inspired Roadside Hotel! [34x22x2]",
       "url": "https://reddit.com/r/dndmaps/comments/gxy0kn/iido_inn_bath_house_a_feudal_japan_inspired/"
     },
@@ -96,7 +222,7 @@
       "id": "t3_gxsgyp",
       "picture": "https://preview.redd.it/v2yu1cul0b351.jpg?auto=webp&s=582eba3c24594a796518825352bf3ee6440192c1",
       "previewUrl": "https://preview.redd.it/v2yu1cul0b351.jpg?width=640&crop=smart&auto=webp&s=1e5091607f9df87c26c8bf2a90bc83ef1dde1508",
-      "score": 29,
+      "score": 46,
       "title": "Underdark Waterfall",
       "url": "https://reddit.com/r/dndmaps/comments/gxsgyp/underdark_waterfall/"
     },
@@ -141,7 +267,7 @@
       "id": "t3_gxqa4n",
       "picture": "https://preview.redd.it/woeqzz1vba351.jpg?auto=webp&s=1c8fb0b43c2074d46de2d6246b07405f0020bffb",
       "previewUrl": "https://preview.redd.it/woeqzz1vba351.jpg?width=640&crop=smart&auto=webp&s=d3a10265d4dab51b224c6a4dc9f57190174f0041",
-      "score": 21,
+      "score": 23,
       "title": "[OC] Old Temple Map",
       "url": "https://reddit.com/r/dndmaps/comments/gxqa4n/oc_old_temple_map/"
     },
@@ -150,7 +276,7 @@
       "id": "t3_gxq55v",
       "picture": "https://preview.redd.it/bijzt4fjaa351.jpg?auto=webp&s=83928b8b95aff86022286007fec6a1af765575aa",
       "previewUrl": "https://preview.redd.it/bijzt4fjaa351.jpg?width=640&crop=smart&auto=webp&s=1c035ede842199a460d398e7cb8222f90a917f41",
-      "score": 1531,
+      "score": 2093,
       "title": "I challenged myself to create another One Million square-feet of original battle maps in 1 month, so here it is Deeper Dungeons all free for you to download and use.",
       "url": "https://reddit.com/r/dndmaps/comments/gxq55v/i_challenged_myself_to_create_another_one_million/"
     },
@@ -186,7 +312,7 @@
       "id": "t3_gxdj60",
       "picture": "https://preview.redd.it/1v9v9lbgt5351.jpg?auto=webp&s=1959fbfa1b4ebd440398deaaf4985a05079c5ca0",
       "previewUrl": "https://preview.redd.it/1v9v9lbgt5351.jpg?width=640&crop=smart&auto=webp&s=7e6cadafe1874a142ae026f08df269b31d9783e6",
-      "score": 1121,
+      "score": 1127,
       "title": "Village next to a body of water [128x128] [150ppi]",
       "url": "https://reddit.com/r/dndmaps/comments/gxdj60/village_next_to_a_body_of_water_128x128_150ppi/"
     },

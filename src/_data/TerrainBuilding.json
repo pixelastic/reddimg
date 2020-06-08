@@ -2,11 +2,173 @@
   "bucket": "terrain",
   "records": [
     {
+      "date": 1591601340,
+      "id": "t3_gynaqd",
+      "picture": "https://preview.redd.it/2wea2v8rok351.jpg?auto=webp&s=dcb9955fe825135d42c970db006b56f6528f2ac1",
+      "previewUrl": "https://preview.redd.it/2wea2v8rok351.jpg?width=640&crop=smart&auto=webp&s=a9c747dc13fb95f8f18308f44dabf37ef9add921",
+      "score": 3,
+      "title": "Here's my latest project of converting a Wyldwood into a Game of Thrones inspired Weirwood tree. I made a video of the conversion process that I'll link down in the comments if you guys are interested. Hope you all like it!",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gynaqd/heres_my_latest_project_of_converting_a_wyldwood/"
+    },
+    {
+      "date": 1591598648,
+      "id": "t3_gymgpo",
+      "picture": "https://preview.redd.it/adrr3eligk351.jpg?auto=webp&s=6df19fe4019ed3957e8e4082b6b5a904c0135b9f",
+      "previewUrl": "https://preview.redd.it/adrr3eligk351.jpg?width=640&crop=smart&auto=webp&s=17a5c00b65d198eec044cc779509b1993b5ba7c3",
+      "score": 27,
+      "title": "My Fallout themed Kill Team board is finally complete!",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gymgpo/my_fallout_themed_kill_team_board_is_finally/"
+    },
+    {
+      "date": 1591594169,
+      "id": "t3_gyl0h1",
+      "picture": "https://preview.redd.it/7x95kz4g3k351.jpg?auto=webp&s=cbd0c0faa931499324c2b4ed976553814a6fb63e",
+      "previewUrl": "https://preview.redd.it/7x95kz4g3k351.jpg?width=640&crop=smart&auto=webp&s=f782aadd4b6bf9e34e1faad27bf3ec8a191129f9",
+      "score": 3,
+      "title": "Ork barricade!",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gyl0h1/ork_barricade/"
+    },
+    {
+      "date": 1591586740,
+      "id": "t3_gyilmw",
+      "picture": "https://preview.redd.it/hy9x62bdhj351.jpg?auto=webp&s=7b4848d8a5a8f076d4fa5ab08c1fdb01460f71d2",
+      "previewUrl": "https://preview.redd.it/hy9x62bdhj351.jpg?width=640&crop=smart&auto=webp&s=35c3e0de2e43c84c34e0f8ce11dd67b2200c368b",
+      "score": 36,
+      "title": "Some ruins/walls I finished (then left them out in the rain after varnishing)",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gyilmw/some_ruinswalls_i_finished_then_left_them_out_in/"
+    },
+    {
+      "date": 1591583424,
+      "id": "t3_gyhl4h",
+      "picture": "https://preview.redd.it/ey5855ub7j351.jpg?auto=webp&s=722da29ab7b0f4b33a4fd9a372d3cc381caabd5a",
+      "previewUrl": "https://preview.redd.it/ey5855ub7j351.jpg?width=640&crop=smart&auto=webp&s=7e8a63f39eeb5254a4bdf994eb141cceb2c52c4b",
+      "score": 55,
+      "title": "Colour scheme for Necromunda pipes (promethium relays and thermic plasma conduits) C&C welcome",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gyhl4h/colour_scheme_for_necromunda_pipes_promethium/"
+    },
+    {
+      "date": 1591574545,
+      "id": "t3_gyeytr",
+      "picture": "https://external-preview.redd.it/9VcRUployHjcMh_3nHqfAlDv_i2l2AU8H_6CyEpgm-Y.png?auto=webp&s=698f7318bfe50934a6767f7453e9287c9e6ccb2c",
+      "previewUrl": "",
+      "score": 24,
+      "title": "Making a miniature house.",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gyeytr/making_a_miniature_house/"
+    },
+    {
+      "date": 1591570542,
+      "id": "t3_gydupy",
+      "picture": "https://external-preview.redd.it/A3Wc_amsh_OEfEW0t32vw1izq_o7HvFgBbSm95RPAqk.png?format=pjpg&auto=webp&s=5c31a709bd389d245135efc223d75604e6a093c0",
+      "previewUrl": "https://external-preview.redd.it/A3Wc_amsh_OEfEW0t32vw1izq_o7HvFgBbSm95RPAqk.png?width=640&crop=smart&format=pjpg&auto=webp&s=203a04d34f3f1b62b6ce5b9dab330d3297f49c38",
+      "score": 6,
+      "title": "Awesome Modular Building Entrance/Boss Door/Shrine - tutorial and more examples in comments!",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gydupy/awesome_modular_building_entranceboss_doorshrine/"
+    },
+    {
+      "date": 1591568436,
+      "id": "t3_gyd8pg",
+      "picture": "https://external-preview.redd.it/Rvl9q7Yd5PbeX2064IxD85EuSyW5-drGCev_uzGVaCo.png?auto=webp&s=0bea826587c357863c36ab377fd8a98057f5cb7b",
+      "previewUrl": "https://external-preview.redd.it/Rvl9q7Yd5PbeX2064IxD85EuSyW5-drGCev_uzGVaCo.png?width=640&crop=smart&auto=webp&s=2a16b604f186ba60c64d67c0bebd89fcb9c27b29",
+      "score": 775,
+      "title": "You build this and then your opponent says “nah let’s use the foam hills and trees again”",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gyd8pg/you_build_this_and_then_your_opponent_says_nah/"
+    },
+    {
+      "date": 1591566481,
+      "id": "t3_gycoyl",
+      "picture": "https://external-preview.redd.it/zGSOQxFJL2UUE0LLqubtj5CxDHbUeDddadEQo8ZZqHQ.png?format=pjpg&auto=webp&s=87fec9d1b374d31f169652b9ee4e610564fcc287",
+      "previewUrl": "https://external-preview.redd.it/zGSOQxFJL2UUE0LLqubtj5CxDHbUeDddadEQo8ZZqHQ.png?width=640&crop=smart&format=pjpg&auto=webp&s=24705652beaf461b6a165b1d0e12ba41f1698f39",
+      "score": 35,
+      "title": "My Fallout Wasteland Warfare dice tower/terrain piece.",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gycoyl/my_fallout_wasteland_warfare_dice_towerterrain/"
+    },
+    {
+      "date": 1591563711,
+      "id": "t3_gybyjc",
+      "picture": "https://preview.redd.it/v5o088zvkh351.jpg?auto=webp&s=5b25b20237d84a325817b24f0713863fe27369cf",
+      "previewUrl": "https://preview.redd.it/v5o088zvkh351.jpg?width=640&crop=smart&auto=webp&s=c9a8205f9a42f77fd56396f3b5b0e281557e031d",
+      "score": 18,
+      "title": "(WIP) I took a leaf out BMC's book this weekend to attempt a \"no planning\" project. Just about run out of steam for now, any suggestions on painting techniques and colours? (Skirmish style tabletop terrain)",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gybyjc/wip_i_took_a_leaf_out_bmcs_book_this_weekend_to/"
+    },
+    {
+      "date": 1591562595,
+      "id": "t3_gybojr",
+      "picture": "https://external-preview.redd.it/4tGgJ5AYrDHjoyuSADsM8jNqeVSmAaqnjW_HrCzTFO0.jpg?auto=webp&s=00cdd88e47733def852dc73f79caa1c3101ecfdf",
+      "previewUrl": "https://external-preview.redd.it/4tGgJ5AYrDHjoyuSADsM8jNqeVSmAaqnjW_HrCzTFO0.jpg?width=640&crop=smart&auto=webp&s=552c5d92d5e7ad308867f0af3c3b237405e54c86",
+      "score": 113,
+      "title": "Cardboard Shaver Packaging in to Relay Station!",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gybojr/cardboard_shaver_packaging_in_to_relay_station/"
+    },
+    {
+      "date": 1591560888,
+      "id": "t3_gyba00",
+      "picture": "https://preview.redd.it/y4dkj9xhch351.jpg?auto=webp&s=22f44f747f3f4c0c380a7e5cdb512f3b6b8df8e5",
+      "previewUrl": "https://preview.redd.it/y4dkj9xhch351.jpg?width=640&crop=smart&auto=webp&s=dde54fccc50794e74fdb15c689c7b2ff5d5aee55",
+      "score": 65,
+      "title": "Painted the soil, did some drybrushing and did an oil wash on the whole thing",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gyba00/painted_the_soil_did_some_drybrushing_and_did_an/"
+    },
+    {
+      "date": 1591556775,
+      "id": "t3_gyacsq",
+      "picture": "https://external-preview.redd.it/rfRwAlMv1xU4fdvEXWFtKoMhvDPKHLUyWTeTt6I9KfQ.jpg?auto=webp&s=544aa46ce81cddd2b54a61bafdc71581b2329642",
+      "previewUrl": "",
+      "score": 6,
+      "title": "How to make swamp pools",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gyacsq/how_to_make_swamp_pools/"
+    },
+    {
+      "date": 1591553553,
+      "id": "t3_gy9or0",
+      "picture": "https://preview.redd.it/gmj8ckmoqg351.jpg?auto=webp&s=ebb7d2eb2c98fb04256c4b06e7737d233987ed77",
+      "previewUrl": "https://preview.redd.it/gmj8ckmoqg351.jpg?width=640&crop=smart&auto=webp&s=c15a75590f306e9a9b841f114272932ffb5d919a",
+      "score": 26,
+      "title": "Two WIP scratch builds for my 40k table. C&C welcome.",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gy9or0/two_wip_scratch_builds_for_my_40k_table_cc_welcome/"
+    },
+    {
+      "date": 1591550035,
+      "id": "t3_gy90ut",
+      "picture": "https://preview.redd.it/wrv49oso1g351.jpg?auto=webp&s=238933f0caf3cf64de86ed6dc726721dd7f4c66c",
+      "previewUrl": "https://preview.redd.it/wrv49oso1g351.jpg?width=640&crop=smart&auto=webp&s=bd8774eaa6fc3f4257f49e9273fac43a07a62f71",
+      "score": 540,
+      "title": "Found the better sub for this",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gy90ut/found_the_better_sub_for_this/"
+    },
+    {
+      "date": 1591533030,
+      "id": "t3_gy5vw6",
+      "picture": "https://preview.redd.it/54cjpm4l1f351.jpg?auto=webp&s=9e59fa5b09211c7347a2185ad2fa14e94b3b1d96",
+      "previewUrl": "https://preview.redd.it/54cjpm4l1f351.jpg?width=640&crop=smart&auto=webp&s=b172cf0f64381b572b0d5217484d4cdf189ab143",
+      "score": 466,
+      "title": "The Reddit Terrain Building Competition is over! Come check out the entries!!!!!",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gy5vw6/the_reddit_terrain_building_competition_is_over/"
+    },
+    {
+      "date": 1591531596,
+      "id": "t3_gy5l4k",
+      "picture": "https://external-preview.redd.it/OU46lYIwcUXkOWuhqvIloeOST7mAxawhCwe339siZLo.jpg?auto=webp&s=0275754f583c50ed13e5c7f63f7784a09eba792a",
+      "previewUrl": "https://external-preview.redd.it/OU46lYIwcUXkOWuhqvIloeOST7mAxawhCwe339siZLo.jpg?width=640&crop=smart&auto=webp&s=bd64aad31c176abf5d9d027b83c2c87ccd350470",
+      "score": 52,
+      "title": "The Competition is over!",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gy5l4k/the_competition_is_over/"
+    },
+    {
+      "date": 1591528511,
+      "id": "t3_gy4wfo",
+      "picture": "https://preview.redd.it/cs0pu2l7oe351.jpg?auto=webp&s=fec317871cb61dd8df40070f87936e97a8522b8f",
+      "previewUrl": "https://preview.redd.it/cs0pu2l7oe351.jpg?width=640&crop=smart&auto=webp&s=24f47adab52315c4b761250d334f17790ecd1fd6",
+      "score": 22,
+      "title": "WIP dwarven cavern entrance",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/gy4wfo/wip_dwarven_cavern_entrance/"
+    },
+    {
       "date": 1591510564,
       "id": "t3_gy06mk",
       "picture": "https://external-preview.redd.it/VOmyrfeMdY22MGH-YS8InsJPnKfFijT-vC9uUNL_4ZI.jpg?format=pjpg&auto=webp&s=763b847697e1b8101be67de672accf056174eadd",
       "previewUrl": "https://external-preview.redd.it/VOmyrfeMdY22MGH-YS8InsJPnKfFijT-vC9uUNL_4ZI.jpg?width=640&crop=smart&format=pjpg&auto=webp&s=a80d7e9ecec90c98f06498e2347c75f46375c0ba",
-      "score": 38,
+      "score": 594,
       "title": "Inside-playable 3 storey inn/tavern - I think I'm done! Thanks for all the feedback, support and advice!",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gy06mk/insideplayable_3_storey_inntavern_i_think_im_done/"
     },
@@ -15,7 +177,7 @@
       "id": "t3_gxz85l",
       "picture": "https://external-preview.redd.it/qRRx1uwn_dUwHF4SLgbcir7VdX1MTQZAcbTOW_xqlTU.jpg?auto=webp&s=3cb99b596c130aeef67f6ade2efce3233ed976ae",
       "previewUrl": "https://external-preview.redd.it/qRRx1uwn_dUwHF4SLgbcir7VdX1MTQZAcbTOW_xqlTU.jpg?width=640&crop=smart&auto=webp&s=9acd5b5bd67a91db1e13dcfbb05ab7fea7817134",
-      "score": 8,
+      "score": 36,
       "title": "3d Printed Gothic Statue, working on my shell damage before I drill into a Land Raider",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gxz85l/3d_printed_gothic_statue_working_on_my_shell/"
     },
@@ -24,7 +186,7 @@
       "id": "t3_gxxezi",
       "picture": "https://preview.redd.it/m20p7v5kdc351.jpg?auto=webp&s=16e0cc8ca4277c706d2cef86f2435ef5319f0923",
       "previewUrl": "https://preview.redd.it/m20p7v5kdc351.jpg?width=640&crop=smart&auto=webp&s=20c5a9a25b8ad1bc1899b6a73c9290b3c931b3fe",
-      "score": 46,
+      "score": 160,
       "title": "Finished the rooftop. Added tiles, a hatch and some fencing ✌️",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gxxezi/finished_the_rooftop_added_tiles_a_hatch_and_some/"
     },
@@ -42,7 +204,7 @@
       "id": "t3_gxwwff",
       "picture": "https://preview.redd.it/6egb9ndk8c351.jpg?auto=webp&s=e0a2e264fccdbfb03257aaf9a3f0bca463766a7e",
       "previewUrl": "https://preview.redd.it/6egb9ndk8c351.jpg?width=640&crop=smart&auto=webp&s=7a65b4ffd337fb836e27d6e6b5248c8f2861b01a",
-      "score": 21,
+      "score": 75,
       "title": "Welcome to Covidville. The little town built during trying times. This is the second building in this series.",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gxwwff/welcome_to_covidville_the_little_town_built/"
     },
@@ -51,7 +213,7 @@
       "id": "t3_gxwcxr",
       "picture": "https://preview.redd.it/edgxphp23c351.jpg?auto=webp&s=0f0b734685939fca21e2282b84afacc89cc721e1",
       "previewUrl": "https://preview.redd.it/edgxphp23c351.jpg?width=640&crop=smart&auto=webp&s=a382cb848009201716c50c385b2c260937cb0f2e",
-      "score": 18,
+      "score": 50,
       "title": "My scratch built bunker",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gxwcxr/my_scratch_built_bunker/"
     },
@@ -78,7 +240,7 @@
       "id": "t3_gxsv7i",
       "picture": "https://external-preview.redd.it/wqhAaTioK5wgeDWRsBWuuABy7WlmI_3vUbiccb8rXr4.png?auto=webp&s=3343bf9df5a8c208938a53b9b73836b36188ef1d",
       "previewUrl": "",
-      "score": 78,
+      "score": 154,
       "title": "Felt like this belonged here.",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gxsv7i/felt_like_this_belonged_here/"
     },
@@ -96,7 +258,7 @@
       "id": "t3_gxqciv",
       "picture": "https://external-preview.redd.it/_65-7hac0UoQiW45ErjSXLfCC0T1tBlmBOxzNk3wHGM.jpg?auto=webp&s=02e0a3bff071f2d4cfdc1b041d9638ee1aa56f02",
       "previewUrl": "https://external-preview.redd.it/_65-7hac0UoQiW45ErjSXLfCC0T1tBlmBOxzNk3wHGM.jpg?width=640&crop=smart&auto=webp&s=8dd255d851e58327af177c2a76b2e4cb122abc26",
-      "score": 934,
+      "score": 1227,
       "title": "Garages made from Old CD holders!",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gxqciv/garages_made_from_old_cd_holders/"
     },
@@ -168,7 +330,7 @@
       "id": "t3_gxn2wt",
       "picture": "https://preview.redd.it/2mkfbqsv19351.jpg?auto=webp&s=ec39056a0c1cecdc60b82a61b300428c5b38d540",
       "previewUrl": "https://preview.redd.it/2mkfbqsv19351.jpg?width=640&crop=smart&auto=webp&s=27501c1cf774f89984c59ebb7bfaeaf5c07d6cac",
-      "score": 304,
+      "score": 336,
       "title": "Scratch built take on GW bunker",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gxn2wt/scratch_built_take_on_gw_bunker/"
     },
