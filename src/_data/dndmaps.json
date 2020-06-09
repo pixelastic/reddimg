@@ -2,11 +2,218 @@
   "bucket": "maps",
   "records": [
     {
+      "date": 1591689243,
+      "id": "t3_gzbf6x",
+      "picture": "https://preview.redd.it/w6zlgsx5yr351.png?auto=webp&s=44f25b480eeff84ad92f640d74c6692733287daf",
+      "previewUrl": "https://preview.redd.it/w6zlgsx5yr351.png?width=640&crop=smart&auto=webp&s=b1e346b738b0d829a4cdd884fb364e3910e65712",
+      "score": 3,
+      "title": "[OC] Shrinking Oasis [Region Map][Desert][Oasis][2000x2000][50px Grid]",
+      "url": "https://reddit.com/r/dndmaps/comments/gzbf6x/oc_shrinking_oasis_region/"
+    },
+    {
+      "date": 1591687312,
+      "id": "t3_gzaues",
+      "picture": "https://preview.redd.it/zt426do5qr351.png?auto=webp&s=b74048e3a1b971ca36be4bd98d2c2cbe1fd65a92",
+      "previewUrl": "https://preview.redd.it/zt426do5qr351.png?width=640&crop=smart&auto=webp&s=aef19fe8357afd70871dbb115942dfb3c31706a5",
+      "score": 19,
+      "title": "Hoenn Route 104 (or alternatively, just a seaside beach) (30x30)",
+      "url": "https://reddit.com/r/dndmaps/comments/gzaues/hoenn_route_104_or_alternatively_just_a_seaside/"
+    },
+    {
+      "date": 1591685792,
+      "id": "t3_gzadco",
+      "picture": "https://preview.redd.it/1gnmg3ounr351.jpg?auto=webp&s=c94c8bc20579cbc4064196617c337a776206d5f9",
+      "previewUrl": "https://preview.redd.it/1gnmg3ounr351.jpg?width=640&crop=smart&auto=webp&s=6fe51b39f2652c3dc632b79a4c3b5111a139d1ae",
+      "score": 4,
+      "title": "Regional map for my upcoming D&D campaign - The Principalities of Black Sphinx Bay",
+      "url": "https://reddit.com/r/dndmaps/comments/gzadco/regional_map_for_my_upcoming_dd_campaign_the/"
+    },
+    {
+      "date": 1591680926,
+      "id": "t3_gz8s1d",
+      "picture": "https://preview.redd.it/ampp2t299r351.jpg?auto=webp&s=de981a2931ded30fdcb44fe787304dcd5230d052",
+      "previewUrl": "https://preview.redd.it/ampp2t299r351.jpg?width=640&crop=smart&auto=webp&s=fae280c91fe9068cb45803be5bdbeb71eb2fa484",
+      "score": 6,
+      "title": "Forest Bridge [38x24]",
+      "url": "https://reddit.com/r/dndmaps/comments/gz8s1d/forest_bridge_38x24/"
+    },
+    {
+      "date": 1591679176,
+      "id": "t3_gz85hk",
+      "picture": "https://external-preview.redd.it/RfjN7j_jhZa9nfgNjrr0jcHEKautIupCVPTiQSePuPw.jpg?auto=webp&s=16af73ce71701b7fce75c6c14b9334708d4ba1e5",
+      "previewUrl": "https://external-preview.redd.it/RfjN7j_jhZa9nfgNjrr0jcHEKautIupCVPTiQSePuPw.jpg?width=640&crop=smart&auto=webp&s=cb979556471134d28c9228fcf532b8614523c761",
+      "score": 18,
+      "title": "Watched Lotr with my wife a handful of months ago and since then I have spent time each day I could putting this together. I was inspired to try to make a map like Middle Earth and just fell in love with the style and it really became my own. Hope you guys like it! Feedback is always appreciated.",
+      "url": "https://reddit.com/r/dndmaps/comments/gz85hk/watched_lotr_with_my_wife_a_handful_of_months_ago/"
+    },
+    {
+      "date": 1591677424,
+      "id": "t3_gz7huu",
+      "picture": "https://preview.redd.it/6zl8enmxyq351.jpg?auto=webp&s=49571ac2c8eb511489deb56e326ddeba77eeaf20",
+      "previewUrl": "https://preview.redd.it/6zl8enmxyq351.jpg?width=640&crop=smart&auto=webp&s=3f95d09756ff399dae8a2c3192f277c6df01f1f6",
+      "score": 13,
+      "title": "A map of my current campaign world, The Shattered Isles.",
+      "url": "https://reddit.com/r/dndmaps/comments/gz7huu/a_map_of_my_current_campaign_world_the_shattered/"
+    },
+    {
+      "date": 1591675264,
+      "id": "t3_gz6pue",
+      "picture": "https://preview.redd.it/z1llek7gsq351.jpg?auto=webp&s=d308c768c8ddc7ec5245079c7abf8772939738e3",
+      "previewUrl": "https://preview.redd.it/z1llek7gsq351.jpg?width=640&crop=smart&auto=webp&s=610620ef1a84ab9210726c42cf074ec1470236ab",
+      "score": 91,
+      "title": "Spectral Font [21x35]",
+      "url": "https://reddit.com/r/dndmaps/comments/gz6pue/spectral_font_21x35/"
+    },
+    {
+      "date": 1591673652,
+      "id": "t3_gz65tv",
+      "picture": "https://preview.redd.it/ggjvcevqnq351.jpg?auto=webp&s=ede4ed3af511a81eb2792716cac49b3b42199265",
+      "previewUrl": "https://preview.redd.it/ggjvcevqnq351.jpg?width=640&crop=smart&auto=webp&s=1bef6c66e0de86c4576443362b4affde4833cfc3",
+      "score": 6,
+      "title": "First rough map, could I have some critique?",
+      "url": "https://reddit.com/r/dndmaps/comments/gz65tv/first_rough_map_could_i_have_some_critique/"
+    },
+    {
+      "date": 1591672851,
+      "id": "t3_gz5w3l",
+      "picture": "https://preview.redd.it/1tbx63gelq351.jpg?auto=webp&s=5da429c59fcba8b9ffd6f8662e2686ed8b33114d",
+      "previewUrl": "https://preview.redd.it/1tbx63gelq351.jpg?width=640&crop=smart&auto=webp&s=d5ecc35ef99b8cb46da1b3ced330cb9eeb9408ab",
+      "score": 6,
+      "title": "Isometric Encounter: The Torrent Rapids (Updated, more raging water!)",
+      "url": "https://reddit.com/r/dndmaps/comments/gz5w3l/isometric_encounter_the_torrent_rapids_updated/"
+    },
+    {
+      "date": 1591671635,
+      "id": "t3_gz5i28",
+      "picture": "https://preview.redd.it/jmb2iu4wgq351.png?auto=webp&s=96a4ea063faea0c8b0d1d85096fb027041cb3cbf",
+      "previewUrl": "https://preview.redd.it/jmb2iu4wgq351.png?width=640&crop=smart&auto=webp&s=c9bf25c7ab6fbf35f3f123b96329a7f02331775e",
+      "score": 18,
+      "title": "DunJune 08 - The Witch's Cauldron",
+      "url": "https://reddit.com/r/dndmaps/comments/gz5i28/dunjune_08_the_witchs_cauldron/"
+    },
+    {
+      "date": 1591665271,
+      "id": "t3_gz3fu2",
+      "picture": "https://preview.redd.it/fi57brrvyp351.png?auto=webp&s=b670002a2c1fbc329c3cce7823eab3b88fb5008a",
+      "previewUrl": "https://preview.redd.it/fi57brrvyp351.png?width=640&crop=smart&auto=webp&s=330bd51055162793e52a1996be05d11949117730",
+      "score": 264,
+      "title": "My first attempt at an isometric dungeonmap",
+      "url": "https://reddit.com/r/dndmaps/comments/gz3fu2/my_first_attempt_at_an_isometric_dungeonmap/"
+    },
+    {
+      "date": 1591664045,
+      "id": "t3_gz31ex",
+      "picture": "https://preview.redd.it/d2520s5zup351.jpg?auto=webp&s=610c46532d5e834b49cb0ce1bf047ff65753483b",
+      "previewUrl": "https://preview.redd.it/d2520s5zup351.jpg?width=640&crop=smart&auto=webp&s=2ad250b491c5f48e8b85723292596aebb5aed708",
+      "score": 8,
+      "title": "Curse of the Winter Mandrake - Battlemap [10x11]",
+      "url": "https://reddit.com/r/dndmaps/comments/gz31ex/curse_of_the_winter_mandrake_battlemap_10x11/"
+    },
+    {
+      "date": 1591663834,
+      "id": "t3_gz2yyj",
+      "picture": "https://preview.redd.it/ntpx7r6bup351.png?auto=webp&s=4bd3f6845e74aad05358467687e26a7776d5814d",
+      "previewUrl": "https://preview.redd.it/ntpx7r6bup351.png?width=640&crop=smart&auto=webp&s=e187b94d7aa92bfbad8f63c48967239007d274ef",
+      "score": 7,
+      "title": "Nightwyrm Fortress",
+      "url": "https://reddit.com/r/dndmaps/comments/gz2yyj/nightwyrm_fortress/"
+    },
+    {
+      "date": 1591655591,
+      "id": "t3_gz0fg0",
+      "picture": "https://preview.redd.it/yaquuimy5p351.jpg?auto=webp&s=11d4ba9f0b4108fe2696fccbc4c40c62e14eb8ed",
+      "previewUrl": "https://preview.redd.it/yaquuimy5p351.jpg?width=640&crop=smart&auto=webp&s=1e04c3fa6eaef5cde7eb6a047002da77881ed69f",
+      "score": 9,
+      "title": "Derwon Keep (2nd Floor)",
+      "url": "https://reddit.com/r/dndmaps/comments/gz0fg0/derwon_keep_2nd_floor/"
+    },
+    {
+      "date": 1591655170,
+      "id": "t3_gz0azz",
+      "picture": "https://preview.redd.it/1g99jiku4p351.jpg?auto=webp&s=de2788fde6315dfd6a1e5ca2152a28ffd642c89c",
+      "previewUrl": "https://preview.redd.it/1g99jiku4p351.jpg?width=640&crop=smart&auto=webp&s=dae0f7e8cefd7fac9f667825ec152a80c2011752",
+      "score": 18,
+      "title": "First map I drew!",
+      "url": "https://reddit.com/r/dndmaps/comments/gz0azz/first_map_i_drew/"
+    },
+    {
+      "date": 1591648365,
+      "id": "t3_gyygqo",
+      "picture": "https://preview.redd.it/80oke958ko351.jpg?auto=webp&s=c97212acc03ad5d9f5b90b8aab9f093b98d4e06e",
+      "previewUrl": "https://preview.redd.it/80oke958ko351.jpg?width=640&crop=smart&auto=webp&s=b55e12fbc8e416bfe855dacb5cab8349a9d27141",
+      "score": 10,
+      "title": "Trying the satellite-like map for Appo, my homebrew world",
+      "url": "https://reddit.com/r/dndmaps/comments/gyygqo/trying_the_satellitelike_map_for_appo_my_homebrew/"
+    },
+    {
+      "date": 1591648272,
+      "id": "t3_gyyfvy",
+      "picture": "https://preview.redd.it/bw3yif24ko351.jpg?auto=webp&s=7af7164d60eab71e6b3487ed5a04c53d059d8224",
+      "previewUrl": "https://preview.redd.it/bw3yif24ko351.jpg?width=640&crop=smart&auto=webp&s=28c901e02965139b4f32ac62456f41b3b02b9a09",
+      "score": 76,
+      "title": "Dockside Warehouse [30x50]",
+      "url": "https://reddit.com/r/dndmaps/comments/gyyfvy/dockside_warehouse_30x50/"
+    },
+    {
+      "date": 1591647011,
+      "id": "t3_gyy5bj",
+      "picture": "https://preview.redd.it/ohej4q6bgo351.jpg?auto=webp&s=7cbfebd51fb1dccb3c8a0c45fb5ef613929d68b0",
+      "previewUrl": "https://preview.redd.it/ohej4q6bgo351.jpg?width=640&crop=smart&auto=webp&s=45703cd0156ccc59428a9b742c423182f908c3a2",
+      "score": 919,
+      "title": "Icy Forest Encampment [35x30]",
+      "url": "https://reddit.com/r/dndmaps/comments/gyy5bj/icy_forest_encampment_35x30/"
+    },
+    {
+      "date": 1591629991,
+      "id": "t3_gyukay",
+      "picture": "https://preview.redd.it/z1a0ogzy1n351.png?auto=webp&s=f17143a7f196b5ef85f8576cc52fff7dcdab8894",
+      "previewUrl": "https://preview.redd.it/z1a0ogzy1n351.png?width=640&crop=smart&auto=webp&s=b3691ba01ea51770de8af7b0abed1ea415756afe",
+      "score": 13,
+      "title": "The Redthunder archipelago, the setting for my upcoming pathfinder game",
+      "url": "https://reddit.com/r/dndmaps/comments/gyukay/the_redthunder_archipelago_the_setting_for_my/"
+    },
+    {
+      "date": 1591614618,
+      "id": "t3_gyqsds",
+      "picture": "https://preview.redd.it/ldon3d19sk351.jpg?auto=webp&s=9ef2cde78e7bab90b31b578a17c329d1275fe293",
+      "previewUrl": "https://preview.redd.it/ldon3d19sk351.jpg?width=640&crop=smart&auto=webp&s=524d6335cabeace9bf8a14ab60a6fa02028c8bf2",
+      "score": 8,
+      "title": "Turann, Land of the God-Emperor. All other kingdoms have fallen to His holy sword",
+      "url": "https://reddit.com/r/dndmaps/comments/gyqsds/turann_land_of_the_godemperor_all_other_kingdoms/"
+    },
+    {
+      "date": 1591612221,
+      "id": "t3_gyq6t3",
+      "picture": "https://preview.redd.it/8zsgsid2ll351.png?auto=webp&s=70ef58e76ae97eeecbbcf31d6917740f2cb1dc12",
+      "previewUrl": "https://preview.redd.it/8zsgsid2ll351.png?width=640&crop=smart&auto=webp&s=374a551506612e687283677bf629cd0f3fde2ca9",
+      "score": 89,
+      "title": "[OC] Secret Falls [Battlemap][Waterfall][2000 x 2000][50px Grid]",
+      "url": "https://reddit.com/r/dndmaps/comments/gyq6t3/oc_secret_falls_battlemapwaterfall2000_x_200050px/"
+    },
+    {
+      "date": 1591610969,
+      "id": "t3_gypvgn",
+      "picture": "https://preview.redd.it/a473poc5hl351.jpg?auto=webp&s=7547b3128380c49aad6e2b58e2ae0736ac0584b2",
+      "previewUrl": "https://preview.redd.it/a473poc5hl351.jpg?width=640&crop=smart&auto=webp&s=518bbce5fbdd3d6e7d320ce204d755d43fb50a61",
+      "score": 205,
+      "title": "The City of Terramere, capital of a shrunken empire. Created using Inkarnate.",
+      "url": "https://reddit.com/r/dndmaps/comments/gypvgn/the_city_of_terramere_capital_of_a_shrunken/"
+    },
+    {
+      "date": 1591607649,
+      "id": "t3_gyp1hd",
+      "picture": "https://preview.redd.it/5jwmo51i7l351.jpg?auto=webp&s=3a80d83f0ece89a4ab79cf39a888eb9c50d6b293",
+      "previewUrl": "https://preview.redd.it/5jwmo51i7l351.jpg?width=640&crop=smart&auto=webp&s=7ab91fc315c6ef25220ff177a6ae2e698bef0316",
+      "score": 24,
+      "title": "Bizzack’s Bar and Grill 30x20 Multi-Level Battlemap! [OC]",
+      "url": "https://reddit.com/r/dndmaps/comments/gyp1hd/bizzacks_bar_and_grill_30x20_multilevel_battlemap/"
+    },
+    {
       "date": 1591597807,
       "id": "t3_gym71z",
       "picture": "https://preview.redd.it/56ca271aek351.jpg?auto=webp&s=dd7ca40ed4df40ffba590b98aa64415cb67b895f",
       "previewUrl": "https://preview.redd.it/56ca271aek351.jpg?width=640&crop=smart&auto=webp&s=816ed7bb5382bc785dcbc0370cc406fd655439cc",
-      "score": 29,
+      "score": 1022,
       "title": "My first attempt at a map for my in progress homebrew world.",
       "url": "https://reddit.com/r/dndmaps/comments/gym71z/my_first_attempt_at_a_map_for_my_in_progress/"
     },
@@ -69,7 +276,7 @@
       "id": "t3_gy9oeo",
       "picture": "https://preview.redd.it/1vsy79kmog351.jpg?auto=webp&s=a2d61feb00873ed674fb34e34b32d8d4319d765a",
       "previewUrl": "https://preview.redd.it/1vsy79kmog351.jpg?width=640&crop=smart&auto=webp&s=1c8b2d0c032ae5d838d7ee2580bc8c24a2ae12ca",
-      "score": 1130,
+      "score": 1274,
       "title": "Path Across the Lake [24x36]",
       "url": "https://reddit.com/r/dndmaps/comments/gy9oeo/path_across_the_lake_24x36/"
     },
