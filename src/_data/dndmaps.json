@@ -2,6 +2,186 @@
   "bucket": "maps",
   "records": [
     {
+      "date": 1591950102,
+      "id": "t3_h7a4qo",
+      "picture": "https://external-preview.redd.it/U9c27LpBd-7wRW1JArL6cirvzunjEjXAqJdmXpOXjKA.jpg?auto=webp&s=6ff111ca0cacfb7b24ce771ec0dd8cb61615e129",
+      "previewUrl": "https://external-preview.redd.it/U9c27LpBd-7wRW1JArL6cirvzunjEjXAqJdmXpOXjKA.jpg?width=640&crop=smart&auto=webp&s=7f27d1aa0bf0799568bc27fb1f2eec26a1edeecd",
+      "score": 1,
+      "title": "DnD Homestead Map with optional basement, hatch under the rug",
+      "url": "https://reddit.com/r/dndmaps/comments/h7a4qo/dnd_homestead_map_with_optional_basement_hatch/"
+    },
+    {
+      "date": 1591941339,
+      "id": "t3_h77h9r",
+      "picture": "https://preview.redd.it/jaouylwdrc451.png?auto=webp&s=41961dcd52a0ff42fccc4880a5bfe5c93e49525c",
+      "previewUrl": "https://preview.redd.it/jaouylwdrc451.png?width=640&crop=smart&auto=webp&s=dbac76d293bf04110b6c17ede908e0d8c78086ff",
+      "score": 22,
+      "title": "DunJune 11 - The Ticking Clock",
+      "url": "https://reddit.com/r/dndmaps/comments/h77h9r/dunjune_11_the_ticking_clock/"
+    },
+    {
+      "date": 1591939520,
+      "id": "t3_h76vdl",
+      "picture": "https://preview.redd.it/eewkqr5cmc451.png?auto=webp&s=75bbcc1380c30931df5186ef3019e50b72c113e9",
+      "previewUrl": "https://preview.redd.it/eewkqr5cmc451.png?width=640&crop=smart&auto=webp&s=3cafaf992bbdd275a0ebfe1b5630fad344f8ef53",
+      "score": 1,
+      "title": "[OC] Pastel Peak [Region Map][Town][2000px x 2000px][50px Grid][Colorful]",
+      "url": "https://reddit.com/r/dndmaps/comments/h76vdl/oc_pastel_peak_region_maptown2000px_x_2000px50px/"
+    },
+    {
+      "date": 1591937964,
+      "id": "t3_h17wjv",
+      "picture": "https://preview.redd.it/0ovi2kfphc451.png?auto=webp&s=e60ddd6a1d280404991157636bfbc9205d50205d",
+      "previewUrl": "https://preview.redd.it/0ovi2kfphc451.png?width=640&crop=smart&auto=webp&s=86da68f3a00a8365ef9e6674fd749a064524bcf3",
+      "score": 1,
+      "title": "Tortoiseback city of Urzin from Wildemount campaign setting",
+      "url": "https://reddit.com/r/dndmaps/comments/h17wjv/tortoiseback_city_of_urzin_from_wildemount/"
+    },
+    {
+      "date": 1591936359,
+      "id": "t3_h17ds0",
+      "picture": "https://preview.redd.it/w2m2qw4qcc451.jpg?auto=webp&s=0ee3ed168cb788b0e1b1402a632022154aa7307e",
+      "previewUrl": "https://preview.redd.it/w2m2qw4qcc451.jpg?width=640&crop=smart&auto=webp&s=821d72d8dcada5c083e8a53c4a2021893b70fa57",
+      "score": 10,
+      "title": "Viking raid [40x40]",
+      "url": "https://reddit.com/r/dndmaps/comments/h17ds0/viking_raid_40x40/"
+    },
+    {
+      "date": 1591935447,
+      "id": "t3_h173dx",
+      "picture": "https://preview.redd.it/w04em1qy9c451.jpg?auto=webp&s=136d4cd2fb69b793a70d37040f7dad583da354fc",
+      "previewUrl": "https://preview.redd.it/w04em1qy9c451.jpg?width=640&crop=smart&auto=webp&s=4a93b350d1cfc4dca2f8f378256aecea995ab758",
+      "score": 10,
+      "title": "The Ruins near Elverston Hold (three versions from B&W to full colour, links in comments)",
+      "url": "https://reddit.com/r/dndmaps/comments/h173dx/the_ruins_near_elverston_hold_three_versions_from/"
+    },
+    {
+      "date": 1591932534,
+      "id": "t3_h165og",
+      "picture": "https://preview.redd.it/99ed248h1c451.jpg?auto=webp&s=ab90344dc5b9d81139d1cf95e059c5c003f24994",
+      "previewUrl": "https://preview.redd.it/99ed248h1c451.jpg?width=640&crop=smart&auto=webp&s=43549cb6bdfaa909f16722bd804c89dd7a7a474e",
+      "score": 3,
+      "title": "Gregor's Island. Small Region Map of a Jungle Themed Island. Dinosaurs, Giant Insects, and Other Ancient Creatures Lurk Among the Luscious Flora.",
+      "url": "https://reddit.com/r/dndmaps/comments/h165og/gregors_island_small_region_map_of_a_jungle/"
+    },
+    {
+      "date": 1591929738,
+      "id": "t3_h15849",
+      "picture": "https://preview.redd.it/nv8o6dm5tb451.png?auto=webp&s=6f6889765f5a6b44e2ecf989a8d90190c3d88da1",
+      "previewUrl": "https://preview.redd.it/nv8o6dm5tb451.png?width=640&crop=smart&auto=webp&s=51df5b716bb755af3c6b9c62b1486d4a3980fbe3",
+      "score": 27,
+      "title": "[OC] The Dark Druid's Cave, dungeon map",
+      "url": "https://reddit.com/r/dndmaps/comments/h15849/oc_the_dark_druids_cave_dungeon_map/"
+    },
+    {
+      "date": 1591928952,
+      "id": "t3_h14yiu",
+      "picture": "https://preview.redd.it/m3uvchgxqb451.jpg?auto=webp&s=2c25b965579f52369b2f2c90e6450999a73a7589",
+      "previewUrl": "https://preview.redd.it/m3uvchgxqb451.jpg?width=640&crop=smart&auto=webp&s=930a6dbb11ff23db2ce3d5f7ecfdcdf7139da268",
+      "score": 8,
+      "title": "Just finished the encounter map for the game I’m running",
+      "url": "https://reddit.com/r/dndmaps/comments/h14yiu/just_finished_the_encounter_map_for_the_game_im/"
+    },
+    {
+      "date": 1591928619,
+      "id": "t3_h14ufj",
+      "picture": "https://preview.redd.it/c381az1zob451.png?auto=webp&s=958d1e258f8816090a1d0245a3c00b68815730eb",
+      "previewUrl": "https://preview.redd.it/c381az1zob451.png?width=640&crop=smart&auto=webp&s=36997da2b034fcb21db90d56b907bb2727d0ba49",
+      "score": 5,
+      "title": "West Medan - The Lands of The Everliving",
+      "url": "https://reddit.com/r/dndmaps/comments/h14ufj/west_medan_the_lands_of_the_everliving/"
+    },
+    {
+      "date": 1591921832,
+      "id": "t3_h12msf",
+      "picture": "https://preview.redd.it/ur052sdc5b451.jpg?auto=webp&s=f691a4b01e3872e93c138047a8626a78dfed1211",
+      "previewUrl": "https://preview.redd.it/ur052sdc5b451.jpg?width=640&crop=smart&auto=webp&s=fe62b385d5d8fcbf2b9aaec6483b257e33d1f29f",
+      "score": 12,
+      "title": "Before The Cave [22x30]",
+      "url": "https://reddit.com/r/dndmaps/comments/h12msf/before_the_cave_22x30/"
+    },
+    {
+      "date": 1591921464,
+      "id": "t3_h12in3",
+      "picture": "https://preview.redd.it/eq00co9sza451.jpg?auto=webp&s=c36e26999855f396794927fc045f5f5da927e869",
+      "previewUrl": "https://preview.redd.it/eq00co9sza451.jpg?width=640&crop=smart&auto=webp&s=335a06f56a45c63c842cec941558001e2500c34e",
+      "score": 17,
+      "title": "Medieval Guard Post Battlemap [11x11]",
+      "url": "https://reddit.com/r/dndmaps/comments/h12in3/medieval_guard_post_battlemap_11x11/"
+    },
+    {
+      "date": 1591920321,
+      "id": "t3_h125ji",
+      "picture": "https://external-preview.redd.it/7y2s-3-Lg92lJAAIRJdBb6cirKcfwq1qDgLH_23o4-4.png?format=pjpg&auto=webp&s=6ae8fca5056ce9f9b485468a94d34e02549eec95",
+      "previewUrl": "https://external-preview.redd.it/7y2s-3-Lg92lJAAIRJdBb6cirKcfwq1qDgLH_23o4-4.png?width=640&crop=smart&format=pjpg&auto=webp&s=6d1608581db7e42b55b9c236ee531c3ffaa7a2c1",
+      "score": 23,
+      "title": "Here's a new regional map: The Howling Tundra. As usual, the 4K scan is available for free (link in comments)",
+      "url": "https://reddit.com/r/dndmaps/comments/h125ji/heres_a_new_regional_map_the_howling_tundra_as/"
+    },
+    {
+      "date": 1591917610,
+      "id": "t3_h11azc",
+      "picture": "https://preview.redd.it/5rddk94qsa451.jpg?auto=webp&s=eca06d70aa30588b37cd05aad450f5d795a2ccc4",
+      "previewUrl": "https://preview.redd.it/5rddk94qsa451.jpg?width=640&crop=smart&auto=webp&s=420d163635cbc33f955a9d86f46cdfbb94334e71",
+      "score": 5,
+      "title": "Cool Regional Map for Starting Characters and DMs - hex grid",
+      "url": "https://reddit.com/r/dndmaps/comments/h11azc/cool_regional_map_for_starting_characters_and_dms/"
+    },
+    {
+      "date": 1591914377,
+      "id": "t3_h10b02",
+      "picture": "https://preview.redd.it/1f9g1xkhja451.png?auto=webp&s=fdff0f97060befaec94f0e397903860a78d24e08",
+      "previewUrl": "https://preview.redd.it/1f9g1xkhja451.png?width=640&crop=smart&auto=webp&s=e303640b0888432e874b87556b259e757325f0cf",
+      "score": 22,
+      "title": "Ruined Fort 33x18",
+      "url": "https://reddit.com/r/dndmaps/comments/h10b02/ruined_fort_33x18/"
+    },
+    {
+      "date": 1591913783,
+      "id": "t3_h104mo",
+      "picture": "https://preview.redd.it/hj7wjlhlha451.jpg?auto=webp&s=203dc67433cea5a862cc5bce733033cbc2a97fb1",
+      "previewUrl": "https://preview.redd.it/hj7wjlhlha451.jpg?width=640&crop=smart&auto=webp&s=d8b30566770284c925bede6e09d3133e8c9e84bf",
+      "score": 22,
+      "title": "Fortress Bridge - Alternate version",
+      "url": "https://reddit.com/r/dndmaps/comments/h104mo/fortress_bridge_alternate_version/"
+    },
+    {
+      "date": 1591912614,
+      "id": "t3_h0zruz",
+      "picture": "https://external-preview.redd.it/fPRCjgxuSAF8FEb0W2LUo0CqlDplrm35vgg2w6SIkKc.jpg?auto=webp&s=02e344ade8242b14c5737d7255c598c81568bd4c",
+      "previewUrl": "https://external-preview.redd.it/fPRCjgxuSAF8FEb0W2LUo0CqlDplrm35vgg2w6SIkKc.jpg?width=640&crop=smart&auto=webp&s=61045fe936ea12c34eb1652322281d2d1065818b",
+      "score": 3,
+      "title": "Sniden's Fondre: a mountainous tundra region map",
+      "url": "https://reddit.com/r/dndmaps/comments/h0zruz/snidens_fondre_a_mountainous_tundra_region_map/"
+    },
+    {
+      "date": 1591911078,
+      "id": "t3_h0zcrx",
+      "picture": "https://preview.redd.it/r2e1c7ks9a451.jpg?auto=webp&s=52929460f1aaddb220ff1dc6c278c4c816ff967b",
+      "previewUrl": "https://preview.redd.it/r2e1c7ks9a451.jpg?width=640&crop=smart&auto=webp&s=241bd1fb11b8632755e42122051c2cdc7a711afe",
+      "score": 10,
+      "title": "The Hoisted Bean, First Floor- Tavern Battlemap. Who’s ready for a bar brawl? First post here. Made with DPS, Filtered through Clip2Comic App.",
+      "url": "https://reddit.com/r/dndmaps/comments/h0zcrx/the_hoisted_bean_first_floor_tavern_battlemap/"
+    },
+    {
+      "date": 1591903199,
+      "id": "t3_h0xeys",
+      "picture": "https://preview.redd.it/b326v5e3m9451.jpg?auto=webp&s=741f2e12987f1645e197d95fe62b14b38351ceef",
+      "previewUrl": "https://preview.redd.it/b326v5e3m9451.jpg?width=640&crop=smart&auto=webp&s=49b1384c5fe29c8ea9103e1cdc30dafcd88df6b6",
+      "score": 1140,
+      "title": "Fortress Bridge",
+      "url": "https://reddit.com/r/dndmaps/comments/h0xeys/fortress_bridge/"
+    },
+    {
+      "date": 1591880841,
+      "id": "t3_h0sl9p",
+      "picture": "https://preview.redd.it/ujuvvkovr7451.jpg?auto=webp&s=28f897546632b11c993723cee1ab68accb3a36b5",
+      "previewUrl": "https://preview.redd.it/ujuvvkovr7451.jpg?width=640&crop=smart&auto=webp&s=221e818bd2bfc95f94a84ccf1f5299ad1efc9c21",
+      "score": 97,
+      "title": "The Kingdom of Lamereth",
+      "url": "https://reddit.com/r/dndmaps/comments/h0sl9p/the_kingdom_of_lamereth/"
+    },
+    {
       "date": 1591863337,
       "id": "t3_h0nzi2",
       "picture": "https://preview.redd.it/6qfpqq1ub6451.jpg?auto=webp&s=44063b43d9afa12e7e5d92d3f923778e7daf31b8",
@@ -24,7 +204,7 @@
       "id": "t3_h0m1jc",
       "picture": "https://preview.redd.it/sdttm20ot5451.jpg?auto=webp&s=c688452bc07ad9b0ead9346f45289f2bdca12131",
       "previewUrl": "https://preview.redd.it/sdttm20ot5451.jpg?width=640&crop=smart&auto=webp&s=acc38de3ec88a5698ea41deea6e6497f5f8f0b34",
-      "score": 14,
+      "score": 103,
       "title": "The Ancient Library of Sesha",
       "url": "https://reddit.com/r/dndmaps/comments/h0m1jc/the_ancient_library_of_sesha/"
     },
@@ -60,7 +240,7 @@
       "id": "t3_h0g6vh",
       "picture": "https://preview.redd.it/d66h8fr3g4451.jpg?auto=webp&s=6b2252a077701c7c169e5a33d55a21a03f319855",
       "previewUrl": "https://preview.redd.it/d66h8fr3g4451.jpg?width=640&crop=smart&auto=webp&s=3cc5adb56d28f887b227ea01664d08a0117665ea",
-      "score": 113,
+      "score": 323,
       "title": "[OC][Art][25x22] Winter Ambush Site - Battle map",
       "url": "https://reddit.com/r/dndmaps/comments/h0g6vh/ocart25x22_winter_ambush_site_battle_map/"
     },
@@ -69,7 +249,7 @@
       "id": "t3_h0dwp6",
       "picture": "https://preview.redd.it/hozev1o1s3451.jpg?auto=webp&s=d88cc79f0e855b51f70eacd639aeb536c1fa492b",
       "previewUrl": "https://preview.redd.it/hozev1o1s3451.jpg?width=640&crop=smart&auto=webp&s=d90c55027cd6d63a3d85ffbb674b0e32aedde2e3",
-      "score": 327,
+      "score": 1012,
       "title": "Underground Fighting Ring [16x12]",
       "url": "https://reddit.com/r/dndmaps/comments/h0dwp6/underground_fighting_ring_16x12/"
     },
@@ -78,7 +258,7 @@
       "id": "t3_h0ars7",
       "picture": "https://preview.redd.it/tarxqo5m23451.png?auto=webp&s=e8f75b0c1cb98f84a3ab5f99aaf7b7367115cda2",
       "previewUrl": "https://preview.redd.it/tarxqo5m23451.png?width=640&crop=smart&auto=webp&s=fee2331b02f6de9f044f36cb3d95880ed083019f",
-      "score": 332,
+      "score": 473,
       "title": "A small swamp region map made with a height map applied to it.",
       "url": "https://reddit.com/r/dndmaps/comments/h0ars7/a_small_swamp_region_map_made_with_a_height_map/"
     },
@@ -123,7 +303,7 @@
       "id": "t3_h06ifn",
       "picture": "https://preview.redd.it/851qgzhqi1451.jpg?auto=webp&s=464256085b32a5d5b640ea56a4f1a5e73779198b",
       "previewUrl": "https://preview.redd.it/851qgzhqi1451.jpg?width=640&crop=smart&auto=webp&s=d24dc183b5a6c58b1e9904509923b95b2f0b2348",
-      "score": 846,
+      "score": 901,
       "title": "Enura - The five kingdoms and the world beyond",
       "url": "https://reddit.com/r/dndmaps/comments/h06ifn/enura_the_five_kingdoms_and_the_world_beyond/"
     },
