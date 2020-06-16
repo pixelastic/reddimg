@@ -2,11 +2,74 @@
   "bucket": "terrain",
   "records": [
     {
+      "date": 1592276873,
+      "id": "t3_h9mnej",
+      "picture": "https://preview.redd.it/adzvil6hh4551.jpg?auto=webp&s=012d7838e2804357227e6a9cc85532f553af7cef",
+      "previewUrl": "https://preview.redd.it/adzvil6hh4551.jpg?width=640&crop=smart&auto=webp&s=302921c8593c868f55f0d4be943d37ce4dd9d690",
+      "score": 23,
+      "title": "My first attempt at building terrain.",
+      "url": "https://reddit.com/r/DnDIY/comments/h9mnej/my_first_attempt_at_building_terrain/"
+    },
+    {
+      "date": 1592275779,
+      "id": "t3_h9mabu",
+      "picture": "https://preview.redd.it/kmscvkn7e4551.jpg?auto=webp&s=7188a8f7fc31e94a38c9cc47a328c6f88c1bb03d",
+      "previewUrl": "https://preview.redd.it/kmscvkn7e4551.jpg?width=640&crop=smart&auto=webp&s=328d958109fb9031a6995da843b283cdb4ae060b",
+      "score": 5,
+      "title": "My second crafting project completed. A prison!",
+      "url": "https://reddit.com/r/DnDIY/comments/h9mabu/my_second_crafting_project_completed_a_prison/"
+    },
+    {
+      "date": 1592267779,
+      "id": "t3_h9jr7n",
+      "picture": "https://preview.redd.it/ujl5nerfq3551.jpg?auto=webp&s=2b0d5ec31d64454ce9652b3e4ab3501d29553e38",
+      "previewUrl": "https://preview.redd.it/ujl5nerfq3551.jpg?width=640&crop=smart&auto=webp&s=11ff0a6e3f476b2dd9e0d79a43f0a9d6a5f5f72d",
+      "score": 9,
+      "title": "I crafted a boss room in the catacombs for my Gravelord necromancer. Easy to follow steps to make your own. Info and tutorial in comments.",
+      "url": "https://reddit.com/r/DnDIY/comments/h9jr7n/i_crafted_a_boss_room_in_the_catacombs_for_my/"
+    },
+    {
+      "date": 1592265606,
+      "id": "t3_h9j2ff",
+      "picture": "https://preview.redd.it/b5dniogvj3551.jpg?auto=webp&s=6a528db8dddaebdec1e77763b73c0f946764a63c",
+      "previewUrl": "https://preview.redd.it/b5dniogvj3551.jpg?width=640&crop=smart&auto=webp&s=eeaca643b0e1110df1659ede1635bca1504a5f18",
+      "score": 27,
+      "title": "I made a working tea light campfire for under 5 bucks",
+      "url": "https://reddit.com/r/DnDIY/comments/h9j2ff/i_made_a_working_tea_light_campfire_for_under_5/"
+    },
+    {
+      "date": 1592261134,
+      "id": "t3_h9hqin",
+      "picture": "https://preview.redd.it/tju78xmn63551.jpg?auto=webp&s=2b06787134e0dce88788234071a05667e24f9f89",
+      "previewUrl": "https://preview.redd.it/tju78xmn63551.jpg?width=640&crop=smart&auto=webp&s=3e8ce172ffd9242d31734755f910c08e51433d96",
+      "score": 416,
+      "title": "Icy Wastes Scenery",
+      "url": "https://reddit.com/r/DnDIY/comments/h9hqin/icy_wastes_scenery/"
+    },
+    {
+      "date": 1592248441,
+      "id": "t3_h9e9sp",
+      "picture": "https://preview.redd.it/8p84i17v42551.png?auto=webp&s=a2671f9ae2c717282ed629b8e3b509f0e9499c97",
+      "previewUrl": "https://preview.redd.it/8p84i17v42551.png?width=640&crop=smart&auto=webp&s=3f40329e278b5e0f672fc76c85cf4a53bf143243",
+      "score": 73,
+      "title": "My First Map Pack!",
+      "url": "https://reddit.com/r/DnDIY/comments/h9e9sp/my_first_map_pack/"
+    },
+    {
+      "date": 1592214994,
+      "id": "t3_h96oxw",
+      "picture": "https://external-preview.redd.it/wOVeHl7zbs_c_kYSZ0ofaBshhWIW0OAVHrEL3QRo7Xs.jpg?auto=webp&s=b5d83046274e99714d20e90501bd0d940d9c095d",
+      "previewUrl": "",
+      "score": 10,
+      "title": "Gate house build",
+      "url": "https://reddit.com/r/DnDIY/comments/h96oxw/gate_house_build/"
+    },
+    {
       "date": 1592209728,
       "id": "t3_h95akh",
       "picture": "https://external-preview.redd.it/mhL2Icblzufe-MCy-laNnBOKC6th9C9qZFNZ4Os6-Ro.jpg?auto=webp&s=1361faf65a53b908900bcb345ae0ad969e5bbbf0",
       "previewUrl": "https://external-preview.redd.it/mhL2Icblzufe-MCy-laNnBOKC6th9C9qZFNZ4Os6-Ro.jpg?width=640&crop=smart&auto=webp&s=9ffeea56aa3ef07c0c41dcdc4d6d988363e97f69",
-      "score": 1,
+      "score": 5,
       "title": "Siege tower (WIP) BMC inspired",
       "url": "https://reddit.com/r/DnDIY/comments/h95akh/siege_tower_wip_bmc_inspired/"
     },
@@ -24,7 +87,7 @@
       "id": "t3_h8v9u8",
       "picture": "https://external-preview.redd.it/F5N6kx5hqNjg7pd_oHsRZWtkIye8vMO1S_0JAf3sgVg.png?format=pjpg&auto=webp&s=af7d56703a1515926c28041e630e77488ed6992c",
       "previewUrl": "https://external-preview.redd.it/F5N6kx5hqNjg7pd_oHsRZWtkIye8vMO1S_0JAf3sgVg.png?width=640&crop=smart&format=pjpg&auto=webp&s=2d6485153f300e3ad0ea871b1e91ffe54000aa72",
-      "score": 420,
+      "score": 679,
       "title": "So, I made some Magnetic Modular Tables with mix'n'match accessories - tutorial and more examples in comments :)",
       "url": "https://reddit.com/r/DnDIY/comments/h8v9u8/so_i_made_some_magnetic_modular_tables_with/"
     },
@@ -33,7 +96,7 @@
       "id": "t3_h8uex2",
       "picture": "https://preview.redd.it/9c79n5ukuv451.png?auto=webp&s=7c19caa5009d384c6c533445591b02fb2e2e0e00",
       "previewUrl": "https://preview.redd.it/9c79n5ukuv451.png?width=640&crop=smart&auto=webp&s=047e9e1224fa0340c29587ec5ae7350abd03845b",
-      "score": 1,
+      "score": 2,
       "title": "Here's this week's Character Set from Paper Mage: Werelion, Halfling Mailman and Guard Dog (download links on comments) - Enjoy 🧙‍♂️",
       "url": "https://reddit.com/r/DnDIY/comments/h8uex2/heres_this_weeks_character_set_from_paper_mage/"
     },
@@ -42,7 +105,7 @@
       "id": "t3_h8t6nj",
       "picture": "https://preview.redd.it/2y52rxi9gv451.jpg?auto=webp&s=e60c8bd09f0aa4414683b914329bb51eadc9a8d3",
       "previewUrl": "https://preview.redd.it/2y52rxi9gv451.jpg?width=640&crop=smart&auto=webp&s=05a5930840c66800a250bfad4321f23826a592d2",
-      "score": 120,
+      "score": 134,
       "title": "Welcome to Covidville. The little town built during trying times. This is the third structure in the series. Welcome to the Black Pestle Apothecary. WIP and interior pics in the link.",
       "url": "https://reddit.com/r/DnDIY/comments/h8t6nj/welcome_to_covidville_the_little_town_built/"
     },
@@ -51,7 +114,7 @@
       "id": "t3_h8qgn9",
       "picture": "https://preview.redd.it/4hqgz8vhdu451.jpg?auto=webp&s=289ea5ffaffe55944bfddda38d900a485c34aef7",
       "previewUrl": "https://preview.redd.it/4hqgz8vhdu451.jpg?width=640&crop=smart&auto=webp&s=b38038e9ec100bd9020ec93412f4ae7823d60c53",
-      "score": 16,
+      "score": 18,
       "title": "[WIP] Toilet roll sewer tunnel progress pic.",
       "url": "https://reddit.com/r/DnDIY/comments/h8qgn9/wip_toilet_roll_sewer_tunnel_progress_pic/"
     },
@@ -60,7 +123,7 @@
       "id": "t3_h8lhkb",
       "picture": "https://preview.redd.it/n3jr0vbhxq451.jpg?auto=webp&s=3ac5203e01f00cba608c274f89b84e2a5ec178d1",
       "previewUrl": "https://preview.redd.it/n3jr0vbhxq451.jpg?width=640&crop=smart&auto=webp&s=1f11bffa0047d93dbd61c957f1cf9324b1f9d7a2",
-      "score": 186,
+      "score": 182,
       "title": "Toilet roll and XPS foam sewer for Skaven/Wererat encounters",
       "url": "https://reddit.com/r/DnDIY/comments/h8lhkb/toilet_roll_and_xps_foam_sewer_for_skavenwererat/"
     },
@@ -69,7 +132,7 @@
       "id": "t3_h8l4qb",
       "picture": "https://preview.redd.it/r8erit66bs451.jpg?auto=webp&s=c040dc92be9c128002511fc1c7af97c08a806eea",
       "previewUrl": "https://preview.redd.it/r8erit66bs451.jpg?width=640&crop=smart&auto=webp&s=a03c700d7d12ab0e6fa7214d852b7ff85fc82470",
-      "score": 23,
+      "score": 27,
       "title": "Having a bad day? Just make dice trays for your whole party!",
       "url": "https://reddit.com/r/DnDIY/comments/h8l4qb/having_a_bad_day_just_make_dice_trays_for_your/"
     },
@@ -78,7 +141,7 @@
       "id": "t3_h8d55u",
       "picture": "https://preview.redd.it/4am9zoy13q451.jpg?auto=webp&s=766b8fa4abb910002fe93b37d679580395f2e4be",
       "previewUrl": "https://preview.redd.it/4am9zoy13q451.jpg?width=640&crop=smart&auto=webp&s=556d2d3495501df575212143a5bf0ee2577a3086",
-      "score": 231,
+      "score": 236,
       "title": "Not new, but last campaign I made an airship out of foamboard",
       "url": "https://reddit.com/r/DnDIY/comments/h8d55u/not_new_but_last_campaign_i_made_an_airship_out/"
     },
@@ -87,7 +150,7 @@
       "id": "t3_h8csg4",
       "picture": "https://external-preview.redd.it/bhqb5mzsGfqLsHR35AprgjIyF5cErg3vBxDJ5Q2KIw0.jpg?auto=webp&s=31355aeb7f1b5cfa48a98236c4617ec69e34c336",
       "previewUrl": "",
-      "score": 42,
+      "score": 46,
       "title": "DM Screen I made for my cousin’s birthday! I think it turned out well, and he loves it!",
       "url": "https://reddit.com/r/DnDIY/comments/h8csg4/dm_screen_i_made_for_my_cousins_birthday_i_think/"
     },
@@ -96,7 +159,7 @@
       "id": "t3_h8ar2o",
       "picture": "https://external-preview.redd.it/iFeQtfg54y647r2W9iCNukwh_5WPvIMuc5I0Gskvpyg.jpg?auto=webp&s=cfdb786749108c73a54dd6ee8d04d6fe3d93b7b4",
       "previewUrl": "",
-      "score": 118,
+      "score": 119,
       "title": "My take on a steampunk airship",
       "url": "https://reddit.com/r/DnDIY/comments/h8ar2o/my_take_on_a_steampunk_airship/"
     },
@@ -105,7 +168,7 @@
       "id": "t3_h7zpcr",
       "picture": "https://preview.redd.it/qxwawp9jkl451.jpg?auto=webp&s=d7f689ebf4b1bcafd500acb8c7b9f49a27ca5c52",
       "previewUrl": "https://preview.redd.it/qxwawp9jkl451.jpg?width=640&crop=smart&auto=webp&s=c70d1014b5cd9611f8c1315625ca913f8336d8dd",
-      "score": 46,
+      "score": 45,
       "title": "WIP raider vehicle for my upcoming Mad Max Campaign",
       "url": "https://reddit.com/r/DnDIY/comments/h7zpcr/wip_raider_vehicle_for_my_upcoming_mad_max/"
     },
@@ -114,7 +177,7 @@
       "id": "t3_h7wfzl",
       "picture": "https://preview.redd.it/szrz8mvckk451.jpg?auto=webp&s=4982a2caac0a2bee98e691596cf36c20ea6f1646",
       "previewUrl": "https://preview.redd.it/szrz8mvckk451.jpg?width=640&crop=smart&auto=webp&s=c8dee9c73a76ff9b74656f87997be0543dec07a6",
-      "score": 331,
+      "score": 334,
       "title": "DMs travel chest. fits 4 books, dice and minis",
       "url": "https://reddit.com/r/DnDIY/comments/h7wfzl/dms_travel_chest_fits_4_books_dice_and_minis/"
     },
@@ -141,7 +204,7 @@
       "id": "t3_h7rxv2",
       "picture": "https://preview.redd.it/azgczjbzbj451.jpg?auto=webp&s=dbce6e7b7eb1efd5040faaad1d246de6fedcfb0d",
       "previewUrl": "https://preview.redd.it/azgczjbzbj451.jpg?width=640&crop=smart&auto=webp&s=eeeb7743ab8ebf0533da25090379cd3966d883d1",
-      "score": 18,
+      "score": 19,
       "title": "Finished this dice+character vault for my husband's birthday and I wanted to show it off. Additional pics in comments",
       "url": "https://reddit.com/r/DnDIY/comments/h7rxv2/finished_this_dicecharacter_vault_for_my_husbands/"
     },
@@ -204,7 +267,7 @@
       "id": "t3_h7l1ui",
       "picture": "https://external-preview.redd.it/cRiPJmm7wh3OBP7ke2xK7-9X5YEfWcmXA8_MofsR4Ek.jpg?format=pjpg&auto=webp&s=c0313e9a385157009d327f34d2814e7ec105e8a3",
       "previewUrl": "https://external-preview.redd.it/cRiPJmm7wh3OBP7ke2xK7-9X5YEfWcmXA8_MofsR4Ek.jpg?width=640&crop=smart&format=pjpg&auto=webp&s=1a2ebe49c9c3cc37ca0a15ec84f6711d7e6050c0",
-      "score": 1091,
+      "score": 1092,
       "title": "'Rotating Wall' encounter I built for my game",
       "url": "https://reddit.com/r/DnDIY/comments/h7l1ui/rotating_wall_encounter_i_built_for_my_game/"
     },
@@ -222,7 +285,7 @@
       "id": "t3_h7d79h",
       "picture": "https://external-preview.redd.it/tAy93eE9p9fhbrB6PT5eWlUTirpXuUKZMri9CtgGYnw.png?format=pjpg&auto=webp&s=946a5b0f6f473fc4e256ac18043c829f1c30be51",
       "previewUrl": "https://external-preview.redd.it/tAy93eE9p9fhbrB6PT5eWlUTirpXuUKZMri9CtgGYnw.png?width=640&crop=smart&format=pjpg&auto=webp&s=7854606526a41b0e0474032b2549de6c715afc5f",
-      "score": 378,
+      "score": 377,
       "title": "Hexagonal Encounter Table Timelapse I made as part of modular tabletop project. Kids have had encounters on both configurations shown",
       "url": "https://reddit.com/r/DnDIY/comments/h7d79h/hexagonal_encounter_table_timelapse_i_made_as/"
     },
