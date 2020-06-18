@@ -2,6 +2,213 @@
   "bucket": "maps",
   "records": [
     {
+      "date": 1592466636,
+      "id": "t3_hb371w",
+      "picture": "https://preview.redd.it/08p00im5fr451.jpg?auto=webp&s=a7c247b0cab54901301b20418fd4cb5f78c2046d",
+      "previewUrl": "https://preview.redd.it/08p00im5fr451.jpg?width=640&crop=smart&auto=webp&s=af3d4e81678fb704298863a54343c5c2d75fe781",
+      "score": 4,
+      "title": "Oceanside Desert Trading Village",
+      "url": "https://reddit.com/r/dndmaps/comments/hb371w/oceanside_desert_trading_village/"
+    },
+    {
+      "date": 1592463901,
+      "id": "t3_hb2di4",
+      "picture": "https://external-preview.redd.it/0m39cO89yh82P-3HQQjvTFtXV1Lc4ZaYeYHCPYPtfTI.jpg?auto=webp&s=e898a39b0f7ccdd79f970aae34ef34ec8b59e122",
+      "previewUrl": "https://external-preview.redd.it/0m39cO89yh82P-3HQQjvTFtXV1Lc4ZaYeYHCPYPtfTI.jpg?width=640&crop=smart&auto=webp&s=d71ba9de753fd67e024a6003390713b6a109a500",
+      "score": 3,
+      "title": "Cragmaw hideout from LMoP completely made out of XPS foam, paint and sweat!",
+      "url": "https://reddit.com/r/dndmaps/comments/hb2di4/cragmaw_hideout_from_lmop_completely_made_out_of/"
+    },
+    {
+      "date": 1592461351,
+      "id": "t3_hb1lik",
+      "picture": "https://preview.redd.it/owc7e4azpj551.jpg?auto=webp&s=df1111ab1526f2153d2fc05c2b9cda44de36e569",
+      "previewUrl": "https://preview.redd.it/owc7e4azpj551.jpg?width=640&crop=smart&auto=webp&s=27e3851144beb22a993d0001411822e04ea9d4ae",
+      "score": 3,
+      "title": "[OC] The luminescent mushrooms make it one of the few things in this unforgiving environment (fun idea I had working on making things \"give light\" Let me know what you think)",
+      "url": "https://reddit.com/r/dndmaps/comments/hb1lik/oc_the_luminescent_mushrooms_make_it_one_of_the/"
+    },
+    {
+      "date": 1592459325,
+      "id": "t3_hb0y8g",
+      "picture": "https://preview.redd.it/qishks4sjj551.jpg?auto=webp&s=e6ebc4c6e0789841179c5573ca2f3e405a9e629c",
+      "previewUrl": "https://preview.redd.it/qishks4sjj551.jpg?width=640&crop=smart&auto=webp&s=5626e3db2ebb06428b32dfde4f006b91ba00f6f5",
+      "score": 8,
+      "title": "Iido Pagoda - A Five Storey Temple & Shrine! [22x34x6]",
+      "url": "https://reddit.com/r/dndmaps/comments/hb0y8g/iido_pagoda_a_five_storey_temple_shrine_22x34x6/"
+    },
+    {
+      "date": 1592457214,
+      "id": "t3_hb0a63",
+      "picture": "https://preview.redd.it/ru55nqfqdj551.jpg?auto=webp&s=18195c0c63dff2f2e2d40514532e9fc9820e0d40",
+      "previewUrl": "https://preview.redd.it/ru55nqfqdj551.jpg?width=640&crop=smart&auto=webp&s=70e933497df00fafe278b418b352059d051ad472",
+      "score": 63,
+      "title": "A dungeon generated using a system I came up with. [3.5e]",
+      "url": "https://reddit.com/r/dndmaps/comments/hb0a63/a_dungeon_generated_using_a_system_i_came_up_with/"
+    },
+    {
+      "date": 1592455382,
+      "id": "t3_hazppy",
+      "picture": "https://preview.redd.it/rmq9u6328j551.jpg?auto=webp&s=aa13b2889253ede43c87eac570f0b98d3e423488",
+      "previewUrl": "https://preview.redd.it/rmq9u6328j551.jpg?width=640&crop=smart&auto=webp&s=df73ba7c7bc0fe699722530a8f2ba724b9550de7",
+      "score": 8,
+      "title": "Crypt of Darksand ( I would love feedback so I can improve!)",
+      "url": "https://reddit.com/r/dndmaps/comments/hazppy/crypt_of_darksand_i_would_love_feedback_so_i_can/"
+    },
+    {
+      "date": 1592455370,
+      "id": "t3_hazpl5",
+      "picture": "https://preview.redd.it/avo1zqf88j551.png?auto=webp&s=85d8aca62ccf31c43dcd19a1dd4d34634017911c",
+      "previewUrl": "https://preview.redd.it/avo1zqf88j551.png?width=640&crop=smart&auto=webp&s=3828871b0efdece837cdfb47d79aa24a532e52d4",
+      "score": 9,
+      "title": "Library (35x35)",
+      "url": "https://reddit.com/r/dndmaps/comments/hazpl5/library_35x35/"
+    },
+    {
+      "date": 1592454245,
+      "id": "t3_hazcq6",
+      "picture": "https://preview.redd.it/5x8k9g1p4j551.jpg?auto=webp&s=d9547b6ceee6c152c117c6146b66dbefd5b085c7",
+      "previewUrl": "https://preview.redd.it/5x8k9g1p4j551.jpg?width=640&crop=smart&auto=webp&s=b094f4fb53e79a1d6d82ba6b483152f081754387",
+      "score": 66,
+      "title": "D&D Made this in 1 hour freehand! -DM",
+      "url": "https://reddit.com/r/dndmaps/comments/hazcq6/dd_made_this_in_1_hour_freehand_dm/"
+    },
+    {
+      "date": 1592453076,
+      "id": "t3_hayzfh",
+      "picture": "https://preview.redd.it/qmue47y91j551.png?auto=webp&s=b1372e33dacbd40aff11da46a1fba1fc4e003c1e",
+      "previewUrl": "https://preview.redd.it/qmue47y91j551.png?width=640&crop=smart&auto=webp&s=fbd046deb4c3bab3a3d5beb829668b40725ba7aa",
+      "score": 4,
+      "title": "I drew this continent map for our dnd campaign.",
+      "url": "https://reddit.com/r/dndmaps/comments/hayzfh/i_drew_this_continent_map_for_our_dnd_campaign/"
+    },
+    {
+      "date": 1592444982,
+      "id": "t3_haw9kj",
+      "picture": "https://preview.redd.it/powmqvpyci551.jpg?auto=webp&s=dd4b43d4ccb40ac28ceef1701b12e50d0acbc8f1",
+      "previewUrl": "https://preview.redd.it/powmqvpyci551.jpg?width=640&crop=smart&auto=webp&s=b7b2604309597f827bb81ef6d4bc31457063ba4a",
+      "score": 4,
+      "title": "Forest Road (grid)",
+      "url": "https://reddit.com/r/dndmaps/comments/haw9kj/forest_road_grid/"
+    },
+    {
+      "date": 1592444717,
+      "id": "t3_haw6f6",
+      "picture": "https://preview.redd.it/gn1q4ubeci551.jpg?auto=webp&s=ec23a3705f88d0494cee8be8e937d7c5820195bf",
+      "previewUrl": "https://preview.redd.it/gn1q4ubeci551.jpg?width=640&crop=smart&auto=webp&s=01db5065192608d66f8b8c1e971417a271d331a5",
+      "score": 12,
+      "title": "An Otyugh Under the House!",
+      "url": "https://reddit.com/r/dndmaps/comments/haw6f6/an_otyugh_under_the_house/"
+    },
+    {
+      "date": 1592443650,
+      "id": "t3_havtb0",
+      "picture": "https://preview.redd.it/sqhopife9i551.jpg?auto=webp&s=fc15b3227e34d2b645ecbff1a85fed909ab4722b",
+      "previewUrl": "https://preview.redd.it/sqhopife9i551.jpg?width=640&crop=smart&auto=webp&s=a597201019b89d14fb5730b36dd42d245319b75b",
+      "score": 28,
+      "title": "Around the Wheatsea - A little area in the west of my homebrew world",
+      "url": "https://reddit.com/r/dndmaps/comments/havtb0/around_the_wheatsea_a_little_area_in_the_west_of/"
+    },
+    {
+      "date": 1592442432,
+      "id": "t3_have1m",
+      "picture": "https://preview.redd.it/xez4vkzk5i551.jpg?auto=webp&s=a399c8313ef342d1458760413ca25d8a2f843b8d",
+      "previewUrl": "https://preview.redd.it/xez4vkzk5i551.jpg?width=640&crop=smart&auto=webp&s=85be73c0ca08462f1cc5ad4bb71c18b3e71aafde",
+      "score": 17,
+      "title": "[OC] Snow upper floor tavern battlemap [20x20] [2800x2800]",
+      "url": "https://reddit.com/r/dndmaps/comments/have1m/oc_snow_upper_floor_tavern_battlemap_20x20/"
+    },
+    {
+      "date": 1592439004,
+      "id": "t3_hau7au",
+      "picture": "https://preview.redd.it/scw3ua7avh551.jpg?auto=webp&s=cf9fe0858054ca83f4066c61898140ac9f2e5eb7",
+      "previewUrl": "https://preview.redd.it/scw3ua7avh551.jpg?width=640&crop=smart&auto=webp&s=60189cd2f9419b8edad70feea7c137fe6a96e53a",
+      "score": 8,
+      "title": "The Dwarven City of Brazenthrone: The Eastern Halls [113x96]",
+      "url": "https://reddit.com/r/dndmaps/comments/hau7au/the_dwarven_city_of_brazenthrone_the_eastern/"
+    },
+    {
+      "date": 1592437846,
+      "id": "t3_hatt38",
+      "picture": "https://preview.redd.it/s4i5ff33sh551.png?auto=webp&s=c165ee4da5e86d700068764f40878f94ab475b00",
+      "previewUrl": "https://preview.redd.it/s4i5ff33sh551.png?width=640&crop=smart&auto=webp&s=fe84d56fadc2e2b750a7899eb03609d0fbe37fd7",
+      "score": 21,
+      "title": "Seaside Town Map",
+      "url": "https://reddit.com/r/dndmaps/comments/hatt38/seaside_town_map/"
+    },
+    {
+      "date": 1592437553,
+      "id": "t3_hatpl6",
+      "picture": "https://preview.redd.it/nlfgrdd2rh551.jpg?auto=webp&s=1460d3090ede970fc7496fffda20a0722d55391c",
+      "previewUrl": "https://preview.redd.it/nlfgrdd2rh551.jpg?width=640&crop=smart&auto=webp&s=0e059138b30bb37ead7dedcabce2011fffe514ed",
+      "score": 6,
+      "title": "Mirt's Mansion",
+      "url": "https://reddit.com/r/dndmaps/comments/hatpl6/mirts_mansion/"
+    },
+    {
+      "date": 1592434011,
+      "id": "t3_hasjsd",
+      "picture": "https://preview.redd.it/3bkpgsakgh551.png?auto=webp&s=9ce87643184ff8f0a5f30b33df046974e3aaf726",
+      "previewUrl": "https://preview.redd.it/3bkpgsakgh551.png?width=640&crop=smart&auto=webp&s=ac70ee9266257e511efafeec746ab44429c6e8ae",
+      "score": 13,
+      "title": "More wilderness 30x30",
+      "url": "https://reddit.com/r/dndmaps/comments/hasjsd/more_wilderness_30x30/"
+    },
+    {
+      "date": 1592430329,
+      "id": "t3_harepp",
+      "picture": "https://preview.redd.it/qex0yvaq5h551.jpg?auto=webp&s=23ecd285b272bdf9d142fa09705a3aef10275774",
+      "previewUrl": "https://preview.redd.it/qex0yvaq5h551.jpg?width=640&crop=smart&auto=webp&s=78f302d1d3541d8cc1ff1c781469ffce45ba2647",
+      "score": 158,
+      "title": "Desert Caves [50x40]",
+      "url": "https://reddit.com/r/dndmaps/comments/harepp/desert_caves_50x40/"
+    },
+    {
+      "date": 1592425699,
+      "id": "t3_haq62m",
+      "picture": "https://preview.redd.it/0khylxaurg551.png?auto=webp&s=5a044eb7d68651b4b6ae6a64df46e64ed8959a08",
+      "previewUrl": "https://preview.redd.it/0khylxaurg551.png?width=640&crop=smart&auto=webp&s=ee9770273446ee969ac7fac42a77615ca860cdc6",
+      "score": 854,
+      "title": "A previous commissioner needed a castle ruins map. He says it worked well on games night! :)",
+      "url": "https://reddit.com/r/dndmaps/comments/haq62m/a_previous_commissioner_needed_a_castle_ruins_map/"
+    },
+    {
+      "date": 1592424648,
+      "id": "t3_hapx40",
+      "picture": "https://preview.redd.it/8lzdkgnnog551.jpg?auto=webp&s=75a2a3414a2c7d1c08446f7d6f591f6acb73a963",
+      "previewUrl": "https://preview.redd.it/8lzdkgnnog551.jpg?width=640&crop=smart&auto=webp&s=1e861167821c82eb6dd7c3e862d6c8793169339c",
+      "score": 42,
+      "title": "Not'otoa - The struggle for power",
+      "url": "https://reddit.com/r/dndmaps/comments/hapx40/nototoa_the_struggle_for_power/"
+    },
+    {
+      "date": 1592422228,
+      "id": "t3_hape3b",
+      "picture": "https://preview.redd.it/44rzuy9dhg551.png?auto=webp&s=26fc7714c666da1187ef669388b96edb591f0d72",
+      "previewUrl": "https://preview.redd.it/44rzuy9dhg551.png?width=640&crop=smart&auto=webp&s=06a70b7f916b760cdfbff546818bcceb683b40a7",
+      "score": 85,
+      "title": "Osprey House, final battle for my introductory campaign",
+      "url": "https://reddit.com/r/dndmaps/comments/hape3b/osprey_house_final_battle_for_my_introductory/"
+    },
+    {
+      "date": 1592421996,
+      "id": "t3_hapc9z",
+      "picture": "https://preview.redd.it/ch6se0sygg551.jpg?auto=webp&s=a79b9fed56221477a6792073999b3f616b2e29dc",
+      "previewUrl": "https://preview.redd.it/ch6se0sygg551.jpg?width=640&crop=smart&auto=webp&s=205fa5798e4b4b071261a87a1e098c0eb4709c3f",
+      "score": 41,
+      "title": "Can you tame the Lioness?",
+      "url": "https://reddit.com/r/dndmaps/comments/hapc9z/can_you_tame_the_lioness/"
+    },
+    {
+      "date": 1592416291,
+      "id": "t3_hao6sf",
+      "picture": "https://external-preview.redd.it/ei8QTtdkhwlLMBDqKaw77zzLt2imYqomJ4q33HmEls4.png?format=pjpg&auto=webp&s=3181d6ec5023c15e22302b9ddbd7cab0ce7deb45",
+      "previewUrl": "https://external-preview.redd.it/ei8QTtdkhwlLMBDqKaw77zzLt2imYqomJ4q33HmEls4.png?width=640&crop=smart&format=pjpg&auto=webp&s=1e0c7cb2ccfaecaf6f8fca746258f1b2331003d8",
+      "score": 82,
+      "title": "Free Animated Map: Radiant Waterfall [OC][Art][Battlemap]",
+      "url": "https://reddit.com/r/dndmaps/comments/hao6sf/free_animated_map_radiant_waterfall_ocartbattlemap/"
+    },
+    {
       "date": 1592371961,
       "id": "t3_hadafx",
       "picture": "https://preview.redd.it/8cdsrtrybc551.png?auto=webp&s=93c51cf0cbd2e6d381b54a7f9943d6d281a726fc",
@@ -33,7 +240,7 @@
       "id": "t3_habm46",
       "picture": "https://preview.redd.it/isv1iv6kwb551.jpg?auto=webp&s=43102f12388e6c607f1aefa22200e47fd2482e3f",
       "previewUrl": "https://preview.redd.it/isv1iv6kwb551.jpg?width=640&crop=smart&auto=webp&s=4884b78386aa198f272bb68c2ec36eb0e972c4f4",
-      "score": 119,
+      "score": 1082,
       "title": "First shot at hand coloring maps with watercolors. This is for my new adventures on the DMs guild. It's supposed to be a spider-thing hive. Thoughts?",
       "url": "https://reddit.com/r/dndmaps/comments/habm46/first_shot_at_hand_coloring_maps_with_watercolors/"
     },
@@ -195,7 +402,7 @@
       "id": "t3_ha1z4w",
       "picture": "https://preview.redd.it/y1p1c76n99551.jpg?auto=webp&s=e21fd5e4a1071e8b905bb5b94a376a2b7bdedfda",
       "previewUrl": "https://preview.redd.it/y1p1c76n99551.jpg?width=640&crop=smart&auto=webp&s=5a97b2dd2fd889a97e8e9aa92f477c784ddd5bbe",
-      "score": 1232,
+      "score": 1443,
       "title": "The sun had set by the time you reached the blacksmith's house ... something was wrong",
       "url": "https://reddit.com/r/dndmaps/comments/ha1z4w/the_sun_had_set_by_the_time_you_reached_the/"
     },
