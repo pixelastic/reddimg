@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "@octokit/rest": "17.11.2",
-    "aberlaas": "1.6.0",
+    "aberlaas": "1.6.1",
     "algolia-indexing": "pixelastic/algolia-indexing",
     "firost": "1.5.1",
     "golgoth": "1.2.0",
