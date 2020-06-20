@@ -2,11 +2,128 @@
   "bucket": "terrain",
   "records": [
     {
+      "date": 1592627858,
+      "id": "t3_hc8auk",
+      "picture": "https://preview.redd.it/jv2bc445hx551.jpg?auto=webp&s=c699c813a5bb226f46dc8dd663bf002a35f86f95",
+      "previewUrl": "https://preview.redd.it/jv2bc445hx551.jpg?width=640&crop=smart&auto=webp&s=344eb0574e3079b6f50a3e6bdf83ca709bedcff8",
+      "score": 12,
+      "title": "A quick two-night build; first night, glue, second night paint.",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/hc8auk/a_quick_twonight_build_first_night_glue_second/"
+    },
+    {
+      "date": 1592627720,
+      "id": "t3_hc89e1",
+      "picture": "https://preview.redd.it/qen7jilqgx551.jpg?auto=webp&s=f7f757e35e5762d3fa35db0a0552a333a078e594",
+      "previewUrl": "https://preview.redd.it/qen7jilqgx551.jpg?width=640&crop=smart&auto=webp&s=6b84a3562845daf62027241842851286ac371b54",
+      "score": 15,
+      "title": "So the dams are off the pour, it looks solid! Doesn't appear to be any signs of cracking so why not take a few pics?",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/hc89e1/so_the_dams_are_off_the_pour_it_looks_solid/"
+    },
+    {
+      "date": 1592625414,
+      "id": "t3_hc7l8e",
+      "picture": "https://preview.redd.it/105f0d7t9x551.jpg?auto=webp&s=60b631755dc648a1d9f4eccf8b93bd764b9c7ce5",
+      "previewUrl": "https://preview.redd.it/105f0d7t9x551.jpg?width=640&crop=smart&auto=webp&s=8334a91a6efc996788461bc41880e521a5a6822c",
+      "score": 8,
+      "title": "I don't know If it fits here but i mean it is a terrain",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/hc7l8e/i_dont_know_if_it_fits_here_but_i_mean_it_is_a/"
+    },
+    {
+      "date": 1592624897,
+      "id": "t3_hc7fo8",
+      "picture": "https://preview.redd.it/upp63f6c8x551.jpg?auto=webp&s=9b66daa2b3bbeeb34e84e4fd147bad8caf5d6f37",
+      "previewUrl": "https://preview.redd.it/upp63f6c8x551.jpg?width=640&crop=smart&auto=webp&s=4c00470ede60dc32531b5931dab7a4ffc415cf30",
+      "score": 19,
+      "title": "After months without supplies, today I finally was able to complete this Sith Tomb. My first DIY terrain piece.",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/hc7fo8/after_months_without_supplies_today_i_finally_was/"
+    },
+    {
+      "date": 1592624009,
+      "id": "t3_hc76bm",
+      "picture": "https://external-preview.redd.it/pHrqAo2mKP6ytXjtVw6Fx1D1FPoQLyc9OMwl-Xez4DE.jpg?auto=webp&s=a44e9e4626a0d06e84567c7918f4129f7616fec0",
+      "previewUrl": "https://external-preview.redd.it/pHrqAo2mKP6ytXjtVw6Fx1D1FPoQLyc9OMwl-Xez4DE.jpg?width=640&crop=smart&auto=webp&s=4f4f65da2780d8f6af8e97041c12161cc514185a",
+      "score": 4,
+      "title": "Some of the lock down builds properly photographed.",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/hc76bm/some_of_the_lock_down_builds_properly_photographed/"
+    },
+    {
+      "date": 1592623434,
+      "id": "t3_hc707z",
+      "picture": "https://external-preview.redd.it/i_Ezw5DfcKP7khBXHxlzv2rBUMPzkn6XTtwDcazqSSM.jpg?auto=webp&s=d72cd626fc93e9cbaacb80bbfd6ecd74e4735d7e",
+      "previewUrl": "",
+      "score": 1,
+      "title": "How to Make realistic Cliffs and Hill sides.",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/hc707z/how_to_make_realistic_cliffs_and_hill_sides/"
+    },
+    {
+      "date": 1592623170,
+      "id": "t3_hc6xfa",
+      "picture": "https://preview.redd.it/h98qqm973x551.jpg?auto=webp&s=2e28b1218b1bc918886f64d3fe92821b6099c041",
+      "previewUrl": "https://preview.redd.it/h98qqm973x551.jpg?width=640&crop=smart&auto=webp&s=a6a4f8119b585c24e04090894d450e685e7dc578",
+      "score": 2,
+      "title": "What do you guys think of my rock terrain ? Made with spray foam and acrylic paints",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/hc6xfa/what_do_you_guys_think_of_my_rock_terrain_made/"
+    },
+    {
+      "date": 1592622920,
+      "id": "t3_hc6usj",
+      "picture": "https://preview.redd.it/fzbmg2f62x551.jpg?auto=webp&s=2f5e2231140d51a194ed8d30e7527f0f63b60acb",
+      "previewUrl": "https://preview.redd.it/fzbmg2f62x551.jpg?width=640&crop=smart&auto=webp&s=fabc0309545e788e0bf881ebd0dd8c84bbfa35b4",
+      "score": 15,
+      "title": "More 40k terrain (mostly full table in comments!)",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/hc6usj/more_40k_terrain_mostly_full_table_in_comments/"
+    },
+    {
+      "date": 1592616203,
+      "id": "t3_hc4srk",
+      "picture": "https://preview.redd.it/umr6x3uhiw551.jpg?auto=webp&s=d1a745c0161835e976171641c4611325f49bdc07",
+      "previewUrl": "https://preview.redd.it/umr6x3uhiw551.jpg?width=640&crop=smart&auto=webp&s=58f5e1abbbcac09672a03bcc36b618df9a47bd8f",
+      "score": 4,
+      "title": "My farm build for BA starting to come together",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/hc4srk/my_farm_build_for_ba_starting_to_come_together/"
+    },
+    {
+      "date": 1592608623,
+      "id": "t3_hc2ic5",
+      "picture": "https://preview.redd.it/7498r6fxtv551.jpg?auto=webp&s=6567c09be1915e3292e8950b759865b457c00a6d",
+      "previewUrl": "https://preview.redd.it/7498r6fxtv551.jpg?width=640&crop=smart&auto=webp&s=96e8d95366fa3505fc5eafa03c207d064a26c445",
+      "score": 9,
+      "title": "Super quick garden-y mini photo backdrop board.",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/hc2ic5/super_quick_gardeny_mini_photo_backdrop_board/"
+    },
+    {
+      "date": 1592608075,
+      "id": "t3_hc2cjv",
+      "picture": "https://preview.redd.it/kyhmw1jbuv551.jpg?auto=webp&s=07fc8a8acbb40748f8b5e2dc422f572e3e82a57d",
+      "previewUrl": "https://preview.redd.it/kyhmw1jbuv551.jpg?width=640&crop=smart&auto=webp&s=9fd3b66bba029938a54d72677a910c41ac2410eb",
+      "score": 637,
+      "title": "Added another half a kilo of resin after the initial pour suffered some splits and cracks. So less catalyst on this pour and its looking good! Or disgusting. Either way....",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/hc2cjv/added_another_half_a_kilo_of_resin_after_the/"
+    },
+    {
+      "date": 1592603831,
+      "id": "t3_hc14m4",
+      "picture": "https://external-preview.redd.it/V87NabpiKGrLBcDOWFYBvS8q9LpnE4tzoxZhw372dNU.jpg?auto=webp&s=2f80c970de8b76b1fde5ca4ed81243f7a7cd5015",
+      "previewUrl": "https://external-preview.redd.it/V87NabpiKGrLBcDOWFYBvS8q9LpnE4tzoxZhw372dNU.jpg?width=640&crop=smart&auto=webp&s=8c0234128ebb90032caba3dfe6cd085eb64db87a",
+      "score": 19,
+      "title": "Tavern, unfinished but getting close :)",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/hc14m4/tavern_unfinished_but_getting_close/"
+    },
+    {
+      "date": 1592574534,
+      "id": "t3_hbv48m",
+      "picture": "https://preview.redd.it/89k6ll5l2t551.jpg?auto=webp&s=de623631fbe5236405065ef94a9a1571a35688e9",
+      "previewUrl": "https://preview.redd.it/89k6ll5l2t551.jpg?width=640&crop=smart&auto=webp&s=7837bb0813fc078acd5587b288c23e4753ec5161",
+      "score": 38,
+      "title": "New projected started! Next step primer!",
+      "url": "https://reddit.com/r/TerrainBuilding/comments/hbv48m/new_projected_started_next_step_primer/"
+    },
+    {
       "date": 1592548585,
       "id": "t3_hbomjl",
       "picture": "https://preview.redd.it/d92fn44fxq551.jpg?auto=webp&s=5197ff4fd1f01ac18729e43ed6ae93304e665026",
       "previewUrl": "https://preview.redd.it/d92fn44fxq551.jpg?width=640&crop=smart&auto=webp&s=973c27210de283f2b96a432aa9466fa51a921e6d",
-      "score": 8,
+      "score": 36,
       "title": "WIP fixed position kill team board.",
       "url": "https://reddit.com/r/TerrainBuilding/comments/hbomjl/wip_fixed_position_kill_team_board/"
     },
@@ -15,7 +132,7 @@
       "id": "t3_hbobjd",
       "picture": "https://external-preview.redd.it/CU3ygTG7bozYH7ln3R4Dg0NNAf2l7D3aXVCdDwYbbIE.png?format=pjpg&auto=webp&s=62ad63e6f0efdab8ca504a9715b1dbe5c95501d9",
       "previewUrl": "https://external-preview.redd.it/CU3ygTG7bozYH7ln3R4Dg0NNAf2l7D3aXVCdDwYbbIE.png?width=640&crop=smart&format=pjpg&auto=webp&s=6f511c2fd77015b0982d48c345d86c78845eead6",
-      "score": 10,
+      "score": 60,
       "title": "I built a 1/12 scale hotel hallway. This video gives me the creeps and I’m the one that created this thing LOL!",
       "url": "https://reddit.com/r/TerrainBuilding/comments/hbobjd/i_built_a_112_scale_hotel_hallway_this_video/"
     },
@@ -33,7 +150,7 @@
       "id": "t3_hbmsth",
       "picture": "https://preview.redd.it/0qsvl777fq551.jpg?auto=webp&s=61379395814f366554c2e32b75fd41db3c831873",
       "previewUrl": "https://preview.redd.it/0qsvl777fq551.jpg?width=640&crop=smart&auto=webp&s=809dfaa1fb147edfb111443a89a196f699b230f9",
-      "score": 257,
+      "score": 935,
       "title": "Just sculpted my first miniature!",
       "url": "https://reddit.com/r/TerrainBuilding/comments/hbmsth/just_sculpted_my_first_miniature/"
     },
@@ -42,7 +159,7 @@
       "id": "t3_hbkdla",
       "picture": "https://preview.redd.it/7qkcykfbsp551.jpg?auto=webp&s=688b0ca859ab77c8be5a48935612f8f153946233",
       "previewUrl": "https://preview.redd.it/7qkcykfbsp551.jpg?width=640&crop=smart&auto=webp&s=40c14be889a2268eb0e5d5f90b9a420c0e0b25db",
-      "score": 38,
+      "score": 56,
       "title": "My first few pieces of scratch built terrain. So happy with the results!",
       "url": "https://reddit.com/r/TerrainBuilding/comments/hbkdla/my_first_few_pieces_of_scratch_built_terrain_so/"
     },
@@ -51,7 +168,7 @@
       "id": "t3_hbk504",
       "picture": "https://external-preview.redd.it/WZmQFVgDRILxE40KWSTr5d539F_m0tWQkrj0-faSou4.jpg?auto=webp&s=64d95de08a1ba5803af424af28d94b1ad844bb86",
       "previewUrl": "https://external-preview.redd.it/WZmQFVgDRILxE40KWSTr5d539F_m0tWQkrj0-faSou4.jpg?width=640&crop=smart&auto=webp&s=d4fa2bba1966b76026618f6fc4a7e224d9f3a442",
-      "score": 13,
+      "score": 21,
       "title": "An old monument, and some columns",
       "url": "https://reddit.com/r/TerrainBuilding/comments/hbk504/an_old_monument_and_some_columns/"
     },
@@ -60,7 +177,7 @@
       "id": "t3_hbiynb",
       "picture": "https://external-preview.redd.it/PH6kA9obc7_S-iPYqbtMF2EyGB2OKuXqJgBrCOg3H6c.jpg?auto=webp&s=2a4ce7dd3250e0e0427e93f7ae109a13b0b1f7a7",
       "previewUrl": "https://external-preview.redd.it/PH6kA9obc7_S-iPYqbtMF2EyGB2OKuXqJgBrCOg3H6c.jpg?width=640&crop=smart&auto=webp&s=caf346f4d21dc8eb3bda310efcbb1ff952080810",
-      "score": 23,
+      "score": 36,
       "title": "Finally decided to take the plunge and crafted my first few tiles",
       "url": "https://reddit.com/r/TerrainBuilding/comments/hbiynb/finally_decided_to_take_the_plunge_and_crafted_my/"
     },
@@ -69,7 +186,7 @@
       "id": "t3_hbigua",
       "picture": "https://preview.redd.it/fp03sjti8p551.png?auto=webp&s=b12a5063b2e9f27e5c469592209602e3be253010",
       "previewUrl": "https://preview.redd.it/fp03sjti8p551.png?width=640&crop=smart&auto=webp&s=41a83a28891ffb4dd7487afea7bc179f40289def",
-      "score": 19,
+      "score": 26,
       "title": "Light-up lanterns using a modified tealight! Build video/.stl download in comments.",
       "url": "https://reddit.com/r/TerrainBuilding/comments/hbigua/lightup_lanterns_using_a_modified_tealight_build/"
     },
@@ -78,7 +195,7 @@
       "id": "t3_hbgt0y",
       "picture": "https://preview.redd.it/dbytiq8eto551.jpg?auto=webp&s=c8779146daecf6a17dedb80e856004757ff8209e",
       "previewUrl": "https://preview.redd.it/dbytiq8eto551.jpg?width=640&crop=smart&auto=webp&s=1405624d090cb9fa228f38605aa9e6970fc9b0fa",
-      "score": 57,
+      "score": 62,
       "title": "Igloo [wip] made out of xps foam",
       "url": "https://reddit.com/r/TerrainBuilding/comments/hbgt0y/igloo_wip_made_out_of_xps_foam/"
     },
@@ -87,7 +204,7 @@
       "id": "t3_hbewd6",
       "picture": "https://external-preview.redd.it/z_EcArtSe6hpbEzXqnr5lk_0G8CtnKdnBr6G8xHDitE.png?format=pjpg&auto=webp&s=101f6f27a07e4dd6ad73aac89fa6ec2e71ae1593",
       "previewUrl": "https://external-preview.redd.it/z_EcArtSe6hpbEzXqnr5lk_0G8CtnKdnBr6G8xHDitE.png?width=640&crop=smart&format=pjpg&auto=webp&s=efb2f2deae4911807bae294c4fce31c796fb22bf",
-      "score": 47,
+      "score": 58,
       "title": "Quick rune/ heardstone I carved",
       "url": "https://reddit.com/r/TerrainBuilding/comments/hbewd6/quick_rune_heardstone_i_carved/"
     },
@@ -114,7 +231,7 @@
       "id": "t3_hbdfqh",
       "picture": "https://preview.redd.it/59uok422un551.jpg?auto=webp&s=aa5533021fbd9bbc64a303f9c488da5e9b1b5495",
       "previewUrl": "https://preview.redd.it/59uok422un551.jpg?width=640&crop=smart&auto=webp&s=5438c328079ca051afacf18a9870ee468f3cd944",
-      "score": 127,
+      "score": 149,
       "title": "1/12 scale Jersey barrier I painted last night! Glad I can start posting here now that I have enough Karma 💀 haha",
       "url": "https://reddit.com/r/TerrainBuilding/comments/hbdfqh/112_scale_jersey_barrier_i_painted_last_night/"
     },
@@ -123,7 +240,7 @@
       "id": "t3_hbb9or",
       "picture": "https://preview.redd.it/344egmdvym551.jpg?auto=webp&s=dcd7473d707081a36a0c337c327627b595625813",
       "previewUrl": "https://preview.redd.it/344egmdvym551.jpg?width=640&crop=smart&auto=webp&s=3181d19ec29234920e1303d46f9e7448c5c312b6",
-      "score": 998,
+      "score": 1038,
       "title": "I did a thing",
       "url": "https://reddit.com/r/TerrainBuilding/comments/hbb9or/i_did_a_thing/"
     },
@@ -1419,7 +1536,7 @@
       "id": "t3_gzvsge",
       "picture": "https://external-preview.redd.it/7x-Wr1_POU5vUducsqJWfQbmHtY6sGklINE-Ik9BmHI.jpg?auto=webp&s=4b8cfaeff41b7a54e0d3c4238b18dd25ada08190",
       "previewUrl": "https://external-preview.redd.it/7x-Wr1_POU5vUducsqJWfQbmHtY6sGklINE-Ik9BmHI.jpg?width=640&crop=smart&auto=webp&s=7e5e6e43a141a8ef03923febfcadd52c01cde767",
-      "score": 29,
+      "score": 31,
       "title": "[AMA THREAD] Miscast Terrain, Luke APS, Black Magic Craft, Real Terrain Hobbies, and Wyloch ONLY TONIGHT at 8:30 PM EST",
       "url": "https://reddit.com/r/TerrainBuilding/comments/gzvsge/ama_thread_miscast_terrain_luke_aps_black_magic/"
     },
