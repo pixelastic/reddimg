@@ -2105,9 +2105,10 @@ ajv@^6.1.0, ajv@^6.10.0, ajv@^6.10.2, ajv@^6.12.0, ajv@^6.5.5:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-algolia-indexing@pixelastic/algolia-indexing:
-  version "0.0.8"
-  resolved "https://codeload.github.com/pixelastic/algolia-indexing/tar.gz/90f405544ef9196e9b2af1f30450ff4bc98f840e"
+algolia-indexing@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/algolia-indexing/-/algolia-indexing-1.0.0.tgz#6fa2dc3373765a8f7213c42dce4332f9774201d7"
+  integrity sha512-8zz/9CJHqGSUscoZsLz+C7t2o7VEzZiv0u7EAROBjW+72r29AiLdnDpc/ibZxxW2Yj6zJW0nalbxiTCsCZvrNA==
   dependencies:
     algoliasearch "4.2.0"
     firost "1.5.1"
