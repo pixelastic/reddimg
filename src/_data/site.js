@@ -1,6 +1,6 @@
 const helper = require('../../lib/main.js');
 
-module.exports = async function() {
+module.exports = async function () {
   const defaultValues = {
     defaultDescription: 'Auto-updating gallery of pictures from subreddits',
     defaultTitle: 'Reddimg',

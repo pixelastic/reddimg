@@ -25,7 +25,7 @@ const dailyUpdate = {
   async hasChanges() {
     const gitDiff = await run('git diff --name-only', { stdout: false });
     const changedFiles = gitDiff.stdout.split('\n');
-    const dataFiles = _.find(changedFiles, changedFile => {
+    const dataFiles = _.find(changedFiles, (changedFile) => {
       return _.startsWith(changedFile, 'src/_data/');
     });
     return dataFiles.length > 0;
@@ -98,6 +98,6 @@ const dailyUpdate = {
   },
 };
 
-(async function() {
+(async function () {
   await dailyUpdate.run();
 })();

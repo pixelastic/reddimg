@@ -5,7 +5,7 @@ const dayjs = require('golgoth/lib/dayjs');
 const _ = require('golgoth/lib/lodash');
 const path = require('path');
 
-(async function() {
+(async function () {
   const credentials = {
     appId: process.env.ALGOLIA_APP_ID,
     apiKey: process.env.ALGOLIA_API_KEY,
@@ -28,12 +28,12 @@ const path = require('path');
   });
 
   const files = await firost.glob('./src/_data/*.json');
-  const subreddits = await pMap(files, async filepath => {
+  const subreddits = await pMap(files, async (filepath) => {
     const dataFile = await firost.readJson(filepath);
     const records = dataFile.records;
     const bucket = dataFile.bucket;
     const subreddit = path.basename(filepath, '.json');
-    return _.map(records, record => {
+    return _.map(records, (record) => {
       // Clamp the date at the start of the day
       const dateAsDay = dayjs
         .unix(record.date)
