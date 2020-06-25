@@ -1,12 +1,12 @@
 {
   "devDependencies": {
     "@octokit/rest": "18.0.0",
-    "aberlaas": "1.9.1",
+    "aberlaas": "1.9.2",
     "algolia-indexing": "1.0.1",
-    "firost": "1.7.1",
+    "firost": "1.7.2",
     "golgoth": "1.3.0",
     "he": "1.2.0",
-    "norska": "0.10.1"
+    "norska": "0.10.3"
   },
   "files": [],
   "name": "reddimg",
