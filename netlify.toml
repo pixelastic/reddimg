@@ -2,7 +2,7 @@
 [build]
   command = "yarn run build:prod"
   publish = "./dist/"
-  ignore = "exit 0"
+  ignore = "./ignore"
 
 # Terry Pratchett homage
 [[headers]]
