@@ -12,3 +12,6 @@ yalc.lock
 yarn-error.log
 *~
 *.rej
+
+# Local Netlify folder
+.netlify

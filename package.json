@@ -14,17 +14,17 @@
     "build": "./scripts/build",
     "build:prod": "./scripts/build-prod",
     "ci": "./scripts/ci",
+    "ci:dailyUpdate": "node ./scripts/ci-dailyUpdate.js",
     "cms": "./scripts/cms",
+    "data:indexing": "node ./scripts/data-indexing.js",
+    "data:update": "node ./scripts/data-update.js",
     "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",
     "release": "./scripts/release",
     "serve": "./scripts/serve",
     "test": "./scripts/test",
-    "test:watch": "./scripts/test-watch",
-    "data:update": "node ./scripts/data-update.js",
-    "data:indexing": "node ./scripts/data-indexing.js",
-    "ci:dailyUpdate": "node ./scripts/ci-dailyUpdate.js"
+    "test:watch": "./scripts/test-watch"
   },
   "version": "0.0.1"
 }
