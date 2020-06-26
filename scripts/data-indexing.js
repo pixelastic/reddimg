@@ -27,7 +27,7 @@ const path = require('path');
     batchMaxSize: 100,
   });
 
-  const files = await firost.glob('./src/_data/*.json');
+  const files = await firost.glob('./records/*.json');
   const subreddits = await pMap(files, async (filepath) => {
     const dataFile = await firost.readJson(filepath);
     const records = dataFile.records;
