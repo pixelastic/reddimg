@@ -1,4 +1,8 @@
 #!/usr/bin/env sh
 set -e
 
-NODE_ENV=production norska build "$@"
+echo "Testing available VARS"
+printenv
+exit 0
+
+# NODE_ENV=production norska build "$@"
