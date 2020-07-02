@@ -8,7 +8,7 @@
   @apply flrnw text-4;
 }
 .ais-RefinementList-label {
-  @apply flrnw pr-004 pl-6 py-001 ml-002 pointer relative capitalize;
+  @apply flrnw pr-02 pl-6 py-001 ml-002 pointer relative capitalize;
   &:before,
   &:after {
     content: '';
