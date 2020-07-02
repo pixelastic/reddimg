@@ -37,7 +37,7 @@ const dailyUpdate = {
   async commitAndPushChanges() {
     // Commit changes
     const currentDate = dayjs().format('YYYY-MM-DD');
-    await run('git add ./src/_data/*.json');
+    await run('git add ./records/*.json');
     await run(
       `git commit --message "chore(update): Daily update (${currentDate})" --message "[skip ci]"`,
       { shell: true }
