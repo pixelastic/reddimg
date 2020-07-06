@@ -2,6 +2,7 @@
 const run = require('firost/lib/run');
 const consoleSuccess = require('firost/lib/consoleSuccess');
 const consoleInfo = require('firost/lib/consoleInfo');
+const consoleError = require('firost/lib/consoleError');
 const _ = require('golgoth/lib/lodash');
 const dayjs = require('golgoth/lib/dayjs');
 const { Octokit } = require('@octokit/rest');
@@ -26,7 +27,7 @@ const dailyUpdate = {
     const gitDiff = await run('git diff --name-only', { stdout: false });
     const changedFiles = gitDiff.stdout.split('\n');
     const dataFiles = _.find(changedFiles, (changedFile) => {
-      return _.startsWith(changedFile, 'src/_data/');
+      return _.startsWith(changedFile, 'records');
     });
     return dataFiles.length > 0;
   },
@@ -92,6 +93,7 @@ const dailyUpdate = {
         'New data pushed to the repository and indexed in Algolia'
       );
     } catch (err) {
+      consoleError(err);
       await this.createIssue(err);
       return this.failure();
     }
