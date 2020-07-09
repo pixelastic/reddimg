@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "norska": "0.14.2"
+    "norska": "0.14.3"
   },
   "devDependencies": {
     "@octokit/rest": "18.0.0",
