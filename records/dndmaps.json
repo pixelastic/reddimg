@@ -2,11 +2,164 @@
   "bucket": "maps",
   "records": [
     {
+      "date": 1594365654,
+      "id": "t3_hodrgn",
+      "picture": "https://preview.redd.it/qp36qkvg0x951.jpg?auto=webp&s=9c77a18a0c2299e09fc8fbdf18900f7009c75bcf",
+      "previewUrl": "https://preview.redd.it/qp36qkvg0x951.jpg?width=640&crop=smart&auto=webp&s=216f9e6a3329a34bac817f7e762f6e13a76ff498",
+      "score": 7,
+      "title": "[25x25][Battlemap][Wizard][Tower] The wizards High Council Chamber, requested by a follower.",
+      "url": "https://reddit.com/r/dndmaps/comments/hodrgn/25x25battlemapwizardtower_the_wizards_high/"
+    },
+    {
+      "date": 1594361039,
+      "id": "t3_hocer9",
+      "picture": "https://preview.redd.it/kxuqzh0rmw951.jpg?auto=webp&s=c18f897c6434f94d5611cc2def04a431d9c0b1c9",
+      "previewUrl": "https://preview.redd.it/kxuqzh0rmw951.jpg?width=640&crop=smart&auto=webp&s=b2240ae0cc2b30c344e1b6a61f9fefb92e74d6bd",
+      "score": 7,
+      "title": "Manquant, a mountainside town",
+      "url": "https://reddit.com/r/dndmaps/comments/hocer9/manquant_a_mountainside_town/"
+    },
+    {
+      "date": 1594359859,
+      "id": "t3_hoc1r1",
+      "picture": "https://preview.redd.it/rhg6ek77jw951.jpg?auto=webp&s=fb3d0232b8586db3c9c37ab1a7ecfb4842487a0c",
+      "previewUrl": "https://preview.redd.it/rhg6ek77jw951.jpg?width=640&crop=smart&auto=webp&s=383142c92fc2656baf4a7e6e05dd7bb816fda5bb",
+      "score": 7,
+      "title": "A small inn with stabling - The Warlock's Arms",
+      "url": "https://reddit.com/r/dndmaps/comments/hoc1r1/a_small_inn_with_stabling_the_warlocks_arms/"
+    },
+    {
+      "date": 1594359528,
+      "id": "t3_hoby6q",
+      "picture": "https://preview.redd.it/ow12d3w6iw951.jpg?auto=webp&s=b308e84b2afefd6d927f96e629089bf5d631475a",
+      "previewUrl": "https://preview.redd.it/ow12d3w6iw951.jpg?width=640&crop=smart&auto=webp&s=3142de852c1d0f0d0ee98d67ad139ee6a634b430",
+      "score": 2,
+      "title": "Recreation: Labrynthian of Skyrim",
+      "url": "https://reddit.com/r/dndmaps/comments/hoby6q/recreation_labrynthian_of_skyrim/"
+    },
+    {
+      "date": 1594358404,
+      "id": "t3_hoblej",
+      "picture": "https://preview.redd.it/dssc6kjxew951.png?auto=webp&s=8872762b426d26348a94bf49fd4b3371a386affe",
+      "previewUrl": "https://preview.redd.it/dssc6kjxew951.png?width=640&crop=smart&auto=webp&s=d8028811a0e0287163c1bf5c9a9b7cdcf171bb4f",
+      "score": 8,
+      "title": "Alchemists House [20x20] [OC]",
+      "url": "https://reddit.com/r/dndmaps/comments/hoblej/alchemists_house_20x20_oc/"
+    },
+    {
+      "date": 1594355855,
+      "id": "t3_hoatmq",
+      "picture": "https://preview.redd.it/ammmpekc7w951.jpg?auto=webp&s=550c4905a138a9bc6eac015cf0107c75ff28512d",
+      "previewUrl": "https://preview.redd.it/ammmpekc7w951.jpg?width=640&crop=smart&auto=webp&s=0ad09acd0a80105c5e525242814c5e05b9158217",
+      "score": 17,
+      "title": "The Harpies' Nest - [OC][Perspective][Dungeon][3300x2550px]",
+      "url": "https://reddit.com/r/dndmaps/comments/hoatmq/the_harpies_nest_ocperspectivedungeon3300x2550px/"
+    },
+    {
+      "date": 1594350624,
+      "id": "t3_ho97mv",
+      "picture": "https://preview.redd.it/jausot7srv951.jpg?auto=webp&s=6b96931865ab169dbf95285573e0bc2d4221a019",
+      "previewUrl": "https://preview.redd.it/jausot7srv951.jpg?width=640&crop=smart&auto=webp&s=501f415a24a962bb057a04540700364d8143d9e1",
+      "score": 26,
+      "title": "Ground level to the Wizard's Tower- Another way in will have to be found!",
+      "url": "https://reddit.com/r/dndmaps/comments/ho97mv/ground_level_to_the_wizards_tower_another_way_in/"
+    },
+    {
+      "date": 1594345198,
+      "id": "t3_ho7hlu",
+      "picture": "https://preview.redd.it/nrviif43av951.jpg?auto=webp&s=7c46840dbb74bc250cc818f84c31130254035cd2",
+      "previewUrl": "https://preview.redd.it/nrviif43av951.jpg?width=640&crop=smart&auto=webp&s=eb82ed7d9c421dafeb81832a47796346f5724f7b",
+      "score": 17,
+      "title": "Ambush | 22x16",
+      "url": "https://reddit.com/r/dndmaps/comments/ho7hlu/ambush_22x16/"
+    },
+    {
+      "date": 1594338474,
+      "id": "t3_ho5f9a",
+      "picture": "https://preview.redd.it/6exnnfajru951.jpg?auto=webp&s=4b220137f473c3f195610ff980071ec4660c32dd",
+      "previewUrl": "https://preview.redd.it/6exnnfajru951.jpg?width=640&crop=smart&auto=webp&s=a5042a6126d0b97e01cf06aac3ad2ab994339bfb",
+      "score": 44,
+      "title": "Lorgval - Known part of the world",
+      "url": "https://reddit.com/r/dndmaps/comments/ho5f9a/lorgval_known_part_of_the_world/"
+    },
+    {
+      "date": 1594335443,
+      "id": "t3_ho4iwf",
+      "picture": "https://preview.redd.it/s72gjf0miu951.jpg?auto=webp&s=e4030b23235d0d7b7e75d5ebf0c6a2e6f8669829",
+      "previewUrl": "https://preview.redd.it/s72gjf0miu951.jpg?width=640&crop=smart&auto=webp&s=dd0bf66091bcdfa23be76a57cdac741e5522fab8",
+      "score": 11,
+      "title": "City Map - Town of Adraedan",
+      "url": "https://reddit.com/r/dndmaps/comments/ho4iwf/city_map_town_of_adraedan/"
+    },
+    {
+      "date": 1594327403,
+      "id": "t3_ho2ez1",
+      "picture": "https://preview.redd.it/gx5y4biput951.jpg?auto=webp&s=b18a3fb0335140efa68bde44de15bec8c4db7ecf",
+      "previewUrl": "https://preview.redd.it/gx5y4biput951.jpg?width=640&crop=smart&auto=webp&s=82a65b6f80aae7b7c7bb9c88f7eb7897efbb4466",
+      "score": 859,
+      "title": "Did I build this OK?",
+      "url": "https://reddit.com/r/dndmaps/comments/ho2ez1/did_i_build_this_ok/"
+    },
+    {
+      "date": 1594324755,
+      "id": "t3_ho1trx",
+      "picture": "https://preview.redd.it/bpk4jw4wmt951.jpg?auto=webp&s=0755dd850b540430597fe990b1d386918ebca43e",
+      "previewUrl": "https://preview.redd.it/bpk4jw4wmt951.jpg?width=640&crop=smart&auto=webp&s=686f1b0506b5c1494fb91daaa8b14eb95607afa9",
+      "score": 48,
+      "title": "[Battlemap] Small Tropical Island [2724x2430] [37x33 GRID]",
+      "url": "https://reddit.com/r/dndmaps/comments/ho1trx/battlemap_small_tropical_island_2724x2430_37x33/"
+    },
+    {
+      "date": 1594319736,
+      "id": "t3_ho0ukk",
+      "picture": "https://preview.redd.it/e2qc6s486t951.jpg?auto=webp&s=28a7d9c786eccdcfb6975bab7c5ebf5a1d5a3cbc",
+      "previewUrl": "https://preview.redd.it/e2qc6s486t951.jpg?width=640&crop=smart&auto=webp&s=562412de892e08e347232470813cece090e8df23",
+      "score": 486,
+      "title": "Dwarven Enclave",
+      "url": "https://reddit.com/r/dndmaps/comments/ho0ukk/dwarven_enclave/"
+    },
+    {
+      "date": 1594312034,
+      "id": "t3_hnzgk1",
+      "picture": "https://preview.redd.it/ib5j3qbzks951.png?auto=webp&s=c3836aaaf2c44da30244bf0b9dd26241c32e387b",
+      "previewUrl": "https://preview.redd.it/ib5j3qbzks951.png?width=640&crop=smart&auto=webp&s=58d331c0cc5ffbd9a2a55160a70621da87d8ec3f",
+      "score": 42,
+      "title": "Lakeside Inn 35x30",
+      "url": "https://reddit.com/r/dndmaps/comments/hnzgk1/lakeside_inn_35x30/"
+    },
+    {
+      "date": 1594300658,
+      "id": "t3_hnxbi3",
+      "picture": "https://preview.redd.it/fyqeudsylr951.png?auto=webp&s=7c3cb271518269779cdb91134971f92efd5dc77f",
+      "previewUrl": "https://preview.redd.it/fyqeudsylr951.png?width=640&crop=smart&auto=webp&s=6f257481ddce25ca174ee24957f2b2e84405f683",
+      "score": 23,
+      "title": "Coral Lake [35x34] [Battlemap]",
+      "url": "https://reddit.com/r/dndmaps/comments/hnxbi3/coral_lake_35x34_battlemap/"
+    },
+    {
+      "date": 1594290918,
+      "id": "t3_hnv0rq",
+      "picture": "https://external-preview.redd.it/BNxfkpp3NYjyNuF9TgtnXqNtKsL7NsptIaYI4MCwqb8.jpg?auto=webp&s=03eddae6eda72f3f12cbfba4a79bf7458c476fc7",
+      "previewUrl": "https://external-preview.redd.it/BNxfkpp3NYjyNuF9TgtnXqNtKsL7NsptIaYI4MCwqb8.jpg?width=640&crop=smart&auto=webp&s=91d177e4b2795b8ebae1e335bcee1e01af8eeaeb",
+      "score": 5,
+      "title": "Three floor castle map for D&D [OC]",
+      "url": "https://reddit.com/r/dndmaps/comments/hnv0rq/three_floor_castle_map_for_dd_oc/"
+    },
+    {
+      "date": 1594285706,
+      "id": "t3_hnto7f",
+      "picture": "https://preview.redd.it/hxdwvd4req951.jpg?auto=webp&s=d70c37a8916e428dc9e2e7e7b35af8287faf2b1a",
+      "previewUrl": "https://preview.redd.it/hxdwvd4req951.jpg?width=640&crop=smart&auto=webp&s=e299b889cfa2a06a085142cff687f8ef239035d0",
+      "score": 44,
+      "title": "City of Saltspray 30x20 Multi-Level Battlemap! [OC]",
+      "url": "https://reddit.com/r/dndmaps/comments/hnto7f/city_of_saltspray_30x20_multilevel_battlemap_oc/"
+    },
+    {
       "date": 1594273592,
       "id": "t3_hnqbn4",
       "picture": "https://preview.redd.it/3ata81b1ep951.png?auto=webp&s=7742d4938818c7e033ace8fe3e1920ed7fdd194f",
       "previewUrl": "https://preview.redd.it/3ata81b1ep951.png?width=640&crop=smart&auto=webp&s=3ff08664ec42e832282e753fd8f0610945543194",
-      "score": 5,
+      "score": 8,
       "title": "Bodin, 2880 after the Fall of Marn, 57 years post Flame-Birth",
       "url": "https://reddit.com/r/dndmaps/comments/hnqbn4/bodin_2880_after_the_fall_of_marn_57_years_post/"
     },
@@ -15,7 +168,7 @@
       "id": "t3_hnpvmn",
       "picture": "https://external-preview.redd.it/HDKBlr2dZCw08Samsezp82TyD0tDulFZMuCp9wVJsF8.jpg?auto=webp&s=bc157e0c151815ad3be5557f42ee1d61a35c5ed1",
       "previewUrl": "https://external-preview.redd.it/HDKBlr2dZCw08Samsezp82TyD0tDulFZMuCp9wVJsF8.jpg?width=640&crop=smart&auto=webp&s=89f6a46810eb3d7fcbc4f6d25f3b5c66ef7424b9",
-      "score": 3,
+      "score": 7,
       "title": "My first attempt at making maps for Phandalin",
       "url": "https://reddit.com/r/dndmaps/comments/hnpvmn/my_first_attempt_at_making_maps_for_phandalin/"
     },
@@ -24,7 +177,7 @@
       "id": "t3_hnota6",
       "picture": "https://preview.redd.it/0atokkje0p951.png?auto=webp&s=83b2d058625d2fb79219e306519dec4ccb9d28f3",
       "previewUrl": "https://preview.redd.it/0atokkje0p951.png?width=640&crop=smart&auto=webp&s=c389062a40c59a22109869b479eb0a2096491a7d",
-      "score": 138,
+      "score": 1530,
       "title": "Town Map in the style of a board game. Thoughts? [x-post]",
       "url": "https://reddit.com/r/dndmaps/comments/hnota6/town_map_in_the_style_of_a_board_game_thoughts/"
     },
@@ -33,7 +186,7 @@
       "id": "t3_hnom8m",
       "picture": "https://preview.redd.it/z539fsa0yo951.jpg?auto=webp&s=4a4479e02aa5b419bbf843a9118a9322c82bbaf1",
       "previewUrl": "https://preview.redd.it/z539fsa0yo951.jpg?width=640&crop=smart&auto=webp&s=01ef30cf577e5189bca321b67897bdd8ad964049",
-      "score": 5,
+      "score": 13,
       "title": "Magical Portals [30x36][Battlemap][OC]",
       "url": "https://reddit.com/r/dndmaps/comments/hnom8m/magical_portals_30x36battlemapoc/"
     },
@@ -51,7 +204,7 @@
       "id": "t3_hnhcu7",
       "picture": "https://preview.redd.it/jr6atgkc1n951.jpg?auto=webp&s=e7f5cd0579fe46bc5f16d89a755670c2b5bb006e",
       "previewUrl": "https://preview.redd.it/jr6atgkc1n951.jpg?width=640&crop=smart&auto=webp&s=698966c1c302f2af206ef7bb0e02a889c047770b",
-      "score": 26,
+      "score": 31,
       "title": "The Nation of Zarlan",
       "url": "https://reddit.com/r/dndmaps/comments/hnhcu7/the_nation_of_zarlan/"
     },
@@ -60,7 +213,7 @@
       "id": "t3_hngeyu",
       "picture": "https://preview.redd.it/90gtkhraqm951.jpg?auto=webp&s=eb38c04248a1c1910ee6816cebd2663995044a4f",
       "previewUrl": "https://preview.redd.it/90gtkhraqm951.jpg?width=640&crop=smart&auto=webp&s=c38102b61c252be71a682aa8bc520fe83215e8f7",
-      "score": 1096,
+      "score": 1351,
       "title": "Shadowfell Graveyard & Crypt [58X58] [Battlemap] [OC][Modular]",
       "url": "https://reddit.com/r/dndmaps/comments/hngeyu/shadowfell_graveyard_crypt_58x58_battlemap/"
     },
@@ -69,7 +222,7 @@
       "id": "t3_hng1nq",
       "picture": "https://preview.redd.it/31upezcmlm951.png?auto=webp&s=d4230293cfe138e1efa2cab57d8688f1d7104ce9",
       "previewUrl": "https://preview.redd.it/31upezcmlm951.png?width=640&crop=smart&auto=webp&s=81af93f273aa21175f5bfaeaba417f0591a75de9",
-      "score": 79,
+      "score": 89,
       "title": "Ruined Seaside Temple [29x29]",
       "url": "https://reddit.com/r/dndmaps/comments/hng1nq/ruined_seaside_temple_29x29/"
     },
@@ -96,7 +249,7 @@
       "id": "t3_hn8xla",
       "picture": "https://preview.redd.it/dnqrr326rj951.jpg?auto=webp&s=a66e157320bcc08032e0bcbb5ecdbaad0c2e112e",
       "previewUrl": "https://preview.redd.it/dnqrr326rj951.jpg?width=640&crop=smart&auto=webp&s=9dfe1d94faba9f0636d017eb4294d10ccc3af38d",
-      "score": 750,
+      "score": 752,
       "title": "Forest of Hands - For my Odyssey of the Dragonlords campaign.",
       "url": "https://reddit.com/r/dndmaps/comments/hn8xla/forest_of_hands_for_my_odyssey_of_the_dragonlords/"
     },
