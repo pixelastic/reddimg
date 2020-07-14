@@ -2,6 +2,69 @@
   "bucket": "terrain",
   "records": [
     {
+      "date": 1594714250,
+      "id": "t3_hqr1p6",
+      "picture": "https://external-preview.redd.it/QseTLO_wawftA9PQe7tbfN2sryhvkD2G2caAvKNva9k.png?format=pjpg&auto=webp&s=edd09e1baac037de9e7c0d5a3699fdb4941bbefb",
+      "previewUrl": "https://external-preview.redd.it/QseTLO_wawftA9PQe7tbfN2sryhvkD2G2caAvKNva9k.png?width=640&crop=smart&format=pjpg&auto=webp&s=f6ad9bc54b635ef366b964647d6084070268ebc6",
+      "score": 4,
+      "title": "Made my own dice box.",
+      "url": "https://reddit.com/r/DnDIY/comments/hqr1p6/made_my_own_dice_box/"
+    },
+    {
+      "date": 1594700866,
+      "id": "t3_hqn2sr",
+      "picture": "https://preview.redd.it/xwhgwnk5poa51.jpg?auto=webp&s=2f42badba7eed8b55bdf9a3af48fc80e0b72888d",
+      "previewUrl": "https://preview.redd.it/xwhgwnk5poa51.jpg?width=640&crop=smart&auto=webp&s=e26e76b4314708be38c10a164a4ba5b071c9fadf",
+      "score": 9,
+      "title": "Interactive Dungeon Pieces",
+      "url": "https://reddit.com/r/DnDIY/comments/hqn2sr/interactive_dungeon_pieces/"
+    },
+    {
+      "date": 1594696846,
+      "id": "t3_hqltoj",
+      "picture": "https://preview.redd.it/4ouxu43bdoa51.jpg?auto=webp&s=d6bea5da930ce0d774ecbc3ce6e12f05a4963336",
+      "previewUrl": "https://preview.redd.it/4ouxu43bdoa51.jpg?width=640&crop=smart&auto=webp&s=ae8444b8882ec826e108b81c907bee4e86abb568",
+      "score": 40,
+      "title": "Made this well from egg cartons and toilet roll tubes!",
+      "url": "https://reddit.com/r/DnDIY/comments/hqltoj/made_this_well_from_egg_cartons_and_toilet_roll/"
+    },
+    {
+      "date": 1594672835,
+      "id": "t3_hqejlv",
+      "picture": "https://preview.redd.it/i5c233qwdma51.jpg?auto=webp&s=11cc91e1ad6e8532f355d2aea827b0b838435ba9",
+      "previewUrl": "https://preview.redd.it/i5c233qwdma51.jpg?width=640&crop=smart&auto=webp&s=bb9acc3795d98f2e3b745a45e7ad5561f247fc7d",
+      "score": 53,
+      "title": "Da’Shop gets a new paint job!",
+      "url": "https://reddit.com/r/DnDIY/comments/hqejlv/dashop_gets_a_new_paint_job/"
+    },
+    {
+      "date": 1594672046,
+      "id": "t3_hqed2q",
+      "picture": "https://external-preview.redd.it/HAH8kqftAttdhS3HmuQ3kBxIipS-K2vFvqy0HXYHHQ0.jpg?auto=webp&s=dd3ae71aded09453ebd15db35b53bf829156e166",
+      "previewUrl": "",
+      "score": 5,
+      "title": "A fast ground terrain for your game table",
+      "url": "https://reddit.com/r/DnDIY/comments/hqed2q/a_fast_ground_terrain_for_your_game_table/"
+    },
+    {
+      "date": 1594671395,
+      "id": "t3_hqe7pr",
+      "picture": "https://external-preview.redd.it/fe7wNEo_4FTGJcjjDR7FxOhe_2meVIkvpWHijFXtq7Y.jpg?auto=webp&s=b048d0401b54fd00096771538d1978f6633a1a53",
+      "previewUrl": "",
+      "score": 4,
+      "title": "Color changing magic crystal scatter",
+      "url": "https://reddit.com/r/DnDIY/comments/hqe7pr/color_changing_magic_crystal_scatter/"
+    },
+    {
+      "date": 1594669814,
+      "id": "t3_hqdv12",
+      "picture": "https://preview.redd.it/cjhhivix4ma51.jpg?auto=webp&s=e3f118345738dd84c8aba06d4493835b9f7c60a2",
+      "previewUrl": "https://preview.redd.it/cjhhivix4ma51.jpg?width=640&crop=smart&auto=webp&s=f780139a8fe16a1a27b3d26f38bee63c8bf20dde",
+      "score": 451,
+      "title": "My first stab at mimics. These tents have teeth!",
+      "url": "https://reddit.com/r/DnDIY/comments/hqdv12/my_first_stab_at_mimics_these_tents_have_teeth/"
+    },
+    {
       "date": 1594622651,
       "id": "t3_hq3pyu",
       "picture": "https://external-preview.redd.it/AYWv1T5n8vVkHhHAPiv6I0a1Rqei8HwH6yFpipUfuWw.jpg?auto=webp&s=8af684adac0fd54c42d56335d70ab9f38bddf1b6",
@@ -15,7 +78,7 @@
       "id": "t3_hpzi56",
       "picture": "https://preview.redd.it/5iqmfxiqzga51.jpg?auto=webp&s=0b0ca113438bc598382ed4e783608619100ef4e3",
       "previewUrl": "https://preview.redd.it/5iqmfxiqzga51.jpg?width=640&crop=smart&auto=webp&s=9d3b6fd33b99919ca4818300bfc461b8584e74a1",
-      "score": 254,
+      "score": 541,
       "title": "We finally finished our version of a DnD table! Complete with charging ports for phones/tablets :)",
       "url": "https://reddit.com/r/DnDIY/comments/hpzi56/we_finally_finished_our_version_of_a_dnd_table/"
     },
@@ -33,7 +96,7 @@
       "id": "t3_hpysgq",
       "picture": "https://preview.redd.it/x7aopbm6uga51.jpg?auto=webp&s=8ff599d63ebcdc426f9678835d9444414fdbb813",
       "previewUrl": "https://preview.redd.it/x7aopbm6uga51.jpg?width=640&crop=smart&auto=webp&s=8ac51e7bdd96bc36bc197c7077b33b736e549e70",
-      "score": 29,
+      "score": 35,
       "title": "Just finished making some dice trays.",
       "url": "https://reddit.com/r/DnDIY/comments/hpysgq/just_finished_making_some_dice_trays/"
     },
@@ -42,7 +105,7 @@
       "id": "t3_hpvgv4",
       "picture": "https://external-preview.redd.it/lwdkWfrtZ03c-P16QsqismJRTgbyi_SeDWQQU2MlYwM.png?format=pjpg&auto=webp&s=59d7e203415ea23a55cd92a0f28a2378b23016fe",
       "previewUrl": "https://external-preview.redd.it/lwdkWfrtZ03c-P16QsqismJRTgbyi_SeDWQQU2MlYwM.png?width=640&crop=smart&format=pjpg&auto=webp&s=926b78562a50aaf81fa1cab3c394ef1ca36a8e4f",
-      "score": 45,
+      "score": 50,
       "title": "So, I made some more accessories for my DIY Magnetic Modular Tables - tutorial and more examples in comments :)",
       "url": "https://reddit.com/r/DnDIY/comments/hpvgv4/so_i_made_some_more_accessories_for_my_diy/"
     },
@@ -51,7 +114,7 @@
       "id": "t3_hpvfzk",
       "picture": "https://preview.redd.it/oflwgzxmufa51.png?auto=webp&s=3cf7098e3b101dd4a0cc4ba66eec444efded896e",
       "previewUrl": "https://preview.redd.it/oflwgzxmufa51.png?width=640&crop=smart&auto=webp&s=9e0c48cc365fb6f6a96aad6363c0812705faf7be",
-      "score": 3,
+      "score": 4,
       "title": "Here's this week's character set from Paper Mage: Fire Cultist (download links on comments) - Enjoy! 🧙‍♂️",
       "url": "https://reddit.com/r/DnDIY/comments/hpvfzk/heres_this_weeks_character_set_from_paper_mage/"
     },
@@ -60,7 +123,7 @@
       "id": "t3_hpstrc",
       "picture": "https://preview.redd.it/7ub4g4uwtea51.jpg?auto=webp&s=1e0c40d7d7ec65255dafbf4dd10d192e02009547",
       "previewUrl": "https://preview.redd.it/7ub4g4uwtea51.jpg?width=640&crop=smart&auto=webp&s=154a9c34ef6c8ee2e752bbab2948c05b98140983",
-      "score": 11,
+      "score": 13,
       "title": "Dungeon tile & mysterious creature",
       "url": "https://reddit.com/r/DnDIY/comments/hpstrc/dungeon_tile_mysterious_creature/"
     },
@@ -69,7 +132,7 @@
       "id": "t3_hpr3xq",
       "picture": "https://preview.redd.it/5wrc480y0ea51.jpg?auto=webp&s=1fc88ff98b7b57bed35d8d6a4e2f590305d19751",
       "previewUrl": "https://preview.redd.it/5wrc480y0ea51.jpg?width=640&crop=smart&auto=webp&s=d3641b98ba288d5409080efe70aa0b8b3aa78da3",
-      "score": 4,
+      "score": 3,
       "title": "Im planning to add detail on my new terracotta pots and use air dry clay for the details (like below), will a gorilla glue hold them together? I dont think adhesive would work on this",
       "url": "https://reddit.com/r/DnDIY/comments/hpr3xq/im_planning_to_add_detail_on_my_new_terracotta/"
     },
@@ -87,7 +150,7 @@
       "id": "t3_hpnjq8",
       "picture": "https://preview.redd.it/ww64gz79hca51.jpg?auto=webp&s=fa37b1adb0fcb987b2d857434d9d3afecd8aa3cf",
       "previewUrl": "https://preview.redd.it/ww64gz79hca51.jpg?width=640&crop=smart&auto=webp&s=6a6b1fd5082d63b89c1d3960169d9aa49b412628",
-      "score": 16,
+      "score": 20,
       "title": "Made some Tabletop trees. Came out great! Have fun looking at all the little things in this pick lol, also that fish is real and his name is Gerald. Pronounced like the seals do on finding dory!",
       "url": "https://reddit.com/r/DnDIY/comments/hpnjq8/made_some_tabletop_trees_came_out_great_have_fun/"
     },
@@ -96,7 +159,7 @@
       "id": "t3_hplbdd",
       "picture": "https://external-preview.redd.it/jHyg2mwXsOPf3Kj9P19Gg7wrgF4So0xPQ6Xs_-N2yyE.jpg?auto=webp&s=dc0be5a4887c5244f7db475fedde99f64ffb9784",
       "previewUrl": "https://external-preview.redd.it/jHyg2mwXsOPf3Kj9P19Gg7wrgF4So0xPQ6Xs_-N2yyE.jpg?width=640&crop=smart&auto=webp&s=9786425a9ec30eb8975e5118587167e8ebfbefa2",
-      "score": 7,
+      "score": 8,
       "title": "Made some Paper Minis using Sims4",
       "url": "https://reddit.com/r/DnDIY/comments/hplbdd/made_some_paper_minis_using_sims4/"
     },
@@ -105,7 +168,7 @@
       "id": "t3_hpcr9o",
       "picture": "https://external-preview.redd.it/4KcKufMLGQFjdu18mUIovZVpjg4atuAljT3MbGFMw1k.jpg?auto=webp&s=b0aa84ba7bd15b8988613fbc9d128519dfd00fc3",
       "previewUrl": "https://external-preview.redd.it/4KcKufMLGQFjdu18mUIovZVpjg4atuAljT3MbGFMw1k.jpg?width=640&crop=smart&auto=webp&s=6163044af983310f3b8505e2f95d64d77058cec5",
-      "score": 34,
+      "score": 39,
       "title": "I made a leather cover for the Player's Handbook with pockets for character sheets or notes and a pen holder",
       "url": "https://reddit.com/r/DnDIY/comments/hpcr9o/i_made_a_leather_cover_for_the_players_handbook/"
     },
@@ -114,7 +177,7 @@
       "id": "t3_hpcbd3",
       "picture": "https://preview.redd.it/ozrfmuyz29a51.jpg?auto=webp&s=0fbfd8dfd8ee79f66289781f6818ca6bc1e62edc",
       "previewUrl": "https://preview.redd.it/ozrfmuyz29a51.jpg?width=640&crop=smart&auto=webp&s=c9ef3599a89133f140b254137fd66b3bd9ad2528",
-      "score": 119,
+      "score": 123,
       "title": "Portable Minimalistic Tokens",
       "url": "https://reddit.com/r/DnDIY/comments/hpcbd3/portable_minimalistic_tokens/"
     },
@@ -132,7 +195,7 @@
       "id": "t3_hp5kcv",
       "picture": "https://preview.redd.it/w9r2qolcd6a51.jpg?auto=webp&s=a794b67cdb098ccb6f0cb79b48ea567f333322d8",
       "previewUrl": "https://preview.redd.it/w9r2qolcd6a51.jpg?width=640&crop=smart&auto=webp&s=0b59c900ef3a3725a1b799683913e09197d9a169",
-      "score": 45,
+      "score": 50,
       "title": "3d printed tabletop layout (1 of 2) I will use for encounter with my kids this weekend. Will be pursuing necromancer and get a hoard of zombies coming out from behind the lower hill. Printed on Elegoo Mars. Table is 24” wide for scale and trees are 3-4” tall.",
       "url": "https://reddit.com/r/DnDIY/comments/hp5kcv/3d_printed_tabletop_layout_1_of_2_i_will_use_for/"
     },
@@ -168,7 +231,7 @@
       "id": "t3_how79w",
       "picture": "https://preview.redd.it/f33sus6673a51.jpg?auto=webp&s=85304de9a813d5b3435b1806c127ca5ad22f4c2d",
       "previewUrl": "https://preview.redd.it/f33sus6673a51.jpg?width=640&crop=smart&auto=webp&s=608543fa0327f7de29b5701930bc3fff9ddc2f3d",
-      "score": 228,
+      "score": 235,
       "title": "Holy Symbol of Ravenkind. I made it today. This is a bronze plated with 925 silver",
       "url": "https://reddit.com/r/DnDIY/comments/how79w/holy_symbol_of_ravenkind_i_made_it_today_this_is/"
     },
@@ -177,7 +240,7 @@
       "id": "t3_hovzf7",
       "picture": "https://preview.redd.it/3zwwzoi453a51.jpg?auto=webp&s=ad49ca6fa680d46bd769b4a4ca6e9015761b2be8",
       "previewUrl": "https://preview.redd.it/3zwwzoi453a51.jpg?width=640&crop=smart&auto=webp&s=45d6683ad5cfad8ea64184628e51fc611afdf935",
-      "score": 543,
+      "score": 546,
       "title": "Crocheted a mimic dice box",
       "url": "https://reddit.com/r/DnDIY/comments/hovzf7/crocheted_a_mimic_dice_box/"
     },
