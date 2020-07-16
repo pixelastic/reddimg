@@ -3,7 +3,7 @@
     "norska": "0.14.4"
   },
   "devDependencies": {
-    "@octokit/rest": "18.0.0",
+    "@octokit/rest": "18.0.1",
     "aberlaas": "1.11.0",
     "algolia-indexing": "1.0.1",
     "firost": "1.11.1",
