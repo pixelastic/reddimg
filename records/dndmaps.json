@@ -2,11 +2,146 @@
   "bucket": "maps",
   "records": [
     {
+      "date": 1595231701,
+      "id": "t3_huay45",
+      "picture": "https://preview.redd.it/z9j7i58pjwb51.jpg?auto=webp&s=72ce5b026c192316a94c1552a589c6ee2e9e9473",
+      "previewUrl": "https://preview.redd.it/z9j7i58pjwb51.jpg?width=640&crop=smart&auto=webp&s=6ea1a953d96e57e74f490112481b2e1aec55f879",
+      "score": 5,
+      "title": "Forest Ruins [33 x 26]",
+      "url": "https://reddit.com/r/dndmaps/comments/huay45/forest_ruins_33_x_26/"
+    },
+    {
+      "date": 1595223812,
+      "id": "t3_hu8t40",
+      "picture": "https://preview.redd.it/0rw9ldm6wvb51.jpg?auto=webp&s=8af087c70746b39346ae68fb9195a522a290087b",
+      "previewUrl": "https://preview.redd.it/0rw9ldm6wvb51.jpg?width=640&crop=smart&auto=webp&s=cd7029e0e20095e27755cefd629210e940c04cf1",
+      "score": 4,
+      "title": "Three-Story Sumerian-Inspired Home",
+      "url": "https://reddit.com/r/dndmaps/comments/hu8t40/threestory_sumerianinspired_home/"
+    },
+    {
+      "date": 1595213780,
+      "id": "t3_hu5uz0",
+      "picture": "https://preview.redd.it/oga9ph4d2vb51.jpg?auto=webp&s=131471ea4e65294fe72cebdcb23ea45b84b71427",
+      "previewUrl": "https://preview.redd.it/oga9ph4d2vb51.jpg?width=640&crop=smart&auto=webp&s=7305e5fbae874ee291418c8d8a80f0343ceb64d3",
+      "score": 6,
+      "title": "Temple Of Moradin",
+      "url": "https://reddit.com/r/dndmaps/comments/hu5uz0/temple_of_moradin/"
+    },
+    {
+      "date": 1595210193,
+      "id": "t3_hu4rg2",
+      "picture": "https://preview.redd.it/46zivjlqrub51.jpg?auto=webp&s=d02ad317a34548e588499561b51b8b6f1ff9e362",
+      "previewUrl": "https://preview.redd.it/46zivjlqrub51.jpg?width=640&crop=smart&auto=webp&s=0015ca292208a08749ee7152707f1ea81cfc47e4",
+      "score": 7,
+      "title": "The BattleGrounds - Kingdoms‘ Reformed ——— Dm me for commissions.",
+      "url": "https://reddit.com/r/dndmaps/comments/hu4rg2/the_battlegrounds_kingdoms_reformed_dm_me_for/"
+    },
+    {
+      "date": 1595207657,
+      "id": "t3_hu40pv",
+      "picture": "https://preview.redd.it/vhhrg6g6kub51.jpg?auto=webp&s=ef12d608e99adb9caedaaa648aa91351434f6efe",
+      "previewUrl": "https://preview.redd.it/vhhrg6g6kub51.jpg?width=640&crop=smart&auto=webp&s=dde86e233d26b6a4eda66e556a9c089018402112",
+      "score": 150,
+      "title": "The Blood Swamp [51x45]",
+      "url": "https://reddit.com/r/dndmaps/comments/hu40pv/the_blood_swamp_51x45/"
+    },
+    {
+      "date": 1595205989,
+      "id": "t3_hu3k22",
+      "picture": "https://preview.redd.it/7soje4gxeub51.jpg?auto=webp&s=c8ab8a18c440e71937360f2639e9a333e1afac9f",
+      "previewUrl": "https://preview.redd.it/7soje4gxeub51.jpg?width=640&crop=smart&auto=webp&s=3e686ff6ac11c927381f999b5f6d9ad8fb746705",
+      "score": 5,
+      "title": "A goblin village under siege and occupation",
+      "url": "https://reddit.com/r/dndmaps/comments/hu3k22/a_goblin_village_under_siege_and_occupation/"
+    },
+    {
+      "date": 1595204047,
+      "id": "t3_hu30vx",
+      "picture": "https://preview.redd.it/8wx3zoi14tb51.jpg?auto=webp&s=75d84f52fbe8cfb4a8e39d2a63693fd9affdd016",
+      "previewUrl": "https://preview.redd.it/8wx3zoi14tb51.jpg?width=640&crop=smart&auto=webp&s=5fd3512cc0c0df6f15432387b1e3e0eb9545fa28",
+      "score": 226,
+      "title": "Thought this would make a great city map",
+      "url": "https://reddit.com/r/dndmaps/comments/hu30vx/thought_this_would_make_a_great_city_map/"
+    },
+    {
+      "date": 1595202452,
+      "id": "t3_hu2l7d",
+      "picture": "https://preview.redd.it/sv0dtz883ub51.jpg?auto=webp&s=c7e04a34460425e85d072c4fe67c0b2ed1c315f3",
+      "previewUrl": "https://preview.redd.it/sv0dtz883ub51.jpg?width=640&crop=smart&auto=webp&s=a95f0ec10ae15dea706af11c270d766e6f2cab9d",
+      "score": 860,
+      "title": "Slaughterhouse Fighting Arena - Perspective Map",
+      "url": "https://reddit.com/r/dndmaps/comments/hu2l7d/slaughterhouse_fighting_arena_perspective_map/"
+    },
+    {
+      "date": 1595202011,
+      "id": "t3_hu2gud",
+      "picture": "https://preview.redd.it/3tiwm2843ub51.jpg?auto=webp&s=03ed1c90ee9090ceb9fbcf7fcf7d6a1083ec9526",
+      "previewUrl": "https://preview.redd.it/3tiwm2843ub51.jpg?width=640&crop=smart&auto=webp&s=4d31e219e04f954df7efa27b305bfbbcb5438ddb",
+      "score": 40,
+      "title": "Blightstone Castle [Part 02] [28x15]",
+      "url": "https://reddit.com/r/dndmaps/comments/hu2gud/blightstone_castle_part_02_28x15/"
+    },
+    {
+      "date": 1595200862,
+      "id": "t3_hu25m9",
+      "picture": "https://preview.redd.it/u150flsqztb51.png?auto=webp&s=86bd11c643469e76ef50a85108bc8a71874217eb",
+      "previewUrl": "https://preview.redd.it/u150flsqztb51.png?width=640&crop=smart&auto=webp&s=fc85da718a3b4d5079d2580f3a0d164a7f945f63",
+      "score": 12,
+      "title": "Underground Mansion for Ravnica adventures (My first time using CC3+, am I doing this right?)",
+      "url": "https://reddit.com/r/dndmaps/comments/hu25m9/underground_mansion_for_ravnica_adventures_my/"
+    },
+    {
+      "date": 1595197362,
+      "id": "t3_hu19ih",
+      "picture": "https://preview.redd.it/gshumh1rmtb51.jpg?auto=webp&s=e5b6a17b70598250f700ff3a80c3ae3277d8c565",
+      "previewUrl": "https://preview.redd.it/gshumh1rmtb51.jpg?width=640&crop=smart&auto=webp&s=f260dc174d83589e835140b85b14a9d19cc915eb",
+      "score": 161,
+      "title": "[27x23][Battlemap][Ruins] Free Map I made for a Contest, If you like it would help a ton if you fallow upvote it on that subreddit as well =) Hope you guys enjoy.",
+      "url": "https://reddit.com/r/dndmaps/comments/hu19ih/27x23battlemapruins_free_map_i_made_for_a_contest/"
+    },
+    {
+      "date": 1595196015,
+      "id": "t3_hu0xa4",
+      "picture": "https://external-preview.redd.it/kxDr8X-_6EXplovRXZUK5xU7UyjiEXrdmjFvtdF_EyY.jpg?auto=webp&s=10feab628bf2327edab1f2aec66f6585e5f46f5a",
+      "previewUrl": "https://external-preview.redd.it/kxDr8X-_6EXplovRXZUK5xU7UyjiEXrdmjFvtdF_EyY.jpg?width=640&crop=smart&auto=webp&s=1341bdcad1f72a53f291dda01a43cfeb7264f723",
+      "score": 25,
+      "title": "Bouvi - Ship [45x45][Battlemap][OC]",
+      "url": "https://reddit.com/r/dndmaps/comments/hu0xa4/bouvi_ship_45x45battlemapoc/"
+    },
+    {
+      "date": 1595173533,
+      "id": "t3_htwtn3",
+      "picture": "https://preview.redd.it/4wb5soipqrb51.jpg?auto=webp&s=9baec74b5433be10509ec955fcdb1f94da5e1ee2",
+      "previewUrl": "https://preview.redd.it/4wb5soipqrb51.jpg?width=640&crop=smart&auto=webp&s=621f802ff8f98a99c300dbda139e731432233a1d",
+      "score": 132,
+      "title": "Swamp Battle Map 24x34",
+      "url": "https://reddit.com/r/dndmaps/comments/htwtn3/swamp_battle_map_24x34/"
+    },
+    {
+      "date": 1595164088,
+      "id": "t3_htv562",
+      "picture": "https://preview.redd.it/v7zbl0biyqb51.jpg?auto=webp&s=b5f74c01d87c96ae7487594abb5941146c1eb050",
+      "previewUrl": "https://preview.redd.it/v7zbl0biyqb51.jpg?width=640&crop=smart&auto=webp&s=976777e019ed564c1eff682e05cb84d7254d7968",
+      "score": 735,
+      "title": "Skaði, City of Warg Hunters",
+      "url": "https://reddit.com/r/dndmaps/comments/htv562/skaði_city_of_warg_hunters/"
+    },
+    {
+      "date": 1595160673,
+      "id": "t3_htug9c",
+      "picture": "https://preview.redd.it/1er82xrdoqb51.jpg?auto=webp&s=b0454380db53fb7f5052deb7b1638d2dc244df2f",
+      "previewUrl": "https://preview.redd.it/1er82xrdoqb51.jpg?width=640&crop=smart&auto=webp&s=ae934dba0c676c7e309bbd17ef0b11552a86cd1c",
+      "score": 23,
+      "title": "Evermeet Map",
+      "url": "https://reddit.com/r/dndmaps/comments/htug9c/evermeet_map/"
+    },
+    {
       "date": 1595148951,
       "id": "t3_htrrf9",
       "picture": "https://preview.redd.it/8x1tpur8ppb51.jpg?auto=webp&s=dac7a1bc9835cff74b97553d44603ec7cf057b23",
       "previewUrl": "https://preview.redd.it/8x1tpur8ppb51.jpg?width=640&crop=smart&auto=webp&s=8ab2732eaef208f623a89fa748c7cc9c98f9d72d",
-      "score": 2,
+      "score": 55,
       "title": "Kingdom map in progress. I'm new to mapmaking, so I'd appreciate some feedback :) (Crossposted from r/Inkarnate)",
       "url": "https://reddit.com/r/dndmaps/comments/htrrf9/kingdom_map_in_progress_im_new_to_mapmaking_so_id/"
     },
@@ -15,7 +150,7 @@
       "id": "t3_htm5iq",
       "picture": "https://preview.redd.it/ge7o8nm1znb51.jpg?auto=webp&s=9069e2f411ce5825e17ae06f9b3e42fbaab8f906",
       "previewUrl": "https://preview.redd.it/ge7o8nm1znb51.jpg?width=640&crop=smart&auto=webp&s=c124d395baeb892f46a4e369db169edd692310b1",
-      "score": 13,
+      "score": 23,
       "title": "[OC] Broken Guardian",
       "url": "https://reddit.com/r/dndmaps/comments/htm5iq/oc_broken_guardian/"
     },
@@ -42,7 +177,7 @@
       "id": "t3_htjcsm",
       "picture": "https://preview.redd.it/l08v9rf25nb51.png?auto=webp&s=bfb96558eb1b07c9f14e0634d9aad4d93e2afe36",
       "previewUrl": "https://preview.redd.it/l08v9rf25nb51.png?width=640&crop=smart&auto=webp&s=e005e39cd9d56bcce638665a7ab6e9fecd99cd3b",
-      "score": 18,
+      "score": 26,
       "title": "Map of the Sword Coast",
       "url": "https://reddit.com/r/dndmaps/comments/htjcsm/map_of_the_sword_coast/"
     },
@@ -51,7 +186,7 @@
       "id": "t3_htjcje",
       "picture": "https://preview.redd.it/owlddo6e6nb51.jpg?auto=webp&s=49d0df3361ba6c93c71c04e71c3318eba349d0ff",
       "previewUrl": "https://preview.redd.it/owlddo6e6nb51.jpg?width=640&crop=smart&auto=webp&s=59261ecaebaea94f051e0a72504d6774c7f7f721",
-      "score": 23,
+      "score": 45,
       "title": "Crossroads at the Windmill Farm [31x46]",
       "url": "https://reddit.com/r/dndmaps/comments/htjcje/crossroads_at_the_windmill_farm_31x46/"
     },
@@ -78,7 +213,7 @@
       "id": "t3_hthu7d",
       "picture": "https://preview.redd.it/jr53ehyvpmb51.jpg?auto=webp&s=bc1656ce85dcfec31ca2c2105b6a04262d8157f0",
       "previewUrl": "https://preview.redd.it/jr53ehyvpmb51.jpg?width=640&crop=smart&auto=webp&s=21e4d61fdf8d5ed87f41866e5b74c06e468ebb99",
-      "score": 34,
+      "score": 55,
       "title": "Ruined Village Center",
       "url": "https://reddit.com/r/dndmaps/comments/hthu7d/ruined_village_center/"
     },
@@ -87,7 +222,7 @@
       "id": "t3_hthjps",
       "picture": "https://preview.redd.it/nnf4qwygmmb51.jpg?auto=webp&s=589d20165bf4a6595531553bb8df6be123acf053",
       "previewUrl": "https://preview.redd.it/nnf4qwygmmb51.jpg?width=640&crop=smart&auto=webp&s=53a12ca1fb84b31a85de9f5fd3ece112e3d104f8",
-      "score": 31,
+      "score": 37,
       "title": "Ships Bane Reef, the dread of sailors in my homebrew 5e archipelago setting.",
       "url": "https://reddit.com/r/dndmaps/comments/hthjps/ships_bane_reef_the_dread_of_sailors_in_my/"
     },
@@ -123,7 +258,7 @@
       "id": "t3_htghxa",
       "picture": "https://preview.redd.it/azxosl8i9mb51.jpg?auto=webp&s=84ebd4cf9ab99da6490daf05e6d88a151cc084c5",
       "previewUrl": "https://preview.redd.it/azxosl8i9mb51.jpg?width=640&crop=smart&auto=webp&s=a5da716c7eae96b968150f2b181ea8d55cb4e824",
-      "score": 1228,
+      "score": 1623,
       "title": "Illithid Bestiary",
       "url": "https://reddit.com/r/dndmaps/comments/htghxa/illithid_bestiary/"
     },
@@ -150,7 +285,7 @@
       "id": "t3_htetkq",
       "picture": "https://preview.redd.it/crzh0gbujlb51.jpg?auto=webp&s=b07b877427e63775d580ef492f5739c968fc7e5d",
       "previewUrl": "https://preview.redd.it/crzh0gbujlb51.jpg?width=640&crop=smart&auto=webp&s=74a3c89a4efb88cb73e75471d57f52eb65deafa3",
-      "score": 91,
+      "score": 103,
       "title": "Forgotten Altar [24x34]",
       "url": "https://reddit.com/r/dndmaps/comments/htetkq/forgotten_altar_24x34/"
     },
