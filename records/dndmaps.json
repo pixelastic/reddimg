@@ -2,11 +2,164 @@
   "bucket": "maps",
   "records": [
     {
+      "date": 1595408294,
+      "id": "t3_hvjxtn",
+      "picture": "https://preview.redd.it/42epgdrp4bc51.jpg?auto=webp&s=515cbdf60a128fbfae0e7c191b60e2b737988a92",
+      "previewUrl": "https://preview.redd.it/42epgdrp4bc51.jpg?width=640&crop=smart&auto=webp&s=cf1bb269ef5c065da05242b79bc263a4d00553e8",
+      "score": 1,
+      "title": "Dragonship - A living forest dragon pirate ship - Made in Inkarnate - 44 x 33",
+      "url": "https://reddit.com/r/dndmaps/comments/hvjxtn/dragonship_a_living_forest_dragon_pirate_ship/"
+    },
+    {
+      "date": 1595399330,
+      "id": "t3_hvhff6",
+      "picture": "https://preview.redd.it/92oc8ii4eac51.jpg?auto=webp&s=0cc5242644c0faaf73ce15d18a8b093a64161647",
+      "previewUrl": "https://preview.redd.it/92oc8ii4eac51.jpg?width=640&crop=smart&auto=webp&s=8938e34b616fb203a72221b2aa75d4ae5909cc09",
+      "score": 24,
+      "title": "The Moathouse Dungeons",
+      "url": "https://reddit.com/r/dndmaps/comments/hvhff6/the_moathouse_dungeons/"
+    },
+    {
+      "date": 1595394403,
+      "id": "t3_hvfw8e",
+      "picture": "https://preview.redd.it/ddzb7dcez9c51.png?auto=webp&s=86a4605bd51ad5189440f365fe40c2cf29cfcfc0",
+      "previewUrl": "https://preview.redd.it/ddzb7dcez9c51.png?width=640&crop=smart&auto=webp&s=7331c6ee380cf073b6a58fb47dcda7ae0dafc309",
+      "score": 11,
+      "title": "Short Sewer (24x8)",
+      "url": "https://reddit.com/r/dndmaps/comments/hvfw8e/short_sewer_24x8/"
+    },
+    {
+      "date": 1595393768,
+      "id": "t3_hvfoy7",
+      "picture": "https://preview.redd.it/zupg35ij69c51.jpg?auto=webp&s=c0fb508aa62f7fa92fbec6350f59b1d28b5b813d",
+      "previewUrl": "https://preview.redd.it/zupg35ij69c51.jpg?width=640&crop=smart&auto=webp&s=de9b102d5718de2a130a1aab2dda13ce7fd4301f",
+      "score": 18,
+      "title": "Tribal Jungle Village [30 x 30] [1920 x 1920]",
+      "url": "https://reddit.com/r/dndmaps/comments/hvfoy7/tribal_jungle_village_30_x_30_1920_x_1920/"
+    },
+    {
+      "date": 1595387066,
+      "id": "t3_hvdjjp",
+      "picture": "https://preview.redd.it/8q54ggcgd9c51.png?auto=webp&s=0ceb94941c44f7a8c071d5b6315aa557fa205c09",
+      "previewUrl": "https://preview.redd.it/8q54ggcgd9c51.png?width=640&crop=smart&auto=webp&s=4430efc9df408955c60ce4136db5d8a969dc2068",
+      "score": 6,
+      "title": "The Shrine of Jorik, Level 2. Attempting to play with odd geometry yielded fun results. Included a maze to anger your players. C&C welcome!",
+      "url": "https://reddit.com/r/dndmaps/comments/hvdjjp/the_shrine_of_jorik_level_2_attempting_to_play/"
+    },
+    {
+      "date": 1595386641,
+      "id": "t3_hvdeph",
+      "picture": "https://preview.redd.it/ulba2yq9c9c51.jpg?auto=webp&s=b9cdb19444ec9b8197286d3d16edb715f2e7b125",
+      "previewUrl": "https://preview.redd.it/ulba2yq9c9c51.jpg?width=640&crop=smart&auto=webp&s=001aab4012a7e546ee2183a9ec908793f4a74f4a",
+      "score": 15,
+      "title": "Dungeon Entrance (24x24 squares 1200x1200 pixels)",
+      "url": "https://reddit.com/r/dndmaps/comments/hvdeph/dungeon_entrance_24x24_squares_1200x1200_pixels/"
+    },
+    {
+      "date": 1595385642,
+      "id": "t3_hvd39y",
+      "picture": "https://preview.redd.it/zqu34mg899c51.png?auto=webp&s=89bc1f31ff4dcffbb6c31bbb58ac60175910e97a",
+      "previewUrl": "https://preview.redd.it/zqu34mg899c51.png?width=640&crop=smart&auto=webp&s=b32c6c48a527ed9f814bdbd541fcb8f164f177b7",
+      "score": 12,
+      "title": "The continent of Onurith - My first map (Feedback welcome)",
+      "url": "https://reddit.com/r/dndmaps/comments/hvd39y/the_continent_of_onurith_my_first_map_feedback/"
+    },
+    {
+      "date": 1595384229,
+      "id": "t3_hvcmvv",
+      "picture": "https://preview.redd.it/e4s46bws49c51.jpg?auto=webp&s=b4e4e5aeda05706f9244eea471165038d0f13410",
+      "previewUrl": "https://preview.redd.it/e4s46bws49c51.jpg?width=640&crop=smart&auto=webp&s=d5a5a37750f67a93feb721cd26d76d1379160040",
+      "score": 11,
+      "title": "[24x32] Cave in the Forest",
+      "url": "https://reddit.com/r/dndmaps/comments/hvcmvv/24x32_cave_in_the_forest/"
+    },
+    {
+      "date": 1595383003,
+      "id": "t3_hvc8gf",
+      "picture": "https://preview.redd.it/lpr388id19c51.jpg?auto=webp&s=10d610efe13c7b8f8697438c41be8d75b2a0b3fc",
+      "previewUrl": "https://preview.redd.it/lpr388id19c51.jpg?width=640&crop=smart&auto=webp&s=b9635901ef23d81b82d4f41506e4a24ee8919777",
+      "score": 26,
+      "title": "[OC] Aegis Fort [25x35] [3500x4900]",
+      "url": "https://reddit.com/r/dndmaps/comments/hvc8gf/oc_aegis_fort_25x35_3500x4900/"
+    },
+    {
+      "date": 1595378947,
+      "id": "t3_hvaxog",
+      "picture": "https://preview.redd.it/0dsjsh1cp8c51.jpg?auto=webp&s=b227cac16bf013af89ce47742e9fa345dec74cb2",
+      "previewUrl": "https://preview.redd.it/0dsjsh1cp8c51.jpg?width=640&crop=smart&auto=webp&s=442f53e8012f29e8f338b7b108cd9fb8873bbd3d",
+      "score": 25,
+      "title": "Heretic's Hollow",
+      "url": "https://reddit.com/r/dndmaps/comments/hvaxog/heretics_hollow/"
+    },
+    {
+      "date": 1595373545,
+      "id": "t3_hv969z",
+      "picture": "https://preview.redd.it/2dcjojjv88c51.jpg?auto=webp&s=c8be4c5c2a08e088b70df8ff55f95fe16379ac8b",
+      "previewUrl": "https://preview.redd.it/2dcjojjv88c51.jpg?width=640&crop=smart&auto=webp&s=184131d5d4d7073394805ffdc6db7355ef8da8ee",
+      "score": 17,
+      "title": "|| Rivoss City || by Rustymaps || [City Map] [40x50]",
+      "url": "https://reddit.com/r/dndmaps/comments/hv969z/rivoss_city_by_rustymaps_city_map_40x50/"
+    },
+    {
+      "date": 1595372291,
+      "id": "t3_hv8skg",
+      "picture": "https://preview.redd.it/pfpnlqsq58c51.jpg?auto=webp&s=23a0599d284e890a42e3dec96c87ea08e602a753",
+      "previewUrl": "https://preview.redd.it/pfpnlqsq58c51.jpg?width=640&crop=smart&auto=webp&s=f0baf264c0a51b994f13b73c98963bbe0a83988c",
+      "score": 58,
+      "title": "I was watching Zootopia and had an idea. Has anyone based their map off of a zoo map?",
+      "url": "https://reddit.com/r/dndmaps/comments/hv8skg/i_was_watching_zootopia_and_had_an_idea_has/"
+    },
+    {
+      "date": 1595368773,
+      "id": "t3_hv7t3g",
+      "picture": "https://external-preview.redd.it/dZ0SvRzOiUaZQ9Ds51m8YtCSuoP1HsYCo66hH84SFbM.jpg?auto=webp&s=73001c37b3ab4dfaef9e83117f407bf32d245003",
+      "previewUrl": "https://external-preview.redd.it/dZ0SvRzOiUaZQ9Ds51m8YtCSuoP1HsYCo66hH84SFbM.jpg?width=640&crop=smart&auto=webp&s=35e44f509acd1f2934f08518ec66da4ae8cb9df8",
+      "score": 3,
+      "title": "bredman06 - Town Hall [24x24][Battlemap][OC]",
+      "url": "https://reddit.com/r/dndmaps/comments/hv7t3g/bredman06_town_hall_24x24battlemapoc/"
+    },
+    {
+      "date": 1595366145,
+      "id": "t3_hv755k",
+      "picture": "https://preview.redd.it/uts6quufn7c51.png?auto=webp&s=6a65fa57b113615a20624834e4e93c01e2e5545b",
+      "previewUrl": "https://preview.redd.it/uts6quufn7c51.png?width=640&crop=smart&auto=webp&s=914754af8050bd5d4c36c3264707c505d638a042",
+      "score": 5,
+      "title": "The Continent of Gwyndara",
+      "url": "https://reddit.com/r/dndmaps/comments/hv755k/the_continent_of_gwyndara/"
+    },
+    {
+      "date": 1595358034,
+      "id": "t3_hv5duk",
+      "picture": "https://preview.redd.it/zro5gdsaz6c51.jpg?auto=webp&s=f0e059a8449b1c592ab9761111e5b9aa43ec7f8d",
+      "previewUrl": "https://preview.redd.it/zro5gdsaz6c51.jpg?width=640&crop=smart&auto=webp&s=59c23ad0f98bf78ab739a809cdd73f267ca3ac6a",
+      "score": 1073,
+      "title": "Unova",
+      "url": "https://reddit.com/r/dndmaps/comments/hv5duk/unova/"
+    },
+    {
+      "date": 1595355654,
+      "id": "t3_hv4xvy",
+      "picture": "https://preview.redd.it/97x1dt8as6c51.jpg?auto=webp&s=a486a3edf4d9f7f2dddc1a22c6c51571e2f514c5",
+      "previewUrl": "https://preview.redd.it/97x1dt8as6c51.jpg?width=640&crop=smart&auto=webp&s=5c4fc997bc0c079989e8abba5df7bf2d5fe62dd5",
+      "score": 47,
+      "title": "Map handouts I've been working on for my players!",
+      "url": "https://reddit.com/r/dndmaps/comments/hv4xvy/map_handouts_ive_been_working_on_for_my_players/"
+    },
+    {
+      "date": 1595338893,
+      "id": "t3_hv1t54",
+      "picture": "https://preview.redd.it/z9r5hkr9e5c51.jpg?auto=webp&s=86d9b99e824bf9d9e2d716d27f7e68d2cfede48d",
+      "previewUrl": "https://preview.redd.it/z9r5hkr9e5c51.jpg?width=640&crop=smart&auto=webp&s=bbced04103b2b3419db56d94298ff8e51ca9e390",
+      "score": 23,
+      "title": "Simple Hand Drawn Island Map",
+      "url": "https://reddit.com/r/dndmaps/comments/hv1t54/simple_hand_drawn_island_map/"
+    },
+    {
       "date": 1595321968,
       "id": "t3_huxstn",
       "picture": "https://preview.redd.it/91nh564404c51.jpg?auto=webp&s=4154b352e178d1bf5859e6df6bad28be7ff00f9f",
       "previewUrl": "https://preview.redd.it/91nh564404c51.jpg?width=640&crop=smart&auto=webp&s=97f7fa17cbeebfdde99030c52cfa44b8db752f60",
-      "score": 2,
+      "score": 29,
       "title": "The Cathedral of Fessa [41 x 56] [1024 X 1399] – More details about all 6 maps in the comments!",
       "url": "https://reddit.com/r/dndmaps/comments/huxstn/the_cathedral_of_fessa_41_x_56_1024_x_1399_more/"
     },
@@ -33,7 +186,7 @@
       "id": "t3_hutrwk",
       "picture": "https://preview.redd.it/5rjw159aq1c51.jpg?auto=webp&s=9dd7b11675484143b8822a0e2f0af5e3ea8ead8d",
       "previewUrl": "https://preview.redd.it/5rjw159aq1c51.jpg?width=640&crop=smart&auto=webp&s=2fca35da92a65a77ab53209d88a6859bd610783d",
-      "score": 9,
+      "score": 30,
       "title": "Waterfall Inn [30x18]",
       "url": "https://reddit.com/r/dndmaps/comments/hutrwk/waterfall_inn_30x18/"
     },
@@ -87,7 +240,7 @@
       "id": "t3_huoi1f",
       "picture": "https://preview.redd.it/nr3udjxfi1c51.jpg?auto=webp&s=e5f58d79fc660fdc6a0036ae92e813a5db1644c3",
       "previewUrl": "https://preview.redd.it/nr3udjxfi1c51.jpg?width=640&crop=smart&auto=webp&s=af09754289dbcff244a2598d8c75c6a5adfdcaef",
-      "score": 42,
+      "score": 71,
       "title": "Phandalin of the Future [Settlement Map] [Phandalin] [Town]",
       "url": "https://reddit.com/r/dndmaps/comments/huoi1f/phandalin_of_the_future_settlement_map_phandalin/"
     },
@@ -105,7 +258,7 @@
       "id": "t3_huntty",
       "picture": "https://preview.redd.it/z6t91mqvb1c51.png?auto=webp&s=65a2244969ec26100eb87eb437da2e8f9e3909a3",
       "previewUrl": "https://preview.redd.it/z6t91mqvb1c51.png?width=640&crop=smart&auto=webp&s=db476d7e610a1251f7b5c7eeec0a4a39151467e9",
-      "score": 973,
+      "score": 1477,
       "title": "Setting Sail [21x30] [Roof/No Roof]",
       "url": "https://reddit.com/r/dndmaps/comments/huntty/setting_sail_21x30_roofno_roof/"
     },
@@ -114,7 +267,7 @@
       "id": "t3_hun3uk",
       "picture": "https://preview.redd.it/m10jqfqr41c51.jpg?auto=webp&s=daec2577b8a3edb8625f2142f764f5dcb7d54b02",
       "previewUrl": "https://preview.redd.it/m10jqfqr41c51.jpg?width=640&crop=smart&auto=webp&s=09dc45dd499e59bbfcc33694370746a59e8cb690",
-      "score": 112,
+      "score": 149,
       "title": "The Pharaoh's Temple [25x76]",
       "url": "https://reddit.com/r/dndmaps/comments/hun3uk/the_pharaohs_temple_25x76/"
     },
@@ -168,7 +321,7 @@
       "id": "t3_huig9j",
       "picture": "https://preview.redd.it/k8c791myezb51.jpg?auto=webp&s=1a1eea50c4d51acb085e3deec898f568cd337d2a",
       "previewUrl": "https://preview.redd.it/k8c791myezb51.jpg?width=640&crop=smart&auto=webp&s=83bdfa94d5f5fb74d278aa26d0df83db2891f738",
-      "score": 552,
+      "score": 574,
       "title": "The Last Bridge by Spellarena [50x30][Battlemap][OC]",
       "url": "https://reddit.com/r/dndmaps/comments/huig9j/the_last_bridge_by_spellarena_50x30battlemapoc/"
     },
