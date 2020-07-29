@@ -2,11 +2,56 @@
   "bucket": "terrain",
   "records": [
     {
+      "date": 1595995922,
+      "id": "t3_hzm0rg",
+      "picture": "https://preview.redd.it/9ua5b1h1ond51.jpg?auto=webp&s=41b5724dab1ec89e907580009ebe44cfcba04054",
+      "previewUrl": "https://preview.redd.it/9ua5b1h1ond51.jpg?width=640&crop=smart&auto=webp&s=25288df7f1f619d3e58a556b3052f31f49e6647c",
+      "score": 9,
+      "title": "Finally getting back to working on the battle map for the final encounter for my nearly 2 year campaign. Still have the middle section to work on and have to build the building that sits atop the plateau. Luckily have about 6 weeks or so until the Mighty Misfits gather to play again.",
+      "url": "https://reddit.com/r/DnDIY/comments/hzm0rg/finally_getting_back_to_working_on_the_battle_map/"
+    },
+    {
+      "date": 1595964210,
+      "id": "t3_hzcxpt",
+      "picture": "https://external-preview.redd.it/zSwPOm3e4b4wcdCK9VxzpVVY2WYI3nNli3DqdrfZwl0.jpg?auto=webp&s=db860ccebcb7c084e10ac34c9491aa9c22e16f16",
+      "previewUrl": "",
+      "score": 2,
+      "title": "I built a fully playable modular tower system for my game table",
+      "url": "https://reddit.com/r/DnDIY/comments/hzcxpt/i_built_a_fully_playable_modular_tower_system_for/"
+    },
+    {
+      "date": 1595964050,
+      "id": "t3_hzcwfd",
+      "picture": "https://preview.redd.it/r9uzo8sc1ld51.jpg?auto=webp&s=4010e8e6dcc850e0cc03bc6709c7646defcf2aea",
+      "previewUrl": "https://preview.redd.it/r9uzo8sc1ld51.jpg?width=640&crop=smart&auto=webp&s=0f0428dd512d58d077a6aaeaa06a36b3427f1c9a",
+      "score": 1,
+      "title": "Working on a new playlist for my channel. Vid coming soon, basics are buying stuff from a charity shop and converting/kit bashing them to make some cool looking terrain/scenery. No real winner, just a lot of fun and knowledge gained from looking at stuff in a different way.",
+      "url": "https://reddit.com/r/DnDIY/comments/hzcwfd/working_on_a_new_playlist_for_my_channel_vid/"
+    },
+    {
+      "date": 1595961193,
+      "id": "t3_hzcbwe",
+      "picture": "https://preview.redd.it/0a1k38kkskd51.jpg?auto=webp&s=8a6bfff62bd5049955b5e7b9f4b7b1383973e49a",
+      "previewUrl": "https://preview.redd.it/0a1k38kkskd51.jpg?width=640&crop=smart&auto=webp&s=95ce1cb3e63259b1a50bc5c868785094a31ef0be",
+      "score": 20,
+      "title": "Tendriculos miniature [OC] [Art]",
+      "url": "https://reddit.com/r/DnDIY/comments/hzcbwe/tendriculos_miniature_oc_art/"
+    },
+    {
+      "date": 1595931062,
+      "id": "t3_hz61lz",
+      "picture": "https://preview.redd.it/jqu5mehavfd51.jpg?auto=webp&s=5820c366acc2d7e48884c36f4a04d6cee93a4de6",
+      "previewUrl": "https://preview.redd.it/jqu5mehavfd51.jpg?width=640&crop=smart&auto=webp&s=09480a6a200434930f04329dc77e3961b5f4b282",
+      "score": 7,
+      "title": "My first ever terrain build!",
+      "url": "https://reddit.com/r/DnDIY/comments/hz61lz/my_first_ever_terrain_build/"
+    },
+    {
       "date": 1595908245,
       "id": "t3_hyzgbm",
       "picture": "https://preview.redd.it/qlb5cubffgd51.jpg?auto=webp&s=86db9303473da4a2d348d033a26f18f56261f2f5",
       "previewUrl": "https://preview.redd.it/qlb5cubffgd51.jpg?width=640&crop=smart&auto=webp&s=3d340879149da6906dcdce66ea18020dd4fd3ec8",
-      "score": 7,
+      "score": 13,
       "title": "Finally done! Thanks U/noekie692 for the measurements on the DM screen! Now to find a neoprene mat that doesn’t break the bank",
       "url": "https://reddit.com/r/DnDIY/comments/hyzgbm/finally_done_thanks_unoekie692_for_the/"
     },
@@ -15,7 +60,7 @@
       "id": "t3_hyzbv2",
       "picture": "https://external-preview.redd.it/eUmK3icfkPNwCa_QMTSIc-JeJdXCCMBvwczlQpnMtcI.png?format=pjpg&auto=webp&s=5e1cef7d85ade80529ebe69d75f54a3a9a5fb38b",
       "previewUrl": "https://external-preview.redd.it/eUmK3icfkPNwCa_QMTSIc-JeJdXCCMBvwczlQpnMtcI.png?width=640&crop=smart&format=pjpg&auto=webp&s=ea61dc0783600935e3d709133a89eb6e2431b613",
-      "score": 6,
+      "score": 27,
       "title": "My take on Baba Yaga's Hut: Steampunk!",
       "url": "https://reddit.com/r/DnDIY/comments/hyzbv2/my_take_on_baba_yagas_hut_steampunk/"
     },
@@ -24,7 +69,7 @@
       "id": "t3_hyy9d3",
       "picture": "https://preview.redd.it/m5j1dpsaefd51.jpg?auto=webp&s=90aea62c593108672db40292a3d988849b1b6f33",
       "previewUrl": "https://preview.redd.it/m5j1dpsaefd51.jpg?width=640&crop=smart&auto=webp&s=dcf23a9ef07668dd72fe27cbc2a29d9bb63a6d37",
-      "score": 145,
+      "score": 710,
       "title": "[OC] Floating Island Terrain",
       "url": "https://reddit.com/r/DnDIY/comments/hyy9d3/oc_floating_island_terrain/"
     },
@@ -33,7 +78,7 @@
       "id": "t3_hyy2xr",
       "picture": "https://external-preview.redd.it/Mco7aogueZJUpfNeft-W_kxIOAx0lIcqCVXy_4qOSgg.jpg?auto=webp&s=8a4acce9ff626e4fcc1154cb72bdf451242c9def",
       "previewUrl": "",
-      "score": 1,
+      "score": 2,
       "title": "I made a light-up asian pillar using a modified tealight! Build vid/free 3D print files in comments.",
       "url": "https://reddit.com/r/DnDIY/comments/hyy2xr/i_made_a_lightup_asian_pillar_using_a_modified/"
     },
@@ -42,7 +87,7 @@
       "id": "t3_hywu9z",
       "picture": "https://preview.redd.it/9tatlrtbrfd51.jpg?auto=webp&s=5fa35005ea46f0e4cdf38946085310a4a14f7f27",
       "previewUrl": "https://preview.redd.it/9tatlrtbrfd51.jpg?width=640&crop=smart&auto=webp&s=05172996574a567ca62c0fdaa452e31b7cc402e4",
-      "score": 2,
+      "score": 5,
       "title": "Turns out nart art effect powders stick really well to glossy modpodge. Win!",
       "url": "https://reddit.com/r/DnDIY/comments/hywu9z/turns_out_nart_art_effect_powders_stick_really/"
     },
@@ -51,7 +96,7 @@
       "id": "t3_hywtki",
       "picture": "https://preview.redd.it/wn4fdvtcrfd51.jpg?auto=webp&s=08510f188a2b24d1d58842dc379ecce040230021",
       "previewUrl": "https://preview.redd.it/wn4fdvtcrfd51.jpg?width=640&crop=smart&auto=webp&s=5516bbb5a6aef6b78b3f3ae4ca16fdb4e838febe",
-      "score": 9,
+      "score": 12,
       "title": "Cheap tavern set made with cardboard, paper, and corks. Check out my Insta for the step by step for the build, more pictures, and other cheap easy builds (link in a comment below)",
       "url": "https://reddit.com/r/DnDIY/comments/hywtki/cheap_tavern_set_made_with_cardboard_paper_and/"
     },
@@ -69,7 +114,7 @@
       "id": "t3_hylich",
       "picture": "https://preview.redd.it/j3r36suetbd51.jpg?auto=webp&s=3e875e52fb35c7dcd96c96a2aa9bba584283ddca",
       "previewUrl": "https://preview.redd.it/j3r36suetbd51.jpg?width=640&crop=smart&auto=webp&s=10f758c588f9fe6b7d7b7e38c0027e310018141f",
-      "score": 11,
+      "score": 12,
       "title": "Made it in about 10 to 14 hours before the session was gonna start. Everyone was out of chopsticks at the time. So, I had to drive to the other side of town three days before.",
       "url": "https://reddit.com/r/DnDIY/comments/hylich/made_it_in_about_10_to_14_hours_before_the/"
     },
@@ -78,7 +123,7 @@
       "id": "t3_hykcrl",
       "picture": "https://preview.redd.it/ss698b65fbd51.jpg?auto=webp&s=52e313442c955c8612dc5e0b9653f6424bfd9f04",
       "previewUrl": "https://preview.redd.it/ss698b65fbd51.jpg?width=640&crop=smart&auto=webp&s=0a8609943beea881cc048afdaa98af44d28c1fb1",
-      "score": 57,
+      "score": 62,
       "title": "A basic bridge :)",
       "url": "https://reddit.com/r/DnDIY/comments/hykcrl/a_basic_bridge/"
     },
@@ -87,7 +132,7 @@
       "id": "t3_hyhzub",
       "picture": "https://preview.redd.it/7lrf6svrmad51.jpg?auto=webp&s=1987da43bfe7ab717036258563650be1df8a1432",
       "previewUrl": "https://preview.redd.it/7lrf6svrmad51.jpg?width=640&crop=smart&auto=webp&s=0aaf5ea8a62828fcb9a243958356e55b2c4de1a0",
-      "score": 15,
+      "score": 17,
       "title": "UPDATE: ended up burning and staining the outside of my popsicle stick dice tower (original in comments)",
       "url": "https://reddit.com/r/DnDIY/comments/hyhzub/update_ended_up_burning_and_staining_the_outside/"
     },
@@ -96,7 +141,7 @@
       "id": "t3_hyhz0e",
       "picture": "https://preview.redd.it/6c9f88fimad51.jpg?auto=webp&s=8dbf476926f76ea8843f2eda0a1fde6989d4cd49",
       "previewUrl": "https://preview.redd.it/6c9f88fimad51.jpg?width=640&crop=smart&auto=webp&s=e6e64fbf24a4fbef6f17c09de9681a16726a9660",
-      "score": 13,
+      "score": 15,
       "title": "Dice box I made.",
       "url": "https://reddit.com/r/DnDIY/comments/hyhz0e/dice_box_i_made/"
     },
