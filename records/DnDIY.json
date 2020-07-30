@@ -2,11 +2,74 @@
   "bucket": "terrain",
   "records": [
     {
+      "date": 1596097826,
+      "id": "t3_i0c75g",
+      "picture": "https://preview.redd.it/pcwqnpgv2wd51.jpg?auto=webp&s=d9243e0082efdde013240ed000cc182544b06ef0",
+      "previewUrl": "https://preview.redd.it/pcwqnpgv2wd51.jpg?width=640&crop=smart&auto=webp&s=8e893bf060b5d08102a75c732372227de23f5038",
+      "score": 1,
+      "title": "My city docks! Missing something for the corner...?",
+      "url": "https://reddit.com/r/DnDIY/comments/i0c75g/my_city_docks_missing_something_for_the_corner/"
+    },
+    {
+      "date": 1596088024,
+      "id": "t3_i09har",
+      "picture": "https://external-preview.redd.it/RLFB_OGVBS4J-hls4LNovVQhOTcO0nkhdibSpxQuKR4.jpg?auto=webp&s=0d941e39b6fc4e862ac665f3134361e9762aa6f5",
+      "previewUrl": "",
+      "score": 1,
+      "title": "Ancient fountain tutorial",
+      "url": "https://reddit.com/r/DnDIY/comments/i09har/ancient_fountain_tutorial/"
+    },
+    {
+      "date": 1596067041,
+      "id": "t3_i033jp",
+      "picture": "https://external-preview.redd.it/bC36Z59T1FsxvpKWMgSvZjzdcQXrDgrNo3oOwP6zVrU.jpg?auto=webp&s=134f7c4da7ed00a2f5fbfe7acfee7471cc25f95c",
+      "previewUrl": "https://external-preview.redd.it/bC36Z59T1FsxvpKWMgSvZjzdcQXrDgrNo3oOwP6zVrU.jpg?width=640&crop=smart&auto=webp&s=b5b5094dcd3ddb8006971ac905f191cf68a54336",
+      "score": 142,
+      "title": "My take on Matt Mercer’s Chantry of the Dawn",
+      "url": "https://reddit.com/r/DnDIY/comments/i033jp/my_take_on_matt_mercers_chantry_of_the_dawn/"
+    },
+    {
+      "date": 1596052268,
+      "id": "t3_hzzcb2",
+      "picture": "https://preview.redd.it/xcuio19obsd51.jpg?auto=webp&s=64a77bc370b58855e5ef1ef6dc6addd5605802ab",
+      "previewUrl": "https://preview.redd.it/xcuio19obsd51.jpg?width=640&crop=smart&auto=webp&s=d93c74debc4058d04458f7fbaad09893496a7382",
+      "score": 486,
+      "title": "Our DnDIY's. My neighbor and I are fairly new to D&D, but we were very excited to start crafting. This is what we've made so far! Very excited to start playing with these. Inspired by this sub and Black Magic Crafts.",
+      "url": "https://reddit.com/r/DnDIY/comments/hzzcb2/our_dndiys_my_neighbor_and_i_are_fairly_new_to_dd/"
+    },
+    {
+      "date": 1596050653,
+      "id": "t3_hzz0dk",
+      "picture": "https://preview.redd.it/vrn7chjv6sd51.jpg?auto=webp&s=52eaafac0f3f6d958a54993b77ae4fb22d8cfc38",
+      "previewUrl": "https://preview.redd.it/vrn7chjv6sd51.jpg?width=640&crop=smart&auto=webp&s=e4e9fa74f9da0cdac06fc22420f242a686a56bda",
+      "score": 4,
+      "title": "A Monsterous Mimic Mug",
+      "url": "https://reddit.com/r/DnDIY/comments/hzz0dk/a_monsterous_mimic_mug/"
+    },
+    {
+      "date": 1596040811,
+      "id": "t3_hzx5gp",
+      "picture": "https://external-preview.redd.it/667XSWmQN6s5LRqYtO3ZQvNqhHOj33A82Ohmzjub9J8.png?format=pjpg&auto=webp&s=23aaf0b455d0cd1e8d98b71a9dd48950a2a09b2e",
+      "previewUrl": "https://external-preview.redd.it/667XSWmQN6s5LRqYtO3ZQvNqhHOj33A82Ohmzjub9J8.png?width=640&crop=smart&format=pjpg&auto=webp&s=a1eb0845fe94e8f029c5fc8489b6ecdf0314c1b1",
+      "score": 102,
+      "title": "Made some Ropers! Hopefully you will all enjoy these two creatures. Made a tutorial, link in comments, very easy to make your own!",
+      "url": "https://reddit.com/r/DnDIY/comments/hzx5gp/made_some_ropers_hopefully_you_will_all_enjoy/"
+    },
+    {
+      "date": 1596026084,
+      "id": "t3_hzu899",
+      "picture": "https://preview.redd.it/lz02oc7m5qd51.jpg?auto=webp&s=d25c7029151745bda610d22a3e3c8362b4e5b9b4",
+      "previewUrl": "https://preview.redd.it/lz02oc7m5qd51.jpg?width=640&crop=smart&auto=webp&s=d037312e86d22e899eabd02aa6899c59ee0fec09",
+      "score": 21,
+      "title": "First time sculpting my own mini!",
+      "url": "https://reddit.com/r/DnDIY/comments/hzu899/first_time_sculpting_my_own_mini/"
+    },
+    {
       "date": 1595995922,
       "id": "t3_hzm0rg",
       "picture": "https://preview.redd.it/9ua5b1h1ond51.jpg?auto=webp&s=41b5724dab1ec89e907580009ebe44cfcba04054",
       "previewUrl": "https://preview.redd.it/9ua5b1h1ond51.jpg?width=640&crop=smart&auto=webp&s=25288df7f1f619d3e58a556b3052f31f49e6647c",
-      "score": 9,
+      "score": 17,
       "title": "Finally getting back to working on the battle map for the final encounter for my nearly 2 year campaign. Still have the middle section to work on and have to build the building that sits atop the plateau. Luckily have about 6 weeks or so until the Mighty Misfits gather to play again.",
       "url": "https://reddit.com/r/DnDIY/comments/hzm0rg/finally_getting_back_to_working_on_the_battle_map/"
     },
@@ -33,7 +96,7 @@
       "id": "t3_hzcbwe",
       "picture": "https://preview.redd.it/0a1k38kkskd51.jpg?auto=webp&s=8a6bfff62bd5049955b5e7b9f4b7b1383973e49a",
       "previewUrl": "https://preview.redd.it/0a1k38kkskd51.jpg?width=640&crop=smart&auto=webp&s=95ce1cb3e63259b1a50bc5c868785094a31ef0be",
-      "score": 20,
+      "score": 24,
       "title": "Tendriculos miniature [OC] [Art]",
       "url": "https://reddit.com/r/DnDIY/comments/hzcbwe/tendriculos_miniature_oc_art/"
     },
@@ -42,7 +105,7 @@
       "id": "t3_hz61lz",
       "picture": "https://preview.redd.it/jqu5mehavfd51.jpg?auto=webp&s=5820c366acc2d7e48884c36f4a04d6cee93a4de6",
       "previewUrl": "https://preview.redd.it/jqu5mehavfd51.jpg?width=640&crop=smart&auto=webp&s=09480a6a200434930f04329dc77e3961b5f4b282",
-      "score": 7,
+      "score": 8,
       "title": "My first ever terrain build!",
       "url": "https://reddit.com/r/DnDIY/comments/hz61lz/my_first_ever_terrain_build/"
     },
@@ -51,7 +114,7 @@
       "id": "t3_hyzgbm",
       "picture": "https://preview.redd.it/qlb5cubffgd51.jpg?auto=webp&s=86db9303473da4a2d348d033a26f18f56261f2f5",
       "previewUrl": "https://preview.redd.it/qlb5cubffgd51.jpg?width=640&crop=smart&auto=webp&s=3d340879149da6906dcdce66ea18020dd4fd3ec8",
-      "score": 13,
+      "score": 16,
       "title": "Finally done! Thanks U/noekie692 for the measurements on the DM screen! Now to find a neoprene mat that doesn’t break the bank",
       "url": "https://reddit.com/r/DnDIY/comments/hyzgbm/finally_done_thanks_unoekie692_for_the/"
     },
@@ -60,7 +123,7 @@
       "id": "t3_hyzbv2",
       "picture": "https://external-preview.redd.it/eUmK3icfkPNwCa_QMTSIc-JeJdXCCMBvwczlQpnMtcI.png?format=pjpg&auto=webp&s=5e1cef7d85ade80529ebe69d75f54a3a9a5fb38b",
       "previewUrl": "https://external-preview.redd.it/eUmK3icfkPNwCa_QMTSIc-JeJdXCCMBvwczlQpnMtcI.png?width=640&crop=smart&format=pjpg&auto=webp&s=ea61dc0783600935e3d709133a89eb6e2431b613",
-      "score": 27,
+      "score": 30,
       "title": "My take on Baba Yaga's Hut: Steampunk!",
       "url": "https://reddit.com/r/DnDIY/comments/hyzbv2/my_take_on_baba_yagas_hut_steampunk/"
     },
@@ -69,7 +132,7 @@
       "id": "t3_hyy9d3",
       "picture": "https://preview.redd.it/m5j1dpsaefd51.jpg?auto=webp&s=90aea62c593108672db40292a3d988849b1b6f33",
       "previewUrl": "https://preview.redd.it/m5j1dpsaefd51.jpg?width=640&crop=smart&auto=webp&s=dcf23a9ef07668dd72fe27cbc2a29d9bb63a6d37",
-      "score": 710,
+      "score": 716,
       "title": "[OC] Floating Island Terrain",
       "url": "https://reddit.com/r/DnDIY/comments/hyy9d3/oc_floating_island_terrain/"
     },
@@ -96,7 +159,7 @@
       "id": "t3_hywtki",
       "picture": "https://preview.redd.it/wn4fdvtcrfd51.jpg?auto=webp&s=08510f188a2b24d1d58842dc379ecce040230021",
       "previewUrl": "https://preview.redd.it/wn4fdvtcrfd51.jpg?width=640&crop=smart&auto=webp&s=5516bbb5a6aef6b78b3f3ae4ca16fdb4e838febe",
-      "score": 12,
+      "score": 15,
       "title": "Cheap tavern set made with cardboard, paper, and corks. Check out my Insta for the step by step for the build, more pictures, and other cheap easy builds (link in a comment below)",
       "url": "https://reddit.com/r/DnDIY/comments/hywtki/cheap_tavern_set_made_with_cardboard_paper_and/"
     },
