@@ -2,11 +2,173 @@
   "bucket": "maps",
   "records": [
     {
+      "date": 1596181324,
+      "id": "t3_i0wx4h",
+      "picture": "https://preview.redd.it/5u9vnuu8z2e51.jpg?auto=webp&s=7925f7d21a5541ed6b81c2d0061148785dc24b35",
+      "previewUrl": "https://preview.redd.it/5u9vnuu8z2e51.jpg?width=640&crop=smart&auto=webp&s=c94af010efebdee955716fe3efd8ea3b414e8c9d",
+      "score": 2,
+      "title": "Obviously, this adventurer did not bother to check out his campsite before bedding down.",
+      "url": "https://reddit.com/r/dndmaps/comments/i0wx4h/obviously_this_adventurer_did_not_bother_to_check/"
+    },
+    {
+      "date": 1596174588,
+      "id": "t3_i0v0ey",
+      "picture": "https://preview.redd.it/imupekzbf2e51.jpg?auto=webp&s=139ec0980c68bcfc29521bff5bf46a038d3af46a",
+      "previewUrl": "https://preview.redd.it/imupekzbf2e51.jpg?width=640&crop=smart&auto=webp&s=fa8481e37605fe6a12572f3092cff713fc7eb821",
+      "score": 11,
+      "title": "[OC][Art][30x28] Forest Pond - Battle map",
+      "url": "https://reddit.com/r/dndmaps/comments/i0v0ey/ocart30x28_forest_pond_battle_map/"
+    },
+    {
+      "date": 1596174089,
+      "id": "t3_i0uv0w",
+      "picture": "https://preview.redd.it/rb4occnwd2e51.jpg?auto=webp&s=871b3fae603cb3985f2141a4352b196e31efcca9",
+      "previewUrl": "https://preview.redd.it/rb4occnwd2e51.jpg?width=640&crop=smart&auto=webp&s=b4edeac5cf174888c6b72f42269166353aa66d80",
+      "score": 2,
+      "title": "Eserine desert region. Still WIP but thought I’d share.",
+      "url": "https://reddit.com/r/dndmaps/comments/i0uv0w/eserine_desert_region_still_wip_but_thought_id/"
+    },
+    {
+      "date": 1596170735,
+      "id": "t3_i0ttsy",
+      "picture": "https://preview.redd.it/3qe67q3x32e51.jpg?auto=webp&s=3099c188731a25e794ccd59c4ed9b94b8a21aa89",
+      "previewUrl": "https://preview.redd.it/3qe67q3x32e51.jpg?width=640&crop=smart&auto=webp&s=33ca77eeb2694e83d6fa9448921b63c9789f9e0f",
+      "score": 7,
+      "title": "Region Map of new campaign",
+      "url": "https://reddit.com/r/dndmaps/comments/i0ttsy/region_map_of_new_campaign/"
+    },
+    {
+      "date": 1596166110,
+      "id": "t3_i0sg48",
+      "picture": "https://preview.redd.it/753lj7e4q1e51.jpg?auto=webp&s=79161a0eb0567a3ab381940828e539c86e2d35e2",
+      "previewUrl": "https://preview.redd.it/753lj7e4q1e51.jpg?width=640&crop=smart&auto=webp&s=d30f74a10bc0b241e16a425da08cda5eaf56b404",
+      "score": 18,
+      "title": "Second version of the world I'm building. Submitted for critique and suggestions.",
+      "url": "https://reddit.com/r/dndmaps/comments/i0sg48/second_version_of_the_world_im_building_submitted/"
+    },
+    {
+      "date": 1596162608,
+      "id": "t3_i0rcvq",
+      "picture": "https://preview.redd.it/zn74m6moe1e51.jpg?auto=webp&s=647970bd401ab6378ab49fd88a88e58cf1b47b5e",
+      "previewUrl": "https://preview.redd.it/zn74m6moe1e51.jpg?width=640&crop=smart&auto=webp&s=e01921a4a2bb8dba2ab3cb53e45294804f818f3e",
+      "score": 7,
+      "title": "[OC][Art] A free map pack with some tokens!",
+      "url": "https://reddit.com/r/dndmaps/comments/i0rcvq/ocart_a_free_map_pack_with_some_tokens/"
+    },
+    {
+      "date": 1596159999,
+      "id": "t3_i0qjtt",
+      "picture": "https://external-preview.redd.it/MBb7mQlPO6plS66vbG6BPFSsH0nc1C1y5Uizc3qKwdU.jpg?auto=webp&s=022affe63b7143dd3ca7816944d31b549b39dd94",
+      "previewUrl": "https://external-preview.redd.it/MBb7mQlPO6plS66vbG6BPFSsH0nc1C1y5Uizc3qKwdU.jpg?width=640&crop=smart&auto=webp&s=e85df2c633adf4b677e06c497be86bf72850a63a",
+      "score": 5,
+      "title": "Just started using Inkarnate and I’m already in love! It may be fairly simple but seeing the world map I’ve had in my head for years come to life is awe inspiring to me.",
+      "url": "https://reddit.com/r/dndmaps/comments/i0qjtt/just_started_using_inkarnate_and_im_already_in/"
+    },
+    {
+      "date": 1596154366,
+      "id": "t3_i0otua",
+      "picture": "https://preview.redd.it/lk8lk2f7r0e51.jpg?auto=webp&s=9a7e0091169a6f88f0d14b171554d458f9d885c3",
+      "previewUrl": "https://preview.redd.it/lk8lk2f7r0e51.jpg?width=640&crop=smart&auto=webp&s=6a9489bd839982daed0fd46e774ae52b54a08253",
+      "score": 48,
+      "title": "The World of Alterus",
+      "url": "https://reddit.com/r/dndmaps/comments/i0otua/the_world_of_alterus/"
+    },
+    {
+      "date": 1596154191,
+      "id": "t3_i0oruo",
+      "picture": "https://preview.redd.it/62igtbbmq0e51.jpg?auto=webp&s=1fdaab9f4a8ed4a5b364e8569eb549b490e8e55b",
+      "previewUrl": "https://preview.redd.it/62igtbbmq0e51.jpg?width=640&crop=smart&auto=webp&s=8cfcebaa309c2f78639e24a1db5bd3333461e192",
+      "score": 34,
+      "title": "Galley at Sea by Paper Kingdoms (24 x 36)",
+      "url": "https://reddit.com/r/dndmaps/comments/i0oruo/galley_at_sea_by_paper_kingdoms_24_x_36/"
+    },
+    {
+      "date": 1596152512,
+      "id": "t3_i0o9wm",
+      "picture": "https://preview.redd.it/e5b8tivjl0e51.jpg?auto=webp&s=68a14e01dabd077fd13e2950e9aacdf6955bd0a2",
+      "previewUrl": "https://preview.redd.it/e5b8tivjl0e51.jpg?width=640&crop=smart&auto=webp&s=b3b36ef382706127f8890f9249b22fe3c6d053eb",
+      "score": 66,
+      "title": "Wealthy Noble's Estate [1st & 2nd Floor]",
+      "url": "https://reddit.com/r/dndmaps/comments/i0o9wm/wealthy_nobles_estate_1st_2nd_floor/"
+    },
+    {
+      "date": 1596150697,
+      "id": "t3_i0nqlf",
+      "picture": "https://preview.redd.it/by3ot5xbg0e51.jpg?auto=webp&s=3a5bde5018522bf816eadfe017f3483fc95e64ad",
+      "previewUrl": "https://preview.redd.it/by3ot5xbg0e51.jpg?width=640&crop=smart&auto=webp&s=b4b50b311561d3963a16999a50a631a74301ec04",
+      "score": 101,
+      "title": "Wintry Vampire Mansion [35x26]",
+      "url": "https://reddit.com/r/dndmaps/comments/i0nqlf/wintry_vampire_mansion_35x26/"
+    },
+    {
+      "date": 1596150208,
+      "id": "t3_i0nl6f",
+      "picture": "https://preview.redd.it/07acuhqje0e51.jpg?auto=webp&s=c41e83d403e4a628c8a82192a5912bf633eadd15",
+      "previewUrl": "https://preview.redd.it/07acuhqje0e51.jpg?width=640&crop=smart&auto=webp&s=1ee2dd67307bd604cd96b864dbb7c6228ed672a2",
+      "score": 76,
+      "title": "I made a 69 x 55 dungeon out of classic DOOM's E1M2",
+      "url": "https://reddit.com/r/dndmaps/comments/i0nl6f/i_made_a_69_x_55_dungeon_out_of_classic_dooms_e1m2/"
+    },
+    {
+      "date": 1596147004,
+      "id": "t3_i0mow2",
+      "picture": "https://external-preview.redd.it/wQCmj7x8Ul_9jWJueriUuCb1WYyzHZETq9EV-MKDyZs.png?format=pjpg&auto=webp&s=db0df2bc76d62853c6272334f2751b0c21df5dc4",
+      "previewUrl": "https://external-preview.redd.it/wQCmj7x8Ul_9jWJueriUuCb1WYyzHZETq9EV-MKDyZs.png?width=640&crop=smart&format=pjpg&auto=webp&s=f4e3f99ec5d03143bb3882c9e8c41058cb30736c",
+      "score": 73,
+      "title": "[OC][Animated][Battlemap][Perspective] Marine Malady 40x22",
+      "url": "https://reddit.com/r/dndmaps/comments/i0mow2/ocanimatedbattlemapperspective_marine_malady_40x22/"
+    },
+    {
+      "date": 1596146368,
+      "id": "t3_i0mimx",
+      "picture": "https://external-preview.redd.it/a0IEgsXFagoQe5-S4TaNHgyUtSlpvZr3g-sktLKMXp0.jpg?auto=webp&s=7c6ba7698cbecdcc8cb7b01ec2a94cddc1d1ffc8",
+      "previewUrl": "https://external-preview.redd.it/a0IEgsXFagoQe5-S4TaNHgyUtSlpvZr3g-sktLKMXp0.jpg?width=640&crop=smart&auto=webp&s=6e7f7dcc863fc8b66bbb89323a969cc62aec44af",
+      "score": 25,
+      "title": "Hackfyre - Spider Isles Temple [37x37][Battlemap][OC]",
+      "url": "https://reddit.com/r/dndmaps/comments/i0mimx/hackfyre_spider_isles_temple_37x37battlemapoc/"
+    },
+    {
+      "date": 1596143680,
+      "id": "t3_i0ltzj",
+      "picture": "https://preview.redd.it/ka0r2juavzd51.jpg?auto=webp&s=5593bb10cdcd61edc24bf12f17d790006eed9379",
+      "previewUrl": "https://preview.redd.it/ka0r2juavzd51.jpg?width=640&crop=smart&auto=webp&s=8eb9eb5e87db620b443d81e215f15ab13267e25e",
+      "score": 850,
+      "title": "Mausoleum of the Necromancer [Battlemap][25x61]",
+      "url": "https://reddit.com/r/dndmaps/comments/i0ltzj/mausoleum_of_the_necromancer_battlemap25x61/"
+    },
+    {
+      "date": 1596142587,
+      "id": "t3_i0lk9g",
+      "picture": "https://preview.redd.it/34rvbo90szd51.png?auto=webp&s=1f4bb18701ceee7ef6769e198b669fd3b6654410",
+      "previewUrl": "https://preview.redd.it/34rvbo90szd51.png?width=640&crop=smart&auto=webp&s=856a9fbd80d2088a873e7c9d177864ae4dd3423d",
+      "score": 21,
+      "title": "A town I made for my party... introducing the quaint seaside town of Menegroth",
+      "url": "https://reddit.com/r/dndmaps/comments/i0lk9g/a_town_i_made_for_my_party_introducing_the_quaint/"
+    },
+    {
+      "date": 1596141807,
+      "id": "t3_i0ldsr",
+      "picture": "https://preview.redd.it/88horfbfpzd51.png?auto=webp&s=984c4e061c7013f64ec21ac34bc0ed57b8499d3f",
+      "previewUrl": "https://preview.redd.it/88horfbfpzd51.png?width=640&crop=smart&auto=webp&s=37eb6929b0f6ac2be6dd8b3df53b428a21154f36",
+      "score": 34,
+      "title": "Small Farmhouse",
+      "url": "https://reddit.com/r/dndmaps/comments/i0ldsr/small_farmhouse/"
+    },
+    {
+      "date": 1596137292,
+      "id": "t3_i0kehk",
+      "picture": "https://preview.redd.it/xg305u0fczd51.png?auto=webp&s=1b983a750bd506104c623459c27c752e1f693729",
+      "previewUrl": "https://preview.redd.it/xg305u0fczd51.png?width=640&crop=smart&auto=webp&s=a37609121d571d1fee3992297395031ea26675b6",
+      "score": 118,
+      "title": "Five Cities Map",
+      "url": "https://reddit.com/r/dndmaps/comments/i0kehk/five_cities_map/"
+    },
+    {
       "date": 1596097417,
       "id": "t3_i0c3g2",
       "picture": "https://preview.redd.it/4iuofrwm0wd51.jpg?auto=webp&s=8af9f3927db33265755cf7f37df89b0301ab47c4",
       "previewUrl": "https://preview.redd.it/4iuofrwm0wd51.jpg?width=640&crop=smart&auto=webp&s=90b4cfa20311d9c8342e20a79806f050b1bb419d",
-      "score": 6,
+      "score": 847,
       "title": "Revolution War era map of Boston 28x22",
       "url": "https://reddit.com/r/dndmaps/comments/i0c3g2/revolution_war_era_map_of_boston_28x22/"
     },
@@ -15,7 +177,7 @@
       "id": "t3_i0boca",
       "picture": "https://preview.redd.it/9inln3juwvd51.jpg?auto=webp&s=6cd178b5fd882ebd9baebc64a602ed62db4a09de",
       "previewUrl": "https://preview.redd.it/9inln3juwvd51.jpg?width=640&crop=smart&auto=webp&s=525ca9cb74fca86492dcd7be984021443bc8f51e",
-      "score": 6,
+      "score": 217,
       "title": "Freya's Garden",
       "url": "https://reddit.com/r/dndmaps/comments/i0boca/freyas_garden/"
     },
@@ -24,7 +186,7 @@
       "id": "t3_i0avr1",
       "picture": "https://preview.redd.it/ntlhmw6dovd51.jpg?auto=webp&s=70d07071ce86a64b5ab13175a98cda68e697a056",
       "previewUrl": "https://preview.redd.it/ntlhmw6dovd51.jpg?width=640&crop=smart&auto=webp&s=d85fc29dbf6e46a4dac97a704731600b3e26a981",
-      "score": 12,
+      "score": 138,
       "title": "[55x43][Battlemap] My first floor of my Grand Library, get this floor for free.",
       "url": "https://reddit.com/r/dndmaps/comments/i0avr1/55x43battlemap_my_first_floor_of_my_grand_library/"
     },
@@ -60,7 +222,7 @@
       "id": "t3_i06ipl",
       "picture": "https://preview.redd.it/r7383797hud51.jpg?auto=webp&s=543e22edb34c451cf99e60d0ea8e4a073d7f374e",
       "previewUrl": "https://preview.redd.it/r7383797hud51.jpg?width=640&crop=smart&auto=webp&s=6a6f27ada5c1ded45951c62b0358451c52708a84",
-      "score": 69,
+      "score": 307,
       "title": "The Tower Of Araphel - A 6 level Dark Wizard's Tower! [18x12x6]",
       "url": "https://reddit.com/r/dndmaps/comments/i06ipl/the_tower_of_araphel_a_6_level_dark_wizards_tower/"
     },
