@@ -2,11 +2,74 @@
   "bucket": "terrain",
   "records": [
     {
+      "date": 1596520499,
+      "id": "t3_i36ish",
+      "picture": "https://preview.redd.it/c62o4bbyzue51.jpg?auto=webp&s=4071a0951b6a3ea288a6500f64f8fb3e308e9e0b",
+      "previewUrl": "https://preview.redd.it/c62o4bbyzue51.jpg?width=640&crop=smart&auto=webp&s=08d96ed2115cd3bafac72b37b3ec45e9d61c94e1",
+      "score": 5,
+      "title": "I made a removable chalkboard table top for drawing out quick maps or events. Also excited to see what other games this would be fun to use for.",
+      "url": "https://reddit.com/r/DnDIY/comments/i36ish/i_made_a_removable_chalkboard_table_top_for/"
+    },
+    {
+      "date": 1596519998,
+      "id": "t3_i36da9",
+      "picture": "https://preview.redd.it/zu833mahyue51.jpg?auto=webp&s=7c5196d8d565a5a9ec4f42f81c9424c45cc55ff4",
+      "previewUrl": "https://preview.redd.it/zu833mahyue51.jpg?width=640&crop=smart&auto=webp&s=eb73a58e7267df6032e32bdda2debf2aa9437283",
+      "score": 1,
+      "title": "I’m really proud of myself for this build. The whole tree (including the decorations and flocking) is made only from popsicle sticks, hot glue, and paint!",
+      "url": "https://reddit.com/r/DnDIY/comments/i36da9/im_really_proud_of_myself_for_this_build_the/"
+    },
+    {
+      "date": 1596519811,
+      "id": "t3_i36b6c",
+      "picture": "https://preview.redd.it/53o18obqxue51.jpg?auto=webp&s=2dc5153b4ef9311814ebb6821968ce8fa148e173",
+      "previewUrl": "https://preview.redd.it/53o18obqxue51.jpg?width=640&crop=smart&auto=webp&s=c8e6e64215fe51f7c83b50b05d29f7f98d2e1aaa",
+      "score": 11,
+      "title": "Start of my printed dungeon terrain, happy with results so far.",
+      "url": "https://reddit.com/r/DnDIY/comments/i36b6c/start_of_my_printed_dungeon_terrain_happy_with/"
+    },
+    {
+      "date": 1596516846,
+      "id": "t3_i35dfs",
+      "picture": "https://preview.redd.it/ruj1hrj3pue51.jpg?auto=webp&s=83671d339c95fae1c83ad2056f9f8be7baf3520a",
+      "previewUrl": "https://preview.redd.it/ruj1hrj3pue51.jpg?width=640&crop=smart&auto=webp&s=678b57428b8662e47f591fe7ed93ed77865d3875",
+      "score": 51,
+      "title": "I made horns to wear while playing my tiefling character!",
+      "url": "https://reddit.com/r/DnDIY/comments/i35dfs/i_made_horns_to_wear_while_playing_my_tiefling/"
+    },
+    {
+      "date": 1596449951,
+      "id": "t3_i2ot4h",
+      "picture": "https://external-preview.redd.it/ytBx-Jdn9oxlwFYL01g45IS4K6gkDrXzknEPXd1HkX8.png?format=pjpg&auto=webp&s=d78d219bcbf2d60adbc0b6adddaf53f75ec14b7c",
+      "previewUrl": "https://external-preview.redd.it/ytBx-Jdn9oxlwFYL01g45IS4K6gkDrXzknEPXd1HkX8.png?width=640&crop=smart&format=pjpg&auto=webp&s=fef34114b7f2e749fd63671c6535c14f0c49430e",
+      "score": 336,
+      "title": "Finally finished this grung! I had people comment and say to finish the project and that they wanted to see the finished results, so here it is. Sorry if it seems like a re-post",
+      "url": "https://reddit.com/r/DnDIY/comments/i2ot4h/finally_finished_this_grung_i_had_people_comment/"
+    },
+    {
+      "date": 1596448603,
+      "id": "t3_i2oh73",
+      "picture": "https://preview.redd.it/h1nzmbq62pe51.jpg?auto=webp&s=2c496a029ca544ec5fda6519c378a5d93452d1be",
+      "previewUrl": "",
+      "score": 104,
+      "title": "After my mishap a couple weeks ago, I just finished the first tile of my new batch.",
+      "url": "https://reddit.com/r/DnDIY/comments/i2oh73/after_my_mishap_a_couple_weeks_ago_i_just/"
+    },
+    {
+      "date": 1596432892,
+      "id": "t3_i2k8u7",
+      "picture": "https://external-preview.redd.it/47wCcybAS9356K7qw5Xirt7NdzoTyg4NDZegbUcwzu4.jpg?auto=webp&s=d31a86c5581e1a4f8c3001ba3f78121032a44db6",
+      "previewUrl": "",
+      "score": 3,
+      "title": "Kickstarter - Terrain kit & Travel case, my passion project come to life!",
+      "url": "https://reddit.com/r/DnDIY/comments/i2k8u7/kickstarter_terrain_kit_travel_case_my_passion/"
+    },
+    {
       "date": 1596423609,
       "id": "t3_i2hjdq",
       "picture": "https://preview.redd.it/by57pw2vzme51.jpg?auto=webp&s=344099687b2d1552cece7f219739b93aebadbc95",
       "previewUrl": "https://preview.redd.it/by57pw2vzme51.jpg?width=640&crop=smart&auto=webp&s=2525925c683cdb8bf1e1c70c37420b81a6cd5f1c",
-      "score": 7,
+      "score": 21,
       "title": "Been experimenting with different roofs, this was inspired by Landvaettr’s Lair. It’s easy but not my favorite when finished",
       "url": "https://reddit.com/r/DnDIY/comments/i2hjdq/been_experimenting_with_different_roofs_this_was/"
     },
@@ -15,7 +78,7 @@
       "id": "t3_i2g82f",
       "picture": "https://external-preview.redd.it/rqKfKKY-1QgkDSVNo5ta9CjiCprzhnRW9M6u5fhyvAg.png?format=pjpg&auto=webp&s=e746c44198fe04855156717b36b9138c15d7b6eb",
       "previewUrl": "https://external-preview.redd.it/rqKfKKY-1QgkDSVNo5ta9CjiCprzhnRW9M6u5fhyvAg.png?width=640&crop=smart&format=pjpg&auto=webp&s=babd1d01d4f113c88b1e4cb4f19465990a485db6",
-      "score": 18,
+      "score": 56,
       "title": "Still a WIP, but I had to show you my floating Islands!! I got inspired by watching the Dragon Prince for a second time! There's bit of Xadia in that!! Any CC welcome, hope you guys enjoy it, let me know what could be a good encounter on those magic Islands!!",
       "url": "https://reddit.com/r/DnDIY/comments/i2g82f/still_a_wip_but_i_had_to_show_you_my_floating/"
     },
@@ -24,7 +87,7 @@
       "id": "t3_i29k5h",
       "picture": "https://preview.redd.it/b7aomll79ke51.jpg?auto=webp&s=dc433da2f18aa5e3d6eeea648679242a8ae2bd65",
       "previewUrl": "https://preview.redd.it/b7aomll79ke51.jpg?width=640&crop=smart&auto=webp&s=668de3e091333652e62672b7404542692aad2320",
-      "score": 541,
+      "score": 694,
       "title": "First completed wall of our D&D tavern.",
       "url": "https://reddit.com/r/DnDIY/comments/i29k5h/first_completed_wall_of_our_dd_tavern/"
     },
@@ -42,7 +105,7 @@
       "id": "t3_i246wd",
       "picture": "https://external-preview.redd.it/f6FgIGF-lDRJBp_JrDxfnohWlctgZTnCcc8NABXMsdc.png?format=pjpg&auto=webp&s=1dc420c70bd6492984842d2c720309f51680ba0f",
       "previewUrl": "https://external-preview.redd.it/f6FgIGF-lDRJBp_JrDxfnohWlctgZTnCcc8NABXMsdc.png?width=640&crop=smart&format=pjpg&auto=webp&s=812e3d6f7faf4852ae3f50e15c467bc34d6119b9",
-      "score": 461,
+      "score": 469,
       "title": "Started this frog folk mini and after not seeing many paint jobs of them I decided to make a poison dart frog themed mini. How’d I do? C&C welcome",
       "url": "https://reddit.com/r/DnDIY/comments/i246wd/started_this_frog_folk_mini_and_after_not_seeing/"
     },
@@ -51,7 +114,7 @@
       "id": "t3_i241o2",
       "picture": "https://external-preview.redd.it/LnK2Un5rEI-ZXWvvUOHm5Eap-ngB-5E7_-twFUmql2c.png?format=pjpg&auto=webp&s=c8381c70e0f26c3df11b9b129cf9a02a87c921f7",
       "previewUrl": "https://external-preview.redd.it/LnK2Un5rEI-ZXWvvUOHm5Eap-ngB-5E7_-twFUmql2c.png?width=640&crop=smart&format=pjpg&auto=webp&s=d38467e9837c39d6e005b8273125a323e552abd5",
-      "score": 8,
+      "score": 14,
       "title": "Painted this little guy earlier, he’s gonna be the Rangers companion in the campaign im in. Hopefully the ranger likes it.",
       "url": "https://reddit.com/r/DnDIY/comments/i241o2/painted_this_little_guy_earlier_hes_gonna_be_the/"
     },
@@ -78,7 +141,7 @@
       "id": "t3_i1vraj",
       "picture": "https://preview.redd.it/wrn0b7n8cfe51.jpg?auto=webp&s=7361f6bc45086da5fff655b8b285dd31b4414b78",
       "previewUrl": "https://preview.redd.it/wrn0b7n8cfe51.jpg?width=640&crop=smart&auto=webp&s=a6e9b7227cccc062ff1b085702f008e1f1f0debc",
-      "score": 230,
+      "score": 237,
       "title": "My (nearly) 6 year old son asked for his own tower and dice. We made a tower out of cardboard and have some inexpensive dice arriving from Amazon this week.",
       "url": "https://reddit.com/r/DnDIY/comments/i1vraj/my_nearly_6_year_old_son_asked_for_his_own_tower/"
     },
@@ -87,7 +150,7 @@
       "id": "t3_i1seki",
       "picture": "https://preview.redd.it/agaa2pzbaee51.jpg?auto=webp&s=7933d7e1c3b8c54d167eea1f95c84f39db3a4eba",
       "previewUrl": "https://preview.redd.it/agaa2pzbaee51.jpg?width=640&crop=smart&auto=webp&s=afb01f216d89973ff6dc4daaf15c0fe07e7c5733",
-      "score": 408,
+      "score": 404,
       "title": "Converted two pirate ship birdhouses from Michaels into a ship for D&D.",
       "url": "https://reddit.com/r/DnDIY/comments/i1seki/converted_two_pirate_ship_birdhouses_from/"
     },
@@ -96,7 +159,7 @@
       "id": "t3_i1rb3h",
       "picture": "https://preview.redd.it/pgr93agwtde51.jpg?auto=webp&s=d3c8765d901c6a6be8d4040c20f2ddd4b5ce09b2",
       "previewUrl": "https://preview.redd.it/pgr93agwtde51.jpg?width=640&crop=smart&auto=webp&s=c9c153cdd24483eb5e1f0e92edf965fa0ec729b6",
-      "score": 16,
+      "score": 19,
       "title": "DIY mushrooms for your gaming table, be sure to leave me some feedback!",
       "url": "https://reddit.com/r/DnDIY/comments/i1rb3h/diy_mushrooms_for_your_gaming_table_be_sure_to/"
     },
