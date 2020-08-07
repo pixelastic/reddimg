@@ -2,6 +2,141 @@
   "bucket": "miniatures",
   "records": [
     {
+      "date": 1596775899,
+      "id": "t3_i4zymu",
+      "picture": "https://preview.redd.it/czexhlie3gf51.jpg?auto=webp&s=f048b82a91e2c5dac905d6fe8aeec3fdfc4f5ce6",
+      "previewUrl": "https://preview.redd.it/czexhlie3gf51.jpg?width=640&crop=smart&auto=webp&s=d01254f7778a1a1481bae1071ecac51b75342f81",
+      "score": 21,
+      "title": "Show your bases some love: a PSA",
+      "url": "https://reddit.com/r/minipainting/comments/i4zymu/show_your_bases_some_love_a_psa/"
+    },
+    {
+      "date": 1596774785,
+      "id": "t3_i4zm5i",
+      "picture": "https://preview.redd.it/5e4v0arxzff51.jpg?auto=webp&s=2bd1ac9388ea4d1521ff583b964d2986043bb97d",
+      "previewUrl": "",
+      "score": 23,
+      "title": "My latest Blanchitsu creation; The Hierophant",
+      "url": "https://reddit.com/r/minipainting/comments/i4zm5i/my_latest_blanchitsu_creation_the_hierophant/"
+    },
+    {
+      "date": 1596772187,
+      "id": "t3_i4yt3z",
+      "picture": "https://preview.redd.it/v082mmvcsff51.jpg?auto=webp&s=701aaff68952400eaae604db987ffedcaf55dc19",
+      "previewUrl": "https://preview.redd.it/v082mmvcsff51.jpg?width=640&crop=smart&auto=webp&s=bb92edc2cdfc0c367fdd86ea1dd66ae1d5fd8823",
+      "score": 74,
+      "title": "Abandoned android Tau, I like to think they were abandonded on a planet and left for centuries before re-booting now overgrown and rusted",
+      "url": "https://reddit.com/r/minipainting/comments/i4yt3z/abandoned_android_tau_i_like_to_think_they_were/"
+    },
+    {
+      "date": 1596769731,
+      "id": "t3_i4y130",
+      "picture": "https://preview.redd.it/6fnx13vhjff51.jpg?auto=webp&s=eb40c784f555d209ed45b5e423ce20255fe77ecc",
+      "previewUrl": "https://preview.redd.it/6fnx13vhjff51.jpg?width=640&crop=smart&auto=webp&s=69e32119024308fa69ad273b9169ebbc721728bc",
+      "score": 26,
+      "title": "Infinity: Japanese Secessionist Army - Aragoto Hacker (C&C welcome)",
+      "url": "https://reddit.com/r/minipainting/comments/i4y130/infinity_japanese_secessionist_army_aragoto/"
+    },
+    {
+      "date": 1596769052,
+      "id": "t3_i4xss5",
+      "picture": "https://preview.redd.it/9xl0wam1jff51.jpg?auto=webp&s=b7db24b71e145863c04b24e46a0d49697e412ee5",
+      "previewUrl": "https://preview.redd.it/9xl0wam1jff51.jpg?width=640&crop=smart&auto=webp&s=0012c81fc5ea41003974e001fff531db658d9fdb",
+      "score": 34,
+      "title": "Jade Tzaangor",
+      "url": "https://reddit.com/r/minipainting/comments/i4xss5/jade_tzaangor/"
+    },
+    {
+      "date": 1596768559,
+      "id": "t3_i4xn75",
+      "picture": "https://preview.redd.it/2xbuejlygff51.jpg?auto=webp&s=cd204e806d369da327120f1c8dc252f8fb0e427e",
+      "previewUrl": "https://preview.redd.it/2xbuejlygff51.jpg?width=640&crop=smart&auto=webp&s=7fa4970b8bdd044e8443d85e28d16d8e83230481",
+      "score": 40,
+      "title": "Kuo Toa Sage I designed in ZBrush and printed in my Elegoo Mars",
+      "url": "https://reddit.com/r/minipainting/comments/i4xn75/kuo_toa_sage_i_designed_in_zbrush_and_printed_in/"
+    },
+    {
+      "date": 1596766177,
+      "id": "t3_i4wv8q",
+      "picture": "https://preview.redd.it/so4lp5fg8ff51.jpg?auto=webp&s=248d624cdfa9b53b193db445bf675815aeacad3a",
+      "previewUrl": "https://preview.redd.it/so4lp5fg8ff51.jpg?width=640&crop=smart&auto=webp&s=529335f0218d178858e61307040118e048653107",
+      "score": 21,
+      "title": "Heeere's Johnny! - Kobold Fighter - Stonehaven Miniatures",
+      "url": "https://reddit.com/r/minipainting/comments/i4wv8q/heeeres_johnny_kobold_fighter_stonehaven/"
+    },
+    {
+      "date": 1596764389,
+      "id": "t3_i4wayi",
+      "picture": "https://preview.redd.it/u0ou5s065ff51.jpg?auto=webp&s=eed5553321c4d140a4aaf0b5ed7828e72b76035d",
+      "previewUrl": "https://preview.redd.it/u0ou5s065ff51.jpg?width=640&crop=smart&auto=webp&s=1bfc177fe7c4afe64b6fad2b95721a471df4772e",
+      "score": 12,
+      "title": "Byakhee from Cthulhu : Death may Die",
+      "url": "https://reddit.com/r/minipainting/comments/i4wayi/byakhee_from_cthulhu_death_may_die/"
+    },
+    {
+      "date": 1596764252,
+      "id": "t3_i4w9dt",
+      "picture": "https://preview.redd.it/jvibtwuq4ff51.jpg?auto=webp&s=55a12b520e397a191b33cb7c3cf15ffb284e2519",
+      "previewUrl": "https://preview.redd.it/jvibtwuq4ff51.jpg?width=640&crop=smart&auto=webp&s=7586d21c17ddb355e2bcb5a97793d87529df3b21",
+      "score": 18,
+      "title": "ZOINKS! Ghosts Scoobs! What are we gonna do!",
+      "url": "https://reddit.com/r/minipainting/comments/i4w9dt/zoinks_ghosts_scoobs_what_are_we_gonna_do/"
+    },
+    {
+      "date": 1596763337,
+      "id": "t3_i4vyvr",
+      "picture": "https://preview.redd.it/jcygpbr12ff51.jpg?auto=webp&s=4e1ce7f125ae496ebcba1538cd542524879e1a8b",
+      "previewUrl": "https://preview.redd.it/jcygpbr12ff51.jpg?width=640&crop=smart&auto=webp&s=c5416947229002935c02ec1a91a76354c8c0ed9c",
+      "score": 36,
+      "title": "First Lumineth ready for the table!",
+      "url": "https://reddit.com/r/minipainting/comments/i4vyvr/first_lumineth_ready_for_the_table/"
+    },
+    {
+      "date": 1596759161,
+      "id": "t3_i4un5z",
+      "picture": "https://preview.redd.it/m12xn4rmpef51.jpg?auto=webp&s=83f90d64d21d1e8fbafd9df754bdfeb97aba0e6c",
+      "previewUrl": "https://preview.redd.it/m12xn4rmpef51.jpg?width=640&crop=smart&auto=webp&s=57347a2ecf1de73c7d642b0e8c2b322c1e15fa74",
+      "score": 22,
+      "title": "Alicia from Hasslefree Miniatures",
+      "url": "https://reddit.com/r/minipainting/comments/i4un5z/alicia_from_hasslefree_miniatures/"
+    },
+    {
+      "date": 1596757798,
+      "id": "t3_i4u7za",
+      "picture": "https://external-preview.redd.it/tWd7kpo1PoNC6QBTmXeilRazsd2eDzvxb5WcKxG_aYg.png?format=pjpg&auto=webp&s=bc66a03350d2be959d8cac436f71ee2b7c14bcc6",
+      "previewUrl": "https://external-preview.redd.it/tWd7kpo1PoNC6QBTmXeilRazsd2eDzvxb5WcKxG_aYg.png?width=640&crop=smart&format=pjpg&auto=webp&s=3a30492731398da68055afc2e07ed8e9db14c71a",
+      "score": 58,
+      "title": "Judge Judi",
+      "url": "https://reddit.com/r/minipainting/comments/i4u7za/judge_judi/"
+    },
+    {
+      "date": 1596744361,
+      "id": "t3_i4qlt8",
+      "picture": "https://preview.redd.it/9zbyyco3hdf51.jpg?auto=webp&s=725bf1e5fb33eead7e9255382b04cff53d6b910b",
+      "previewUrl": "https://preview.redd.it/9zbyyco3hdf51.jpg?width=640&crop=smart&auto=webp&s=8d1d3ef6ca82840298d1d306ba4460131c16ea56",
+      "score": 2169,
+      "title": "My small painting setup (mobile since I don't have a dedicated painting space) - cat storage for my two assistants included.",
+      "url": "https://reddit.com/r/minipainting/comments/i4qlt8/my_small_painting_setup_mobile_since_i_dont_have/"
+    },
+    {
+      "date": 1596744010,
+      "id": "t3_i4qiny",
+      "picture": "https://external-preview.redd.it/djk6N0DN85KCwBqC3NUEEsaYrenIl8Efk10fP151lWw.jpg?auto=webp&s=891595b0fff8ca098a374bc55ad6263b7b3a2a8e",
+      "previewUrl": "https://external-preview.redd.it/djk6N0DN85KCwBqC3NUEEsaYrenIl8Efk10fP151lWw.jpg?width=640&crop=smart&auto=webp&s=7f3c97cc8208c3c2ad3d423b5bc7c567552289c5",
+      "score": 38,
+      "title": "Painted my first Necron! The skorpekh lord is such an impressive model. First time painting a power weapon also, pleased with the result :)",
+      "url": "https://reddit.com/r/minipainting/comments/i4qiny/painted_my_first_necron_the_skorpekh_lord_is_such/"
+    },
+    {
+      "date": 1596737013,
+      "id": "t3_i4p1at",
+      "picture": "https://preview.redd.it/hm9877xrvcf51.jpg?auto=webp&s=1251d1e1dd94fe560da8a597fd7d9294e88bcb8d",
+      "previewUrl": "https://preview.redd.it/hm9877xrvcf51.jpg?width=640&crop=smart&auto=webp&s=62464f769a692b5ad8e1783b2fd034bad1bb53a3",
+      "score": 188,
+      "title": "\"Sick 'em, Fluffy!\"",
+      "url": "https://reddit.com/r/minipainting/comments/i4p1at/sick_em_fluffy/"
+    },
+    {
       "date": 1596698878,
       "id": "t3_i4geb8",
       "picture": "https://preview.redd.it/73j0yiecq9f51.jpg?auto=webp&s=81ad5010d4afb66515a11b3e8eba685e15f94896",
@@ -69,7 +204,7 @@
       "id": "t3_i4acm6",
       "picture": "https://preview.redd.it/fqn68wnp48f51.jpg?auto=webp&s=6bb13f7b0248cd9d77da49a657e20f5dca26c9ba",
       "previewUrl": "https://preview.redd.it/fqn68wnp48f51.jpg?width=640&crop=smart&auto=webp&s=ef4ad6800ec0f33e8bff57f6083b9b618b880938",
-      "score": 525,
+      "score": 1862,
       "title": "I painted this but it just looks like garbage...",
       "url": "https://reddit.com/r/minipainting/comments/i4acm6/i_painted_this_but_it_just_looks_like_garbage/"
     },
@@ -2850,7 +2985,7 @@
       "id": "t3_hv1qvz",
       "picture": "https://external-preview.redd.it/kmWPr_kQTObijBtCt0e6PK8Vw_1zbr4yJ9TlG9hXbGs.jpg?auto=webp&s=eecb70f371b1b19dee6fd331dfe8da7ef6dde020",
       "previewUrl": "https://external-preview.redd.it/kmWPr_kQTObijBtCt0e6PK8Vw_1zbr4yJ9TlG9hXbGs.jpg?width=640&crop=smart&auto=webp&s=94ba5ed6971a899057f05fa639b7ca0813ed071a",
-      "score": 72,
+      "score": 75,
       "title": "New tool in the sidebar: The Paint Converter!",
       "url": "https://reddit.com/r/minipainting/comments/hv1qvz/new_tool_in_the_sidebar_the_paint_converter/"
     },
