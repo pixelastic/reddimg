@@ -2,11 +2,74 @@
   "bucket": "terrain",
   "records": [
     {
+      "date": 1596874607,
+      "id": "t3_i5pdp8",
+      "picture": "https://preview.redd.it/c8pdvplw8of51.jpg?auto=webp&s=8895a0804307b9269825216e548198a972c3bd5b",
+      "previewUrl": "https://preview.redd.it/c8pdvplw8of51.jpg?width=640&crop=smart&auto=webp&s=b4581d1452f30be54784df886621eb211ff86498",
+      "score": 2,
+      "title": "There's something wrong with my eyes. I look at garbage and I see things to build",
+      "url": "https://reddit.com/r/DnDIY/comments/i5pdp8/theres_something_wrong_with_my_eyes_i_look_at/"
+    },
+    {
+      "date": 1596874119,
+      "id": "t3_i5p8qw",
+      "picture": "https://external-preview.redd.it/eCGUL9D9kwzu-t0-WhqmLgsVXhlWlv0eOb0lPJ7Up2A.jpg?auto=webp&s=2cd89e356049d24a0e418a3fcc7c0982ff5a6284",
+      "previewUrl": "",
+      "score": 1,
+      "title": "Dice bags for my whole party",
+      "url": "https://reddit.com/r/DnDIY/comments/i5p8qw/dice_bags_for_my_whole_party/"
+    },
+    {
+      "date": 1596872554,
+      "id": "t3_i5ott0",
+      "picture": "https://preview.redd.it/jiegxi1t2of51.jpg?auto=webp&s=5a35ce708c21dba7d8dfe84ce69c8900e8fcc791",
+      "previewUrl": "https://preview.redd.it/jiegxi1t2of51.jpg?width=640&crop=smart&auto=webp&s=775624c0d1269994758f85f7480e98b7e6b78260",
+      "score": 1,
+      "title": "A Treant I finished in front of an old painting I did. Kinda looks like he's stepping out of the painting.",
+      "url": "https://reddit.com/r/DnDIY/comments/i5ott0/a_treant_i_finished_in_front_of_an_old_painting_i/"
+    },
+    {
+      "date": 1596870009,
+      "id": "t3_i5o4tt",
+      "picture": "https://preview.redd.it/vwqla74yunf51.png?auto=webp&s=24ec3039058c839e4c3dece77f796b433bbf7277",
+      "previewUrl": "https://preview.redd.it/vwqla74yunf51.png?width=640&crop=smart&auto=webp&s=d9bda303c4ea31bb4be14b27205da2d4f2bbc5b0",
+      "score": 2,
+      "title": "My first time using zenithal prime. I created this monster in Zbrush2020 and my son name it [link][free]",
+      "url": "https://reddit.com/r/DnDIY/comments/i5o4tt/my_first_time_using_zenithal_prime_i_created_this/"
+    },
+    {
+      "date": 1596866140,
+      "id": "t3_i5n0fm",
+      "picture": "https://external-preview.redd.it/4-JHlsSFRm2R35B3e1O9SJwngYecwszwaDCpCoK2y1k.png?format=pjpg&auto=webp&s=7141fa7da91d430f1bb0c980cda8dcbc293cac97",
+      "previewUrl": "https://external-preview.redd.it/4-JHlsSFRm2R35B3e1O9SJwngYecwszwaDCpCoK2y1k.png?width=640&crop=smart&format=pjpg&auto=webp&s=43c22aed002968450c2304ccad41529a3ce43d90",
+      "score": 203,
+      "title": "It’s not Wyrmwood, but I feel I did well.",
+      "url": "https://reddit.com/r/DnDIY/comments/i5n0fm/its_not_wyrmwood_but_i_feel_i_did_well/"
+    },
+    {
+      "date": 1596849016,
+      "id": "t3_i5hpic",
+      "picture": "https://preview.redd.it/6naj44ft4mf51.jpg?auto=webp&s=b7e25f0bf6accf01c46f73f21fdf36bb37eeb79c",
+      "previewUrl": "https://preview.redd.it/6naj44ft4mf51.jpg?width=640&crop=smart&auto=webp&s=55f27f31a032ebc9b76bdedfc4268fd160830954",
+      "score": 26,
+      "title": "Why spend $10 on a shambling mound mini when you can make one for 25 cents?",
+      "url": "https://reddit.com/r/DnDIY/comments/i5hpic/why_spend_10_on_a_shambling_mound_mini_when_you/"
+    },
+    {
+      "date": 1596826005,
+      "id": "t3_i5bm96",
+      "picture": "https://preview.redd.it/142vtiua8kf51.png?auto=webp&s=42d6b6e7b08c3db995c6d9194b887ce67bfc6bd4",
+      "previewUrl": "https://preview.redd.it/142vtiua8kf51.png?width=640&crop=smart&auto=webp&s=80bb3c5606245104f92dba6cf0ea7f3f501c296d",
+      "score": 212,
+      "title": "Mullet Thug - free .stl in comments",
+      "url": "https://reddit.com/r/DnDIY/comments/i5bm96/mullet_thug_free_stl_in_comments/"
+    },
+    {
       "date": 1596761790,
       "id": "t3_i4vgvg",
       "picture": "https://preview.redd.it/6v9egk6gxef51.jpg?auto=webp&s=979d05cff00c8b161ccf38efe2d39b59ab7932a8",
       "previewUrl": "https://preview.redd.it/6v9egk6gxef51.jpg?width=640&crop=smart&auto=webp&s=8388acf15ba43e342f6ad18feb949f5c196d5018",
-      "score": 73,
+      "score": 645,
       "title": "My first mini-diorama in a jar - An adventuring bard looking for their next job. A present for my parents.",
       "url": "https://reddit.com/r/DnDIY/comments/i4vgvg/my_first_minidiorama_in_a_jar_an_adventuring_bard/"
     },
@@ -15,7 +78,7 @@
       "id": "t3_i4tfuv",
       "picture": "https://external-preview.redd.it/I1hfMoBZNs2E7gT4flymbYqV1kAD__woENgq0vv5MF4.jpg?auto=webp&s=cd809c9774b8ea527a1e5765ea99d9cddf52ecad",
       "previewUrl": "",
-      "score": 6,
+      "score": 7,
       "title": "Crafting ruined tower terrain for my tabletop dnd",
       "url": "https://reddit.com/r/DnDIY/comments/i4tfuv/crafting_ruined_tower_terrain_for_my_tabletop_dnd/"
     },
@@ -24,7 +87,7 @@
       "id": "t3_i4qnip",
       "picture": "https://preview.redd.it/b9025yp0idf51.jpg?auto=webp&s=93bd358ffed813ff39090dd2b084425053aca26c",
       "previewUrl": "https://preview.redd.it/b9025yp0idf51.jpg?width=640&crop=smart&auto=webp&s=c7494de6f2ab46fb8c4e54689e9d01730349a699",
-      "score": 4,
+      "score": 5,
       "title": "Quick tip video about sculpting smooth flat surfaces and crisp edges for minis and conversions [Link in comments]",
       "url": "https://reddit.com/r/DnDIY/comments/i4qnip/quick_tip_video_about_sculpting_smooth_flat/"
     },
@@ -33,7 +96,7 @@
       "id": "t3_i4pmdh",
       "picture": "https://preview.redd.it/vtoninsm4df51.jpg?auto=webp&s=2a13e76d874725adcf9fcd3e2efaa567aa56fda9",
       "previewUrl": "https://preview.redd.it/vtoninsm4df51.jpg?width=640&crop=smart&auto=webp&s=36311a85e07ebaae0d578e4aabc75af505c37329",
-      "score": 439,
+      "score": 532,
       "title": "Inch by inch dot grid on acetate to lay over printed maps. Mark this one under 'so obvious I cannot believe I didn't think of it before' :P",
       "url": "https://reddit.com/r/DnDIY/comments/i4pmdh/inch_by_inch_dot_grid_on_acetate_to_lay_over/"
     },
@@ -51,7 +114,7 @@
       "id": "t3_i4f7ir",
       "picture": "https://external-preview.redd.it/yfXbeKWVT3Ao639HiuCXlmzNZxnp9lKjweMwQgX8ito.jpg?auto=webp&s=162b54127cae5acaff0d8935538edbbf7fde9148",
       "previewUrl": "https://external-preview.redd.it/yfXbeKWVT3Ao639HiuCXlmzNZxnp9lKjweMwQgX8ito.jpg?width=640&crop=smart&auto=webp&s=a3bf70b9e7d6c863b03a2f8c97d47a1cab6ac74a",
-      "score": 2,
+      "score": 3,
       "title": "DIY job board postings from Dragon og Icespire Peak",
       "url": "https://reddit.com/r/DnDIY/comments/i4f7ir/diy_job_board_postings_from_dragon_og_icespire/"
     },
@@ -69,7 +132,7 @@
       "id": "t3_i46clk",
       "picture": "https://external-preview.redd.it/sxFveeLP-Sqyr-s0RKUTDC18sbvIrNCK56koCPyVIEo.jpg?auto=webp&s=09a92b3ed2917defcb044b6fd1e4455c3deb2049",
       "previewUrl": "https://external-preview.redd.it/sxFveeLP-Sqyr-s0RKUTDC18sbvIrNCK56koCPyVIEo.jpg?width=640&crop=smart&auto=webp&s=1a471ccf32c7287b5f5383aa8ff9e48dfe8a3081",
-      "score": 648,
+      "score": 643,
       "title": "Mini and Duo Spell/HP tracker in Purpleheart",
       "url": "https://reddit.com/r/DnDIY/comments/i46clk/mini_and_duo_spellhp_tracker_in_purpleheart/"
     },
